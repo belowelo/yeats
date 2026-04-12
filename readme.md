@@ -20,7 +20,7 @@ The process, as documented in the demonstration below, should be reproducible wi
 
 - **Step 1:** Download [Obsidian]()
 
-- **Step 2:** Apply for a [KCI API key](https://www.kci.go.kr/kciportal/po/openapi/openApiKeyRequest.kci)  
+- **Step 2:** Apply for a [KCI API key](https://www.kci.go.kr/kciportal/po/openapi/openApiKeyRequest.kci), then copy-paste it into the ".env" in /scripts using a text editor
 
 - **Step 3:** In the /data directory, edit "config.yaml", "works.csv", and "stopwords.txt"
 
