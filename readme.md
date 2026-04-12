@@ -42,44 +42,44 @@ This study is a qualitative complication of existing quantitative and comparison
 
 - Corpus Selection
 
-	The research pipeline collates search-term result data in the form of titles, abstracts, publications, and author names from OpenAlex (a public-access research database without institutional access requirements) and KCI's Open API protocol, and processes this data into a navigable Obsidian vault.
+The research pipeline collates search-term result data in the form of titles, abstracts, publications, and author names from OpenAlex (a public-access research database without institutional access requirements) and KCI's Open API protocol, and processes this data into a navigable Obsidian vault.
 
-	The research motive has two internal limitations that we weren't able to completely overcome, but should be negligible for most usecases. 
+The research motive has two internal limitations that we weren't able to completely overcome, but should be negligible for most usecases. 
 
-	The first is the infeasibility of defining, let alone completely parsing out the scope of which kinds of 'non-KCI' research we would like to collate. For simplicity of LDA topic modeling, the pipeline is currently configured to parse out non-English research languages.^[The resulting dataset is currently labeled 'Anglophone,' given that English-language publications within the sample research domain were predominantly from anglophone research institutions. The label itself may potentially be inaccurate or misleading, depending on the research domain.] 
+The first is the infeasibility of defining, let alone completely parsing out the scope of which kinds of 'non-KCI' research we would like to collate. For simplicity of LDA topic modeling, the pipeline is currently configured to parse out non-English research languages.^[The resulting dataset is currently labeled 'Anglophone,' given that English-language publications within the sample research domain were predominantly from anglophone research institutions. The label itself may potentially be inaccurate or misleading, depending on the research domain.] 
 
-	The second is the potential abundance of false positives within a given research domain (for example, W.B. Yeats vs. the YEATS protein domain in biology). A false-positives.txt is included to identify any negative search terms that might assist in removing false positives from data harvestation, although this has proven not to be 100% effective.
+The second is the potential abundance of false positives within a given research domain (for example, W.B. Yeats vs. the YEATS protein domain in biology). A false-positives.txt is included to identify any negative search terms that might assist in removing false positives from data harvestation, although this has proven not to be 100% effective.
 
 -  Topic Modelling + Multi-Tagging + Vocabulary Probing
 
-	LDA (latent Dirichlet allocation) is a statistical model that identifies 'topics' from probability distributions within a given text sample's vocabulary. 
+LDA (latent Dirichlet allocation) is a statistical model that identifies 'topics' from probability distributions within a given text sample's vocabulary. 
 
-	The research pipeline identifies 10 distinct 'topics' across the sum of every abstract within the dataset, in the form of a list of words that tend to appear together in 'clusters'. Each paper abstract receives, in turn, a label for all the topic(s) to which it substantially contributed (above a given threshold).  
+The research pipeline identifies 10 distinct 'topics' across the sum of every abstract within the dataset, in the form of a list of words that tend to appear together in 'clusters'. Each paper abstract receives, in turn, a label for all the topic(s) to which it substantially contributed (above a given threshold).  
 
-	LDA was selected over other topic models for the purposes of this project for its portability and accessibility (anyone should be able to reproduce the process on any machine). More advanced topic models which utilize neural learning (for example, BERTopic) may be more robust, but often at the cost of rendering the methodology inaccessible and opaque. The straightforwardly computational nature of LDA is much easier to audit by-hand for the purposes of qualitative review. (See more in the disclosure section below.)
+LDA was selected over other topic models for the purposes of this project for its portability and accessibility (anyone should be able to reproduce the process on any machine). More advanced topic models which utilize neural learning (for example, BERTopic) may be more robust, but often at the cost of rendering the methodology inaccessible and opaque. The straightforwardly computational nature of LDA is much easier to audit by-hand for the purposes of qualitative review. (See more in the disclosure section below.)
 
-	Following LDA, the research pipeline also includes a 'vocabulary probe' stage, which allows the researcher to count the occurrence of a given set of words across each corpus and topic (through a simple substring-matching search), to answer any questions about divergent vocabulary use between corpora that may emerge while reviewing the results of the LDA. 
+Following LDA, the research pipeline also includes a 'vocabulary probe' stage, which allows the researcher to count the occurrence of a given set of words across each corpus and topic (through a simple substring-matching search), to answer any questions about divergent vocabulary use between corpora that may emerge while reviewing the results of the LDA. 
 
 - Output Format
 
-	Obsidian is a free note-taking software with built-in cross-linking capability (like the links in Wikipedia to other Wikipedia articles) between notes within the database, or "vault."
+Obsidian is a free note-taking software with built-in cross-linking capability (like the links in Wikipedia to other Wikipedia articles) between notes within the database, or "vault."
 
-	The research pipeline creates an Obsidian vault that contains every abstract as its own document, as well as quantitative analysis documents for each LDA topic strand.
+The research pipeline creates an Obsidian vault that contains every abstract as its own document, as well as quantitative analysis documents for each LDA topic strand.
 
-	![](attachments/2.png)
+The analysis documents for each topic strand contains: 
 
-	The analysis documents for each topic strand contains: 
+1) an overview of how much of each corpus (in percentages) is represented in the topic strand;
+2) an overview of topic strand overlap, by corpus;
+3) the results of the user-assigned vocabulary probe;
+4) all the abstracts tagged with the topic strand, organized chronologically and by corpus.
+   
+![](attachments/2.png)
 
-	1) an overview of how much of each corpus (in percentages) is represented in the topic strand;
-	2) an overview of topic strand overlap, by corpus;
-	3) the results of the user-assigned vocabulary probe;
-	4) all the abstracts tagged with the topic strand, organized chronologically and by corpus. 
-
-	Obsidian also natively handles data-visualization of these interlinked documents in the form of a node-graph (as illustrated below.) 
+Obsidian also natively handles data-visualization of these interlinked documents in the form of a node-graph (as illustrated below.) 
 
 ![](attachments/3.png)
 
-	Each note (in our case, a document) is a circle (node), which connects to other circles via a line if it contains a link to it. A given node grows larger if more nodes connect to it, and each connection has a gravitational 'pull,' which allows us to visualize, for example, which 'topic strands' (red) are more often mentioned within the KCI corpus data (yellow) vs. the Anglophone corpus (purple) by virtue of asking "which red circle (topic) is closer to all the yellow (KCI abstracts) and further from all the purple (OpenAlex abstracts)?"
+Each note (in our case, a document) is a circle (node), which connects to other circles via a line if it contains a link to it. A given node grows larger if more nodes connect to it, and each connection has a gravitational 'pull,' which allows us to visualize, for example, which 'topic strands' (red) are more often mentioned within the KCI corpus data (yellow) vs. the Anglophone corpus (purple) by virtue of asking "which red circle (topic) is closer to all the yellow (KCI abstracts) and further from all the purple (OpenAlex abstracts)?"
 
  - Sample Size
  
@@ -123,6 +123,7 @@ Yeats was therefore selected as the demonstrative use-case of the study, as this
 | 1     | Memory, Critical, Year         | 14.3%    | 23.8%   | 0.60x | OA  |
 | 2     | Spenser, Celtic, Joyce         | 5.6%     | 9.4%    | 0.60x | OA  |
 | 4     | Translation, Art, Form         | 10.4%    | 21.2%   | 0.49x | OA  |
+
 Topic Distributions of Yeats Studies, KCI and OpenAlex (Anglophone)
 (Some papers were identified as contributing significantly to two or more topics.)
 
@@ -157,7 +158,9 @@ This divide is most evident in the visible Anglophone-KCI split amongst abstract
 | Self, Byzantium, Art, Human, Unity      | 9.8%  | 12.9% | 8.4%  | KCI  |
 | Love, Gonne, Maud, Beckett, Woman       | 9.8%  | 12.9% | 8.4%  | KCI  |
 | Spenser, Celtic, Joyce, Twilight, Wilde | 5.3%  | 2.0%  | 6.8%  | OA   |
- The Anglophone corpus discusses, visibly, Yeats's relationship to "Culture, Nationalism, Identity" (topic 0) most through his social and political personhood, as well as his historical-social position in the Modernist milieu as an aesthete. The KCI corpus, on the other hand, trends toward identifying his culture and national identity through the framework of his internal, private personhood.
+
+The Anglophone corpus discusses, visibly, Yeats's relationship to "Culture, Nationalism, Identity" (topic 0) most through his social and political personhood, as well as his historical-social position in the Modernist milieu as an aesthete. The KCI corpus, on the other hand, trends toward identifying his culture and national identity through the framework of his internal, private personhood.
+
 #### vocabulary probes: nationalism and reactionary politics
 
 This distinction manifests most clearly in the discussion of Yeats's later-life turn towards reactionary politics. 
@@ -240,12 +243,21 @@ This research complies with the NRF (한국연구재단)'s guidelines on generat
 ---
 
 최희섭, "한국예이츠저널 수록논문의 국내문헌 인용 고찰," *한국예이츠저널 (Yeats Journal of Korea)*, 2006
+
 Balázs, "Yeats's Queer Dramaturgies: Oscar Wilde, Narcissus, and Melancholy Masculinities in Calvary," 2020
+
 Yang, Kiduk, et al., citation gap study, *JISTAP* 9.3
+
 Dwan, David, "Important Nonsense: Yeats and Symbolism," *New Literary History*, 2019
+
 Howes, Marjorie, "The Rule of Kindred: Eugenics, Purgatory, and Yeats's Race Philosophy," 1996
+
 Pocock, Stephanie J., "Artistic Liminality, Yeats's Cathleen ni Houlihan and Purgatory," *New Hibernia Review*
+
 O'Brien, Conor Cruise, "Passion and Cunning: An Essay on the Politics of W. B. Yeats," 1965
+
 김주성, "Postcolonial Approach to Yeats's Poems," *한국예이츠저널 (Yeats Journal of Korea)*, 2005
+
 Howes, Marjorie, "Yeats and the Postcolonial," 2006
+
 주미란, computational study of KCI Yeats research corpora, *한국예이츠저널 (Yeats Journal of Korea)*, 2021
