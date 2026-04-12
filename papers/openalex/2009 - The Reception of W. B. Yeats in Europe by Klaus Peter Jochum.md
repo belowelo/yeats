@@ -1,0 +1,27 @@
+---
+title: "The Reception of W. B. Yeats in Europe by Klaus Peter Jochum"
+authors: ["Mark Nixon"]
+year: 2009
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.1353/mlr.2009.0016"
+journal: "The Modern Language Review"
+strands:
+  - "[[Social, Self, Political, Myth, MacNeice]]"
+  - "[[Eliot, Modernism, Modernist, Century, Pound]]"
+  - "[[Translation, Art, Form, Lyric, Experience]]"
+strand_probs:
+  Social, Self, Political, Myth, MacNeice: 0.51
+  Eliot, Modernism, Modernist, Century, Pound: 0.238
+  Translation, Art, Form, Lyric, Experience: 0.21
+probe_matches: ["politic", "reception"]
+works_discussed: []
+---
+
+## Abstract
+
+1128 Reviews incarnation sets out the concepts which will be deftly applied in the following chapters. The mid-section study of epiphanies and interiormonologue as mani festations ofmeaning and of being in both writers is themost convincing and enlightening. O'Sullivan cogently states that 'Joyceprivileges the interhuman event, not by naturalistically detailing tics of conversation, but, by plumbing the depths of interiority for a shared "corporeity within"' (p. 67). As in Pierce, Modernist writing is interpreted in terms of a new covenant, of a desire tomake writing a "form of life'" (p. 56).What Beckett saw in Joyceand in Proust is developed into a coherent reinterpretation of incarnation which sheds light on writing's capacity to reveal the 'thing itself, the 'immediate mediation that is the essential matter of human beings' (Agamben, quoted inO'Sullivan, p. 56). The implications of the ideas propounded in this book will no doubt trigger further investigations, but in themselves theyprovide a verywelcome philosophical reading of Proust, Joyce,and Modernism. Magdalene College, Cambridge Hugues Azerad The Reception ofW. B. Yeats inEurope. Ed. by Klaus Peter Jochum. London: Continuum. 2006. xxxvi+359 pp. ?160. ISBN 978-0-8264-5963-3. In his 1934 survey 'Recent Irish Poetry' Beckett places W. B. Yeats at thehead of the Celtic antiquarians' resisting European Modernism. While this judgment neglects to consider Yeats's latervolumes ofwriting, itreflects awidely held belief thatYeats preferred to engage with traditional Irish culture rather than European modernity. As The Reception ofW. B. Yeats (part of theAthlone Critical Traditions' series of 'The Reception of British and IrishAuthors inEurope') reveals, this is an issue that fundamentally influenced, at times even determined, the reception ofYeats's work by reviewers, translators, and academics in Europe. IfYeats was only marginally (although at times crucially) influenced by European culture, then in turnhis work was not afforded the same kind of reception given towriters such as Joyceor Beckett. The fourteen essays of this volume, scrupulously edited by Klaus Peter Jochum, chart thehistorical reception ofYeats's work by analysing theway it was transmitted and received in reviews, translations, performances, and scholarly studies across Europe. As with previous volumes in the series, the essays collected here draw attention to a general tension between documentary and interpretative approaches within reception studies. Most of the contributions in The Reception ofW. B. Yeats fall into the former category. However, the attempt to cover all aspects of Yeats's reception comprehensively within specific territories effectivelydrowns out any cri tical engagement with the specific and general problems underlying the dynamics of cultural exchange?or perhaps inYeats's case, the lack thereof. While Jochum's introduction does well to outline the cultural, political, and tex tual difficulties posed byYeats's work, few contributors offera sustained analysis of the relative absence of amore generous reception ofhis oeuvre (especially as regards performances of his plays). It isperhaps unsurprising that essays concentrating on specific aspects of the reception history yield more interesting discussions, for the MLR, 104.4, 2009 1129 simple reason that theyhave room to address thequestion ofwhy rather than simply stating thewho, where, and when. Thus Jacqueline Hurtley has interesting things to say about theway inwhich Catalan, Galician, and Basque communities appropri ated Cathleen niHoulihan in translations and performances between 1920 and 1936, thus connecting Yeats's own national ideals to an aspired cultural independence within these Iberian regions. Similarly, Jochum's analysis of theGerman reception is illuminating, in that he argues that the lack of overall engagement with Yeats's work was partly due to theuneven quality of translations byHerbert E. Herlitschka, who acquired the exclusive German translation rights as early as 1928 and retained them until the late 1960s. Carle Bonafous-Murat perceptively examines themerits and demerits ofvarious French translators (especially Yves Bonnefoy), and shrewdly remarks thatYeats's reception was subject to the changing attitudes toMallarme. Roger Keys astutely outlines theway early Russian symbolists engaged with Yeats. But on thewhole this reader lamented the absence of any reception theories (even ifonly Jauss's concept of Erwartungshorizonte, the 'horizons of expectation' thatgovern theway inwhich texts are culturally appropriated) within these essays, as the paucity of reception (forwhatever reason) is just as telling as a more suc cessful reception when analysing theway...
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

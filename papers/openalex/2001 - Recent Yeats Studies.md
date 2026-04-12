@@ -1,0 +1,23 @@
+---
+title: "Recent Yeats Studies"
+authors: ["Daniel T. O'Hara"]
+year: 2001
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.1353/jml.2001.0010"
+journal: "Journal of Modern Literature"
+strands:
+  - "[[Memory, Critical, Year, Scholar, Time]]"
+strand_probs:
+  Memory, Critical, Year, Scholar, Time: 0.726
+probe_matches: []
+works_discussed: []
+---
+
+## Abstract
+
+Recent Yeats Studies Daniel T. O'Hara (bio) Brown, Terence. The Life of W.B. Yeats. Blackwell Critical Biographies. Blackwell, 1999, 2000. 410 + xiii pp. No price listed. Clark, David R., and Rosalind E. Clark, eds. The Collected Works of W.B. Yeats, Vol. II: The Plays. Scribner, 2001. 956 pp. $70.00. Finneran, Richard J. ed. Yeats: An Annual of Critical and Textual Studies, XVI, 1998. University of Michigan Press, 2001. 294 + xv pp. No price listed. Fleming, Deborah. W.B. Yeats and Postcolonialism. Locust Hill Press, 2000. xxxii + 338 pp. $45.00. Graf, Susan Johnston. W.B. Yeats—Twentieth-Century Magus: An In-Depth Study of Yeats's Esoteric Practices and Beliefs, Including Excerpts From His Magical Diaries. Samuel Weiser, Inc., 2000. viii + 223 pp. $14.95 paper. Harper, George Mills and Margaret Mills Harper, Assisted by Richard W. Stoops, Jr. Yeats's Vision Papers, Vol. 4. Palgrave, 2001. xiv + 276 pp. $75.00. Matthews, Steven. Yeats as Precursor: Readings in Irish, British, and American Poetry. St. Martin's Press, 2000. vii + 238 pp. $59.95. Pethica, James, ed. Yeats's Poetry, Drama, and Prose: Authoritative Texts, Contexts, Criticism. A Norton Critical Edition. W.W. Norton and Co., 2000. xv + 518 pp. No Price listed. These eight recent publications pretty well represent the range and divisions of Yeats studies. The most effective approaches to Yeats and his work have always included, as here, fine examples of literary biography, textual scholarship (including editions and manuscript facsimiles), literary analysis or close reading, critical theory, and occult studies. My own work on Yeats is cited favorably several times as both analysis and theory in Finneran and Matthews, which fact is naturally rather gratifying. As one might expect, the most important [End Page 518] of these volumes is the edition, by the Clarks, of The Plays, Volume II of The Collected Works. (Nine of the projected fourteen volumes, including Volume I, The Poems, are currently available). The most idiosyncratic of these studies is Graf's, as her unusual title might suggest. The other six, more conventional publications are competent to superior instances of work in this field of modern English studies. Terrence Brown's biography suffers from comparison with R.F. Foster's magisterial study of the life, the first volume of which, The Apprentice Mage, was published in 1997 to great acclaim, and the second volume of which, it is anticipated, should establish the entire work as the literary biography of our time, when it appears a few years from now. Despite this bad timing, Brown's study is readable, well-informed, and useful. Although there is no information in it that Foster hasn't already provided the Yeatsian, for a more general audience, Brown's book should do just fine. Its one drawback is that unlike Foster's book, which marshals evidence, offers interpretation, and leaves it to the reader to draw conclusions, Brown's puts forward its judgments more self-consciously and argumentatively, as the first page of the Preface makes clear. After noting the origins of the project in a suggestion from Claude Rawson, who is the general editor of this series of biographies, Brown remarks that the occasion for the suggestion was a conference in the early 1990s at Yale University on "Joyce and History," which he claims marked a welcome change from "the theoretical turn" in literary study of the 1970s and 1980s in "North America." This latest development of a New Historicism, whatever it may have done for Joyce, Brown contends that it has definitely established that Yeats's "historical imagination" "could never be completely detached, even by the most determined New Critic or Deconstructionist," from its contexts in Ireland and Britain. Brown's view is thus really confused about his chosen enemies and his chosen savior. Neither "the most determined New Critic" and "Deconstructionist," such as R.P. Blackmur and Paul de Man, respectively, would ever ignore Yeats's "historical imagination." They would instead see it operating in the service of a modern principle of aesthetic unity, or its ironic antithesis, in subtle ways that inform and shape the comparatively inchoate contexts that Yeats's works finally revise and transfigure. And "New Historicism," as...
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

@@ -1,0 +1,212 @@
+{
+  "corpus_sizes": {
+    "KCI": 413,
+    "angl": 1388
+  },
+  "baseline": {
+    "KCI": 22.9,
+    "angl": 77.1
+  },
+  "topics": [
+    {
+      "topic_id": 6,
+      "name": "Symbol, World, Vision, Woman, Life",
+      "total": 394,
+      "corpora": {
+        "KCI": {
+          "count": 174,
+          "pct_of_corpus": 42.1,
+          "pct_of_topic": 44.2
+        },
+        "angl": {
+          "count": 220,
+          "pct_of_corpus": 15.9,
+          "pct_of_topic": 55.8
+        }
+      },
+      "ratio": 2.65,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI overrep"
+    },
+    {
+      "topic_id": 3,
+      "name": "Self, Byzantium, Art, Human, Unity",
+      "total": 321,
+      "corpora": {
+        "KCI": {
+          "count": 118,
+          "pct_of_corpus": 28.6,
+          "pct_of_topic": 36.8
+        },
+        "angl": {
+          "count": 203,
+          "pct_of_corpus": 14.6,
+          "pct_of_topic": 63.2
+        }
+      },
+      "ratio": 1.96,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI overrep"
+    },
+    {
+      "topic_id": 0,
+      "name": "Culture, Nationalism, Identity, National, Political",
+      "total": 338,
+      "corpora": {
+        "KCI": {
+          "count": 101,
+          "pct_of_corpus": 24.5,
+          "pct_of_topic": 29.9
+        },
+        "angl": {
+          "count": 237,
+          "pct_of_corpus": 17.1,
+          "pct_of_topic": 70.1
+        }
+      },
+      "ratio": 1.43,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI overrep"
+    },
+    {
+      "topic_id": 8,
+      "name": "Theatre, Drama, Dance, Death, Dramatic",
+      "total": 354,
+      "corpora": {
+        "KCI": {
+          "count": 99,
+          "pct_of_corpus": 24.0,
+          "pct_of_topic": 28.0
+        },
+        "angl": {
+          "count": 255,
+          "pct_of_corpus": 18.4,
+          "pct_of_topic": 72.0
+        }
+      },
+      "ratio": 1.3,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI overrep"
+    },
+    {
+      "topic_id": 7,
+      "name": "Love, Gonne, Maud, Beckett, Woman",
+      "total": 287,
+      "corpora": {
+        "KCI": {
+          "count": 53,
+          "pct_of_corpus": 12.8,
+          "pct_of_topic": 18.5
+        },
+        "angl": {
+          "count": 234,
+          "pct_of_corpus": 16.9,
+          "pct_of_topic": 81.5
+        }
+      },
+      "ratio": 0.76,
+      "ratio_label": "KCI/angl",
+      "signal": "balanced"
+    },
+    {
+      "topic_id": 5,
+      "name": "Social, Self, Political, Myth, MacNeice",
+      "total": 319,
+      "corpora": {
+        "KCI": {
+          "count": 52,
+          "pct_of_corpus": 12.6,
+          "pct_of_topic": 16.3
+        },
+        "angl": {
+          "count": 267,
+          "pct_of_corpus": 19.2,
+          "pct_of_topic": 83.7
+        }
+      },
+      "ratio": 0.66,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI underrep"
+    },
+    {
+      "topic_id": 9,
+      "name": "Eliot, Modernism, Modernist, Century, Pound",
+      "total": 415,
+      "corpora": {
+        "KCI": {
+          "count": 64,
+          "pct_of_corpus": 15.5,
+          "pct_of_topic": 15.4
+        },
+        "angl": {
+          "count": 351,
+          "pct_of_corpus": 25.3,
+          "pct_of_topic": 84.6
+        }
+      },
+      "ratio": 0.61,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI underrep"
+    },
+    {
+      "topic_id": 1,
+      "name": "Memory, Critical, Year, Scholar, Time",
+      "total": 390,
+      "corpora": {
+        "KCI": {
+          "count": 59,
+          "pct_of_corpus": 14.3,
+          "pct_of_topic": 15.1
+        },
+        "angl": {
+          "count": 331,
+          "pct_of_corpus": 23.8,
+          "pct_of_topic": 84.9
+        }
+      },
+      "ratio": 0.6,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI underrep"
+    },
+    {
+      "topic_id": 2,
+      "name": "Spenser, Celtic, Joyce, Twilight, Wilde",
+      "total": 154,
+      "corpora": {
+        "KCI": {
+          "count": 23,
+          "pct_of_corpus": 5.6,
+          "pct_of_topic": 14.9
+        },
+        "angl": {
+          "count": 131,
+          "pct_of_corpus": 9.4,
+          "pct_of_topic": 85.1
+        }
+      },
+      "ratio": 0.6,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI underrep"
+    },
+    {
+      "topic_id": 4,
+      "name": "Translation, Art, Form, Lyric, Experience",
+      "total": 337,
+      "corpora": {
+        "KCI": {
+          "count": 43,
+          "pct_of_corpus": 10.4,
+          "pct_of_topic": 12.8
+        },
+        "angl": {
+          "count": 294,
+          "pct_of_corpus": 21.2,
+          "pct_of_topic": 87.2
+        }
+      },
+      "ratio": 0.49,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI underrep"
+    }
+  ]
+}

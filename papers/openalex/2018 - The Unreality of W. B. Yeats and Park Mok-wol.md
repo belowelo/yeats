@@ -1,0 +1,26 @@
+---
+title: "The Unreality of W. B. Yeats and Park Mok-wol"
+authors: ["Wonchul Shin"]
+year: 2018
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.29324/jewcl.2018.12.46.199"
+journal: "The Journal of East-West Comparative Literature"
+strands:
+  - "[[Translation, Art, Form, Lyric, Experience]]"
+  - "[[Love, Gonne, Maud, Beckett, Woman]]"
+strand_probs:
+  Translation, Art, Form, Lyric, Experience: 0.51
+  Love, Gonne, Maud, Beckett, Woman: 0.481
+probe_matches: []
+works_discussed: ["The Lake Isle of Innisfree"]
+---
+
+## Abstract
+
+Park Mok-wol and Yeats have a common point as a poet of unreality. They had spent their boyhood in a kind of dream world—Yeats in Sligo, which was a poor fishing village of Ireland and Mokwol in Kyungjoo, which was a historical town of Silla Kingdom. They spent their early years in beautiful local valley, water, sea shore, woods and were fallen in dreamy imagination. We can say both of them had a fantasies which made them to look at the reality as if in a violet dream. Many readers like to read "The Lake isle of Innisfree" as expressing Yeats's longing for a paradise. Park also made similar paradise in his early poems. He dreamed a beautiful hills and valley which has beautiful woods, a clean spring, small temple and pretty female roe. Their longing could also be found in their love poems. Yeats loved Maud Gonne for 30 years; Park loved a woman and eloped with her to a faraway island. Their love was really unrealistic affair which made them to create good poems. But their love was different on one point: Yeats could love Maud Gonne openly, but Park could not reveal an identity of the woman he loved because of the Confucian morality of Korean society.
+
+
+## Links
+
+**Discusses:**
+- [[The Lake Isle of Innisfree]]

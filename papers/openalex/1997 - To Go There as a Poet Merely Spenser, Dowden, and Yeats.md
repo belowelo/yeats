@@ -1,0 +1,25 @@
+---
+title: "'To Go There as a Poet Merely': Spenser, Dowden, and Yeats"
+authors: ["David Gardiner"]
+year: 1997
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.1353/nhr.1997.a925407"
+journal: "New hibernia review"
+strands:
+  - "[[Social, Self, Political, Myth, MacNeice]]"
+  - "[[Memory, Critical, Year, Scholar, Time]]"
+strand_probs:
+  Social, Self, Political, Myth, MacNeice: 0.273
+  Memory, Critical, Year, Scholar, Time: 0.237
+probe_matches: ["politic", "debate"]
+works_discussed: []
+---
+
+## Abstract
+
+ Though his character Eudoxus wondered"Lord how quicklie doth . . . [Ireland] alter men[']s natures,"1 it is doubtful that Edmund Spenser would have had even these good words to say regarding his own Irish transformation. From his advertisement as"England's Arch-Poete"in the  folio to his recent inclusion in the Field Day Anthology of Irish Writing, Edmund Spenser's reputation seems to have come full circle in Ireland.2 At first, such a critical realignment might argue for the strange complications which enter any discussion where issues of statehood and poetry unite under the rubric of a national culture.3 Louis Montrose has made this point in regard to Shakespeare's place in English studies:"In Britain , for obvious reasons, the field of English studies—and, quintessentially, the study of Shakespeare, the National poet—readily becomes the site of a struggle over the definition of national problems and priorities, a struggle to shape and reshape national identity and collective consciousness."3 One would assume that Spenser's place would also be within the "British" theater of action in English studies. Over the past hundred years, though, Edmund Spenser has come to be discussed more and more in an "Irish" context—supporting or refuting claims for the cultural superiority of Great Britain or the cultural and political autonomy of Ireland.4 An important,overlooked,and paradigmatic instance of SpensDavid Gardiner  "To Go There as a Poet Merely": Spenser, Dowden, and Yeats . Edward Spenser, A View of the Present State of Ireland, ed.W. L. Renwick (; St. Clair Shores: Scholars Press, ) ; hereafter cited parenthetically, thus: (V ). . The Faerie Queene (London, ), title page. "The Early Planters: Spenser and His Contemporaries ,"The Field Day Anthology of Irish Writing,  vols. (Derry: Field Day Publications, ), pp. -. . Louis Montrose,"Professing the Renaissance: The Poetics and Politics of Culture," in The New Historicism, ed. H. Aram Veeser (New York: Routledge, ), p. . . Over the past thirty years, numerous writers have debated Spenser's place within the literary and historical topography of Ireland. A representative list of the titles which have followed the important publication of D. B. Quinn's Elizabethans and the Irish (Ithaca: Cornell University Press, ) would include: Nicholas Canny, "Edmund Spenser and the Development of an Anglo-Irish Identity,"Yearbook of English Studies,  (), -; Ciaran Brady,"Spenser's Irish Crisis: ­Humanism and Experience in the s," Past and Present,  (), -; Brendan Bradshaw,"Sword, Word and Strategy in the Reformation in Ireland,"The Historical Journal, ,  (), -; Spenser and Ireland: An Interdisciplinary Perspective, ed. Patricia Coughlan (Cork: Cork University Press, ); "To Go There As a Poet Merely": Spenser, Dowden, and Yeats  er's redefinition occurs in the later ninteenth- and early twentieth-century writings of Edward Dowden and W. B. Yeats. The conflicting criticism of Edward Dowden and W. B.Yeats sought to define and to refute Spenser's British or Irish role. Returning to this point of origin illustrates the ways in which Spenser served as an touchstone for the volatile issues of Irish cultural nationalism and literary criticism and perhaps why he continues to do so a century later. When published in , Edward Dowden's "ethical" introduction to the privately printed London Spenser Society's Complete Works (–) was one of the first and most comprehensive attempts to rescue Spenser from the PreRaphaelites and to place The Faerie Queene in direct relation to contemporary life. In his  North American Review article, James Russell Lowell presented the culmination of this Pre-Raphaelite school of thought as he asserted that the moral and ethical content of Spenser's poetry was a kind of "unpleasant surprise, a kind of grit, as when one's teeth close on a bit of gravel in a dish of strawberries and cream."5 Unlike Lowell and his predecessors, Dowden read Spenser's didactic content as the main dish. As it would appear from his consistently "ethical" critical writings throughout his life, Dowden ate his Spenserian gravel with relish. Prior to contributing to the Spenser Society's Complete Works, Edward Dowden wrote the immensely popular critical study, Shakspere, His Mind and Art () which went through sixteen English editions and was translated into German, French, and Russian, during his lifetime.6 In his study of Shakespeare, Dowden's...
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

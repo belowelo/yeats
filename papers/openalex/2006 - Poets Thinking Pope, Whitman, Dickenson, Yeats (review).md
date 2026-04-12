@@ -1,0 +1,25 @@
+---
+title: "Poets Thinking: Pope, Whitman, Dickenson, Yeats (review)"
+authors: ["Jan Zwicky"]
+year: 2006
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.1353/esc.2007.0075"
+journal: "English studies in Canada"
+strands:
+  - "[[Culture, Nationalism, Identity, National, Political]]"
+  - "[[Translation, Art, Form, Lyric, Experience]]"
+strand_probs:
+  Culture, Nationalism, Identity, National, Political: 0.556
+  Translation, Art, Form, Lyric, Experience: 0.319
+probe_matches: ["politic", "reception", "debate"]
+works_discussed: []
+---
+
+## Abstract
+
+Reviewed by: Poets Thinking: Pope, Whitman, Dickenson, Yeats Jan Zwicky Helen Vendler. Poets Thinking: Pope, Whitman, Dickenson, Yeats. Cambridge: Harvard UP, 2006. $19.95 cloth; $14.95 paper What is thinking? To make the question thus explicit is to be at once beguiled by the charms and beset by the longeurs of Western European [End Page 232] epistemology. Is all thinking rational? Is all rationality, as its etymology suggests, a kind of calculation? Does thinking exclude emotion? Is remembering a kind of thinking? Is perception? Neither the dictionaries nor the latest issues of New Scientist are much help, for to answer any one of these questions decisively is not so much to uncover the fact of the matter as to take a stand in the charged debate about what it means to be human. And to evade answering decisively is not so much to acknowledge ignorance as to acquiesce in the (often unvoiced) intellectual politics that happen to be in vogue at the moment of one's evasion. To illustrate, the following are all, to a greater or lesser degree, current: Thinking is the contemplation of existence (one reading of Parmenides). Thinking is world-making (another reading of Parmenides, and a popular reading of Hegel and Heidegger). Thinking is the verbal dialogue of the soul with itself (Plato). Thinking, correctly pursued, is that which leads to knowledge via machine-like steps (Jerry Fodor) having first exiled emotion and imagination (Bacon). Thinking is doubting, understanding, affirming, denying, willing, refusing, and also imagining and sensing (Descartes). Thinking is logical or conceptual analysis (Russell; Descartes in a rigorous mood). Thinking is the art of correct judgement (Arnauld). Thinking is the exercise of the mind, especially the understanding, in any active way; the formation of connected ideas of any kind (oed, emphasis added). Thinking is engaging in rational thought; reasoning (Funk and Wagnalls). Thinking is having or making a train of ideas pass through the mind; meditating; cogitating (oed, emphasis added). Thinking excludes the passive reception of ideas (oed). Thinking consists in perceiving structural features of a situation and grouping these to achieve a satisfactory gestalt, "looking [End Page 233] for structural rather than piecemeal truth". (Herakleitos; Max Wertheimer) "Can we deny the name of 'thinking' to the satiric discursive miniatures of Pope, the empathetic reprises of Whitman, the multiple reconceivings of seriality by Dickinson, or the complex architectonic assembling of images by Yeats?," Helen Vendler asks rhetorically in the final paragraph of Poets Thinking (118). "Yes, indeed," comes the unwelcome, wholly unrhetorical reply, "we can, and we do." Vendler is not unaware that a case has to be made for calling the mental activity of poets "thinking." She opens Poets Thinking with the observation that thinking "has usually been defined as a chain of argument, explanation, logical induction, or deduction" (1). Lyric poetry, by contrast, "has often been considered an irrational genre, more expressive than logical, more given to meditation than to coherent or defensible argument" (1). What she does not say is by whom thinking and poetry have been so construed, nor what ends those construals serve. She has adopted, without comment, a view of thinking characteristic of the Scientific Revolution and the Enlightenment (whose most energetic contemporary defenders may be found in significant concentrations in English-speaking analytic philosophy departments), and she is resisting, without contextualization, a view of lyric poetry that first gained ascendancy during the Romantic reaction. I do not wish to deny the currency of either view in contemporary English-speaking (especially English-speaking academic) circles, and I share Vendler's sense that both are pernicious. My concern is that in the absence of the requisite contextualization, she misses the fact that there exist many definitions of thinking from which it follows, quite obviously, that lyric poets think and hence that their exclusion from the privileged company of thinkers has, in most cases, a fundamentally political dimension. In the absence of an address to this dimension, those who need most to be convinced will turn away from the book snug in their original prejudice, and what promised to be a radical defence of a radical thesis will end up as a sermon to the converted. This is, I...
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

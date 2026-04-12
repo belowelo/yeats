@@ -1,0 +1,22 @@
+---
+source: "[[OpenAlex]]"
+strands:
+  - "[[Spenser, Celtic, Joyce, Twilight, Wilde]]"
+  - "[[Memory, Critical, Year, Scholar, Time]]"
+  - "[[Love, Gonne, Maud, Beckett, Woman]]"
+strand_probs:
+  Spenser, Celtic, Joyce, Twilight, Wilde: 0.395
+  Memory, Critical, Year, Scholar, Time: 0.389
+  Love, Gonne, Maud, Beckett, Woman: 0.213
+probe_matches: []
+---
+
+## Abstract
+
+Yeats, Eva, and Con Denis Donoghue (bio) Yeats's "In Memory of Eva Gore-Booth and Con Markiewicz" was first published in the New York edition of The Winding Stair (1929). It has not been found difficult, I gather, except by me. Part one, the first 20 lines, is easy; part two, lines 21–32, opaque. The poem is a four-beater, four stressed syllables to a line, four lines to a stanza, rhyming abba, though the stanzas are neither numbered nor divided on the page. For convenience, I will comment as if this were not the case: The light of evening, Lissadell,Great windows open to the south,Two girls in silk kimonos, bothBeautiful, one a gazelle. "In silk kimonos": silk tipped the otherwise frequent kimono into leisure class. Lissadell was and still is, as the poem says, "an old Georgian mansion" about seven miles from Sligo, in Yeats's day home of the aristocratic Gore-Booth family. Eva was the gazelle. The first four lines are appositives, as linguists call them, the phrases laid down closely, no verb or subject necessary, association in the poet's memory their sufficient means. For a few exalted weeks in November 1894, Yeats thought he was in love with Eva because she pitied him for his apparently doomed love of Maud Gonne. But a Yeats could approach a Gore-Booth only delicately. Sir Henry Gore-Booth (fifth baronet: 1843–1900) was sufficiently credentialed to indicate to local people the distance they should keep. In Yeats's terms: [End Page 549] We were merchant people of the town. No matter how rich we grew, no matter how many thousands a year our mills or our ships brought in, we could never be "county," nor indeed had we any desire to be so … the long-settled habit of Irish life set up a wall. Yeats was hardly free of aristocratic longing, but he enjoyed a minor privilege with the Gore-Booths. He was a poet and had published two volumes, so the Gore-Booths could, by a small act of condescension, invite him to spend a few days with them at Lissadell and join the girls in gathering folklore from one of their oldest tenants. Not "county," he was not irrevocably "trade." He would not be expected to use the tradesmen's entrance. Pleased to accept the invitations, he visited once in late November 1894 and again in mid-December. The visits went off well. On December 16, 1894 he wrote to his sister Susan: They are a very pleasant, kindly, inflamable family. Ever ready to take up new ideas & new things. … Sir Henry Gore Booth thinks of nothing but the north pole, where his first officer to his great satisfaction has recently lost himself & thereby made an expedition to rescue him desirable. "Inflamable" is not a misspelling, though in the 19th century it gradually yielded to "inflammable." We might say "lively" or even "ardent." But a raving autumn shearsBlossom from the summer's wreath;The older is condemned to death,Pardoned, drags out lonely yearsConspiring among the ignorant. This is not the only occasion in the poem when Yeats sends a sentence across the acoustic division of the stanza: here "ignorant" completes the sentence in the fifth line and provides a rhyme, "skeleton-gaunt," to keep the next stanza going. I still feel misgiving about Yeats's "But." The English language doesn't approve of beginning a sentence with "But." Grammarians call that word an adversative conjunction or [End Page 550] particle, meaning that it finds its point in whatever precedes it. I might say: "I love Jennifer, but I wish she wouldn't be so lofty with her opinions." That would make acceptable English, if questionable manners. The main clause pays my tribute to Jennifer, then the dependent clause, on second thought, uses the lower case "but" to take back some of the tribute. Yeats's "But" has no precedent clause, unless we consider the entire first stanza the tribute, and the "But" a decent adversative. I might speak the passage in that way. Fortunately, verse removes some of the awkwardness. The line retains its four stresses: "But...
+
+
+## Links
+
+**Discusses:**
+- [[The Winding Stair]]

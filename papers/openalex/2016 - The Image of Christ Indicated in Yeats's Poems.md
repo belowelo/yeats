@@ -1,0 +1,23 @@
+---
+title: "The Image of Christ Indicated in Yeats's Poems"
+authors: ["Byeong-Koo Yoo"]
+year: 2016
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.21087/nsell.2016.08.64.169"
+journal: "The New Studies of English Language & Literature"
+strands:
+  - "[[Love, Gonne, Maud, Beckett, Woman]]"
+strand_probs:
+  Love, Gonne, Maud, Beckett, Woman: 0.983
+probe_matches: []
+works_discussed: []
+---
+
+## Abstract
+
+This paper shows that William Butler Yeats longs for indicating the image of Christ in his poetry. In his poem, "The Sad Shepherd," though the man whom Sorrow named his friend cries to the God's handiwork like the stars, the sea, and the dewdrops, he can not find any comfort from them. Finally, he thinks the shell will comfort him as it comforts the happy shepherd. However, the shell changes all he sings to inarticulate moan. Now the man has the only friend, Sorrow that represents Christ. The poem suggests that his only friend, Christ as a man of sorrows, may comfort him. In his poem, "The Cloak, The Boat and The Shoes," Sorrow also indicates Christ whose head and hairs are white like wool as white as snow. The Bible says that Christ is a man of sorrows who is despised and rejected of men. Yeats asserts that the pentagram used in the Golden Dawn is a symbol of Christ.
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

@@ -1,0 +1,25 @@
+---
+title: "The Birth of Modernism: Ezra Pound, T.S. Eliot, W.B. Yeats, and the Occult by Leon Surette"
+authors: ["Dominic Manganiello"]
+year: 1994
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.1353/esc.1994.0013"
+journal: "English studies in Canada"
+strands:
+  - "[[Translation, Art, Form, Lyric, Experience]]"
+  - "[[Eliot, Modernism, Modernist, Century, Pound]]"
+strand_probs:
+  Translation, Art, Form, Lyric, Experience: 0.509
+  Eliot, Modernism, Modernist, Century, Pound: 0.487
+probe_matches: []
+works_discussed: []
+---
+
+## Abstract
+
+In a useful "Afterword" Hart glances at recent critical positions and sum­ marizes what they have offered to our understanding of the history play. Perhaps an even more valuable bonus is a "Selected Bibliography" of some fifty pages; it is up-to-date and complete. All in all this is an excellent schol­ arly study. It is meticulous in its footnoting, informed in its judgment, and suffused with an admiration for Shakespeare. The book itself is handsomely bound and pleasant to hold; I found no typographical errors. To conclude, I can only say that I look forward to more of Professor Hart's work. d.f. rowan / University o f New Brunswick Leon Surette, The Birth of Modernism: Ezra Pound, T.S. Eliot, W.B. Yeats, and the Occult (Montreal and Kingston: McGill-Queen's University Press, 1993). xi, 320. $34.95. The roots of literary modernism have been usually traced back to one of two sources. The New Critics viewed modernism as an offshoot of sceptical relativism, or of this century's new developments in philosophy and science. Current postmodern critiques, on the other hand, follow the modernists' own claims in characterizing modernism as positivistic, ahistorical, and decontextual . Leon Surette challenges these opposing portraits of modernism by reviving an early view of the movement as the heir of French Symbolisme. In his fascinating and ground-breaking study, The Birth of Modernism, Surette locates, for the first time, the origins of modernist aesthetics in a surprising place: the occult. Claims for the ubiquity of occult influence on modem literature, as Surette well knows, are bound to meet resistance in scholarly circles, and for good reason. Among the modernists, only Yeats openly and unabashedly avowed his occultism. His contemporaries publicly disparaged it. Eliot was perhaps the most emphatic in his disapproval. While acknowledging the hypnotic charm of Yeats's verse, Eliot nevertheless objected to his use of "parapher­ nalia" such as black pigs, crystal-gazing, and hobgoblins. "You cannot take heaven by magic," he wryly remarked, "especially if you are, like Mr. Yeats, a very sane person." 1 Scholars have been no less dismissive of the subject, treating it as infra dig. Despite this negative response, the occult can no longer be expunged from the history of modernism. Surette's thorough research shows convincingly that Pound, for instance, was more sympathetic to Yeats's "paraphernalia" than his public remarks might have revealed. Surette's focus, moreover, is not the shady world of magical phenomena that the popular mind usually 484 associates with the occult, but the eclectic occult teachings about "the su­ pernatural, the other world, the noumenal, the au delà" (26). His complex investigation takes him behind Symbolisme to its own sources in occult ideas, attitudes, and concerns. The Birth of Modernism performs the valuable ser­ vice of providing the intellectual and historical contexts that clearly establish a connection between occult speculation and modernist aesthetic theory and practice. The most important point of contact between modernism and the occult occurred in the field of myth studies. The New Critics, prompted perhaps by the doctrine of textual autonomy, interpreted the mythological elements in a representative work such as The Waste Land as factitious formal and thematic devices. Surette situates Eliot's poem instead within the occult enterprise of assembling the fragments of a lost faith. The world religions, according to occultists, contained partial, even corrupt versions of a revela­ tion or gnosis accessible only to a privileged few. Surette explores the pivotal role played by occultists such as Edouard Schuré and Josephin Péladan in formulating Wagnerian and Nietzschean notions of myth and in transmit­ ting them to Symbolisme, which in turn bequeathed them to Yeats, Pound, and Eliot. It is here, in the variety of occult theories, Surette argues, rather than in the anthropology of James Frazer that the modernists derived their practice of mythopoeia. The early works of Nietzsche acted as important tributaries in this pro­ cess. Nietzsche, of course, has been variously perceived as a liberator from religion and science, as the prophet of the coming of the Superman, or as a nihilistic sceptic. Surette reminds us that the first Nietzsche was "the Wagnerian celebrator of myth and...
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

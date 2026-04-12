@@ -1,0 +1,24 @@
+---
+title: "JACK B. YEATS' IN SAND: AN EXPERIMENT IN THE TOY THEATRE"
+authors: ["Akiko Satake"]
+year: 2014
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.1163/9789401212014_008"
+strands:
+  - "[[Translation, Art, Form, Lyric, Experience]]"
+  - "[[Eliot, Modernism, Modernist, Century, Pound]]"
+strand_probs:
+  Translation, Art, Form, Lyric, Experience: 0.377
+  Eliot, Modernism, Modernist, Century, Pound: 0.226
+probe_matches: ["politic", "legac"]
+works_discussed: []
+---
+
+## Abstract
+
+By the time Jack Yeats wrote a series of zany plays in the late 1930s, the first wave of Modernist attempts at experimentation was over; and for the second wave, the stage had to wait for another Irishman - and a tree, a moon and two tramps. Yet Yeats had embarked on his artistic career decades before, spanning the period when a giddy array of artistic movements swept Europe. Notwithstanding the fiercely native colour of his subject, his plays share with the continental avant-garde an interest in the exploration of time and space.Scientists like Max Planck, Albert Einstein, Niels Bohr, and Werner Heisenberg, and philosophers like Henri Bergson questioned the stability and definition of time and space.1 Even where new scientific theories did not affect artists directly, there was an often insidious sense of the breakdown of the logical construction of reality, which artists expressed by exploring randomness and by bringing into conflict different perspectives and dramatic styles. Futurists staged their sintensi (synthetics), Dadaists their soirees. For Dadaists the sense of mistrust was further aggravated by the absurdity and horrors of mechanized warfare they witnessed. In revolt against the established art forms, they were attracted by the vitality, freedom, spontaneity, and playfulness of popular entertainments - guignol, cabaret and circus clowns - as well as the bold simple contours of African and children's art. So was Yeats, who began as a cartoonist and went on to illustrate ballads and stories. He even put on puppet pirate shows for the children of his neighbourhood in Devon. Many were his kindred in this inclination to incorporate forms and content outside the confines of high art - Jarry, Buchner, Wedekind, Grosz, Picasso, Klee, Chagall, Meyerhold, Brecht, to name but a few - but none perhaps embraced childlike playfulness with such wholesome openness as Jack Yeats.Yeats was fascinated by chance, as his novels palpably show.2 He was delighted with the anecdote of Joyce throwing impromptu words, uttered during his dictation, into a work in progress.3 At the same time, he was just as enthralled by moments of intense concentration that in his paintings appear to grip the air: the moment before a racehorse springs forward, say, or when a man stands still facing the sea. More than any of his other plays, In Sand (produced at the Abbey Experimental Theatre in 1949)4 successfully realizes Yeats' enduring concern with chance and the nature of time.In Sand presumes to have as its subject time itself. And Yeats treats it with a characteristically light touch, without straying into theoretical exegesis like J.B.Priestley or probing one aspect almost obsessively as Samuel Beckett does in Happy Days or Jean-Paul Sartre in Huis Clos. Instead, Yeats plays with multiple perspectives. He had already succeeded in dramatizing time with La La Noo. There, it was a kind of languorous flow fraught with unforeseen risks at every turn. But the canvas for In Sand is much broader, extending well over generations and sweeping far outwards across the globe. The play follows the trajectory of a simple message that Antony Larcson has committed a little girl to write on the sand. The girl grows up, travels around the world writing this message, and dies on a tropical island. After her death, a bizarre one-day revolution is attempted there with the aim to create an independent state, but all comes to naught and the play ends with the disappointed Governor copying the by now legendary message on the sand.Though Yeats left no tips for the director as to how to stage what is, at least by the standard of the day, a strange play, two points can be noted about how he expresses his perception of time within the confines of the stage. One is the wave-like rhythm of its action, if action it can be called, accompanied by images of fluidity and flux. Second is his positioning of the perspective. One perplexing feature of this play is that at its midpoint, what has up to then been an organic narrative in which one life is replaced by another, a legacy that spreads in ever-expanding circles, is superseded by a cartoonish political narrative in which a visitor to a tropical island stages a revolution. …
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

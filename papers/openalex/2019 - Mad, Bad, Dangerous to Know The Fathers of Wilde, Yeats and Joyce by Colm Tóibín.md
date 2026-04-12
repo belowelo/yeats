@@ -1,0 +1,23 @@
+---
+title: "Mad, Bad, Dangerous to Know: The Fathers of Wilde, Yeats and Joyce by Colm Tóibín"
+authors: ["G. S. Pearce"]
+year: 2019
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.1353/nhr.2019.0051"
+journal: "New hibernia review"
+strands:
+  - "[[Spenser, Celtic, Joyce, Twilight, Wilde]]"
+strand_probs:
+  Spenser, Celtic, Joyce, Twilight, Wilde: 0.996
+probe_matches: ["politic"]
+works_discussed: []
+---
+
+## Abstract
+
+Reviewed by: Mad, Bad, Dangerous to Know: The Fathers of Wilde, Yeats and Joyce by Colm Tóibín Gary Pearce Mad, Bad, Dangerous to Know: The Fathers of Wilde, Yeats and Joyce, by Colm Tóibín (Sydney: Picador, 2018; New York: Simon and Schuster, 2019, 272 p., paperback, $18) As a literary formation, modernism was distinctive for the way it set itself against tradition, the past, and the merely inherited in its attempt to "make it new." And for modernism, family, fathers, and patriarchy are part of that inherited tradition that must give way to artistic self-creation. For James Joyce's Stephen Dedalus, "Who is the father of any son that any son should love him or he any son?" If Ireland punched above its weight in the production of modernist writing, then this is surely because a settling of accounts with its past and ties of filiation have long been part of the political, historical, and aesthetic concerns there. For the contemporary Irish writer, modernism itself forms part of this inherited tradition. Colm Tóibín's recent book Mad, Bad, Dangerous to Know: The Fathers of Wilde, Yeats and Joyce studies some key Irish writers and their fathers. Tóibín's own writing is crossed with themes of family and inheritance: his collection of essays in New Ways to Kill Your Mother, on writers and their families, documents a long-standing concern. While Tóibín doesn't actually mention [End Page 154] modernism, it is difficult not to see here a kind of intervention into the discussion about the emergence of this important literary formation. He brings some recognition of the force of ties of patrimony to a formation more often characterized as a negation of these connections. He does this initially via a psychogeographic meditation that sees his own memories and encounters in Dublin and elsewhere cross with the literary and historical traces of his subjects. He regards Dublin as notable during this period for its poverty and lack of a defined tradition (oddly, he doesn't mention the role of colonialism here), reflected in the waywardness of Sir William Wilde, John Butler Yeats, and John Stanislaus Joyce. This would be contrasted with the energetic and focused self-invention of their writer sons, Oscar Wilde, William Butler Yeats, and James Joyce. His discussion of Sir William Wilde begins in Reading Gaol, where Oscar spent two years after being convicted of gross indecency in the aftermath of a badly advised lawsuit against the Marquis of Queensbury, father to his lover Lord Alfred Douglas. Invited to do a reading of Wilde's De Profundis, the letter Wilde wrote to Douglas while in prison, Tóibín struggles initially to find the right voice. He settles finally on "disdain" to underscore the contempt and contrast Wilde drew between his own family and the Queensburys. Reversing the normal perception of social rank, he contrasts the vulgarity of the aristocratic Queensbury family with the independence, wit, and learning he inherited from his family. Nevertheless, if the influence of fathers is a kind of symptomatic silence in this literary formation, Tóibín observes how this registers within Wilde's text in the lack of detail about the father. Tóibín speculates that the notoriety and search for prominence by the father may have led to Oscar's reticence here as he recognized parallels with his own life. William Wilde was a well-known Dublin doctor and founded the first eye and ear hospital in Ireland. He was also a prominent antiquarian, topographer and statistician, folklore collector, archeologist, and ethnographer. Tóibín is sensitive to his Irish positioning here, given the political and aesthetic significance of the focus on ancient Ireland at the time. Writers like Terry Eagleton have noted the contradictions running through the Anglo-Irish ruling class in this period. Devoid of a local parliament, there was a kind of unruly rule about them. Thus, Tóibín notes an ambiguity of allegiance and identity in the Wildes. Sir William was a knight, and both his parents were close to privilege and power. Wilde's mother, Jane Elgee, on the other hand, wrote inflammatory...
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

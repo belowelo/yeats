@@ -1,0 +1,25 @@
+---
+title: "After Yeats and Joyce: Reading Modern Irish Literature, and: Strange Country: Modernity and Nationhood in Irish Writing Since 1790"
+authors: ["George O'Brien"]
+year: 1999
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.1353/mfs.1999.0017"
+journal: "Modern fiction studies"
+strands:
+  - "[[Eliot, Modernism, Modernist, Century, Pound]]"
+  - "[[Memory, Critical, Year, Scholar, Time]]"
+strand_probs:
+  Eliot, Modernism, Modernist, Century, Pound: 0.255
+  Memory, Critical, Year, Scholar, Time: 0.253
+probe_matches: ["politic", "debate", "canon"]
+works_discussed: []
+---
+
+## Abstract
+
+Reviewed by: After Yeats and Joyce: Reading Modern Irish Literature, and: Strange Country: Modernity and Nationhood in Irish Writing Since 1790 George O'Brien Neil Corcoran. After Yeats and Joyce: Reading Modern Irish Literature. New York: Oxford UP, 1997. x + 195 pp. Seamus Deane. Strange Country: Modernity and Nationhood in Irish Writing Since 1790. Oxford: Clarendon P, 1997. 269 pp. As Seamus Deane points out in Strange Country, it is now twenty or more years since the overture was sounded to what has become known as revisionism in the analysis of Irish literature, history, and culture. Initially a methodological intervention intended to place Irish historiography on a more factual footing, or at least on a footing that would be perceived as unencumbered by inherited myths (and the varieties of essentially sectarian baggage that came with them), revisionism—acerbically repudiated here by Deane, not for the first time, as so much "prattle"—led to intense public and academic debate in Ireland throughout the 1980s. Among the subjects of debate were the nature of Irish cultural identity, the force and fate of nationalism as an ideological and political bond, and the secularization—if not, as Deane in effect argues, the modernization—of Irish society. Numerous significant developments resulted, such as the emergence of an identifiable intelligentsia, the application of the protocols of international theory (especially feminist and postcolonial theory) to local conditions, and an overall eagerness to rethink the assumptions of the canon of Irish literature and, particularly, of Yeats's status in it. Paralleling these developments were others. There was an upswing in Irish textual production, both in high culture (poetry) and low (rock music) and in works that are (Irishly) both and neither, such as Roddy Doyle's novels. Old forms (theatre—the Riverdance phenomenon) were renewed and new ones (film) given various entrepreneurial boosts. State funding for artists and the arts was increased to previously [End Page 520] unthinkable levels. There was an increasing internationalization of the Irish economy. Such developments continue to take place at the same time as crises of institutional legitimacy are affecting some of Irish society's basic institutions. The Catholic Church has been tainted by clerical sex scandals. The State has been challenged because of the recurring judicial investigations of alleged financial malfeasance on the part of the leadership of the traditionally most powerful political party, Fianna Fáil. And the family has been undermined by an evidently endless series of trials and convictions of incestuous fathers. Many of these events have taken place while the civil strife in Northern Ireland was passing through its darkest hours. The coexistence of theory's fundamentally idealistic project of critique, renovation, and redirection—implicit in its rehearsals of how cultural capital may be redistributed and ideological power realigned—with various forms of fetishized, commercialized Irishness on the one hand and an institutional reality which seems to have mislaid its sense of purpose and responsibility on the other, is not only an indication of a society in a complex state of transition. It also suggests an aggravated imbalance between sites of cultural production and the effort they embody to maintain a center and ground things which are of great consequence to Irish reality as a whole but which seem to be falling apart. The country's difficulty in getting to know its own mind is exacerbated by its ability to live with—that is, to transmit effectively and reflect appropriately—what it knows. It is in view of that difficulty, particularly, that the reports on knowledge offered by After Yeats and Joyce and Strange Country, inevitably interim though they are, can be assessed and their strategies of recuperation evaluated. The very differences between these two books allow them to be thought of as together delimiting temporarily the discursive field to which the study of Irish literature has given rise. An important assumption underlying After Yeats and Joyce is that a contemporary Irish literature exists as an object of study, a matter about which there still remains some residual doubt in the Anglo-American academic establishment. Indeed, Corcoran feels the need to begin his book by disposing of such doubts, having (with the help of Seamus Deane) overcome the...
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

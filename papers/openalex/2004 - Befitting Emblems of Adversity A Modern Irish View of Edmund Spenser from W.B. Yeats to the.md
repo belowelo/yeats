@@ -1,0 +1,25 @@
+---
+title: "Befitting Emblems of Adversity: A Modern Irish View of Edmund Spenser from W.B. Yeats to the Present (review)"
+authors: ["Kelly Jayne Steenholdt McGovern"]
+year: 2004
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.1353/nhr.2004.0045"
+journal: "New hibernia review"
+strands:
+  - "[[Spenser, Celtic, Joyce, Twilight, Wilde]]"
+  - "[[Eliot, Modernism, Modernist, Century, Pound]]"
+strand_probs:
+  Spenser, Celtic, Joyce, Twilight, Wilde: 0.64
+  Eliot, Modernism, Modernist, Century, Pound: 0.356
+probe_matches: ["politic"]
+works_discussed: []
+---
+
+## Abstract
+
+Reviewed by: Befitting Emblems of Adversity: A Modern Irish View of Edmund Spenser from W.B. Yeats to the Present Kelly J. S. McGovern Befitting Emblems of Adversity: A Modern Irish View of Edmund Spenser from W.B. Yeats to the Present, by David Gardiner , pp. 233. Omaha: Creighton University Press, 2001. $15. The overlap of Edmund Spenser's political and literary projects, as well as his relationship to Irish history, might seem to make him a difficult figure for Irish poets to embrace. After all, as David Gardiner explains, "Ireland enters into Spenser's fiction as the stuff of horror." Yet, from Yeats onward, poets engaged with Irish tradition and history have recognized Spenser as an important figure. In Befitting Emblems of Adversity: A Modern Irish View of Edmund Spenser from W.B. Yeats to the Present, Gardiner explores Irish poets' complex and mutable reactions to Spenserian history. This study offers a shift away from typical Spenser scholarship focused on his role in the Elizabethan state. Rather, it focuses on Spenser's presence in the twentieth-century work of Yeats and John Montague, and also in that of Seán Dunne, Thomas McCarthy, and Nuala Ní Dhomhnaill—three poets who came through University College, Cork during Montague's residence there. Gardiner first analyzes Spenser's role in shaping the understandings of what it means to be a poet and to be Irish, before proceeding to interpret how Irish poets reference Spenser and incorporate his influence. The tensions involved in situating Spenser within an Irish context demand poetic interpretation and reinterpretation, but Gardiner grounds his work in specific historical intersections of the poetic and the political. Visions of Spenser begin to multiply. Yeats, for one, sets what Gardiner calls a "dubious precedent" with his attempt to "separate the 'poet' from his 'politics'" as he makes Spenser over into a "fellow worker" for the poetic political voice that Yeats was attempting to mythologize as a part of the Irish literary tradition. In the course of reworking this tradition, Montague finds that he could use this precedent to build up a sensibility in [End Page 155] opposition to Yeats and to appropriate Spenser in a more personally enabling way. Spenser's influence becomes cumulative and productive. Yeats positions Spenser at the junction between Irish-speaking Ireland and English-writing Ireland, so that it seems to Gardiner as if "down whichever path to 'Gaelic' or 'Bardic' Ireland an Anglo-Irish poet looks, he or she ends up at some point seeing Spenser." Montague, thus, needed to find a way to conceive of himself in the imagined, but demythologized, communities of both Bardic and Elizabethan Ireland. Gardiner returns repeatedly to the idea of Spenser's influence as "enabling" for Irish poets and their increasingly liberated poetic trajectories. Successive poets have not only Spenser's example before them, but also those of their more recent predecessors. Gardiner, a poet himself, brings more than an academic awareness to his writing. Clearly, the poets he discusses also influence his writing style, which he peppers with such allusions and metaphors as the image of the "Spenserian mantle" that he sees Montague using to envelop his poetry and form of presentation. According to Gardiner, "Montague wraps himself in Spenser's depictions of the Irish and speaks out of them." One might wish that Gardiner had more fully developed the section on Dunne, McCarthy, and Ní Dhomhnaill at greater length, and that he had probed this section's introductory work on the criticism of Patricia Coughlan, Anne Fogarty, Robert Welch, and particularly Eiléan Ní Chuilleanán more fully; after two full chapters devoted to Yeats and Montague apiece, the closing discussion of these contemporary poets feels abrupt. Understandably, the relatively short careers of these contemporary poets do not lend themselves as readily to the early, middle, and late periodization Gardiner uses to structure his discussion of Yeats and Montague. However, the thorough framework Gardiner establishes throughout the book would support further analysis of Spenser's enabling influence on contemporary authors, especially in their creation of what Gardiner terms their "personal, transitional nature of history." This study convincingly establishes Spenser's continual influence in Irish poetry, and makes clear that...
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

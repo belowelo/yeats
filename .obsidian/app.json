@@ -1,0 +1,21 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "autoPairBrackets": true,
+  "smartIndentList": false,
+  "spellcheck": true,
+  "legacyEditor": false,
+  "autoPairMarkdown": true,
+  "autoConvertHtml": true,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "attachments"
+}

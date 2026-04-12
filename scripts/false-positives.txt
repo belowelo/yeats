@@ -1,0 +1,34 @@
+# False positive filter terms (step 03)
+# Papers matching any term in title+abstract are excluded.
+
+# YEATS protein domain (chromatin biology)
+yeats domain
+yeats family
+histone crotonylation
+histone acetylation
+histone benzoylation
+histone succinylation
+af9 yeats
+enl yeats
+mllt1 yeats
+taf14 yeats
+gas41 yeats
+yaf9 yeats
+dpf and yeats
+chromatin reader
+epigenetic mark
+histone mark
+acetyllysine
+
+# Robert S. Yeats (geologist)
+geology of earthquakes
+living with earthquakes
+
+# Yeast microbiology (misspelled as "yeats"/"yeat")
+saccharomyces
+kluyveromyces
+biocontrol of botrytis
+food preservatives
+cocoa beans flavor
+rna-seq assembler artifact
+tumors of the central nervous

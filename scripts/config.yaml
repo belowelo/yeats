@@ -1,0 +1,31 @@
+# EDIT THIS BEFORE RUNNING
+# This file is intended to 
+#   works.txt / works.csv    — primary texts + match terms (step 04)
+#   false-positives.txt      — filter out false positives (step 03)
+#   stopwords.txt            — LDA stopwords (step 05a)
+#   vocabulary-probes.txt    — probe stems (steps 06-07)
+
+subject: "Yeats"
+
+# Search terms for each corpus.
+search_terms:
+  openalex: ["Yeats", "Yeats's", "W.B. Yeats", "William Butler Yeats"]
+  kci: ["예이츠", "Yeats"]
+
+date_range: [1990, 2020]
+
+# Output paths (relative to vault root)
+vault_root: ".."  # relative to scripts/ directory; wizard prompts on first run
+paths:
+  papers: "papers"         # contains kci/ and openalex/ subdirs
+  papers_kci: "papers/kci"
+  papers_openalex: "papers/openalex"
+  strands: "strands"
+  works: "works"
+  data: "_data"
+
+# LDA parameters (step 05)
+lda:
+  num_topics: 10       # starting point — adjust after first run
+  no_below: 5          # ignore words appearing fewer than N documents
+  no_above: 0.5        # ignore words in >N% of documents

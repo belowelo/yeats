@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "77e99dec9c1b3879",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd8e88341568def5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed95482fd86ea77e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "413f5c4a24f07fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "c793f2dcb2b00424",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/3.png"
+              },
+              "icon": "lucide-image",
+              "title": "3"
+            }
+          },
+          {
+            "id": "c2dc3fe0eeafd664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "46beebb1fcf2a6d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e002671997888aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/kci/2004 - 프랑스에서 쓰인 예이츠 편지 읽기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2004 - 프랑스에서 쓰인 예이츠 편지 읽기"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "518076b8fe474432",
+    "type": "split",
+    "children": [
+      {
+        "id": "d652da5fc2baf067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "979747cb0c1ba7c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9e922e20ea1bb488",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"marjorie",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d18744d2b04b7eb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "15e4b6341378f8aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "656ad333eb4cbc26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09a6de4bec2e0774",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for readme"
+            }
+          },
+          {
+            "id": "9594d7ef00361388",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a861746a85119da6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c627ea9cbaae0ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3e4eeced3fc82dbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "papers/2016 - W. B. Yeats.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2016 - W. B. Yeats"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "979747cb0c1ba7c9",
+  "lastOpenFiles": [
+    "readme.md",
+    "attachments/3.png",
+    "attachments/2.png",
+    "strands/Eliot, Modernism, Modernist, Century, Pound.md",
+    "papers/kci/2004 - 프랑스에서 쓰인 예이츠 편지 읽기.md",
+    "attachments/1.png",
+    "attachments",
+    "screenshots",
+    "comparison.md",
+    "strands/Symbol, World, Vision, Woman, Life.md",
+    "Untitled.md",
+    "strands/Translation, Art, Form, Lyric, Experience.md",
+    "strands/Theatre, Drama, Dance, Death, Dramatic.md",
+    "strands/Culture, Nationalism, Identity, National, Political.md",
+    "attachments/Pasted image 20260411035113.png",
+    "strands/Self, Byzantium, Art, Human, Unity.md",
+    "strands/Love, Gonne, Maud, Beckett, Woman.md",
+    "scripts/05b_topic_ratios.py.tmp.43412.1775846866649",
+    "scripts/05b_topic_ratios.py.tmp.43412.1775846861073",
+    "Untitled 1.md",
+    "attachments/Pasted image 20260411034503.png",
+    "attachments/Pasted image 20260411033656.png",
+    "probe_results.md",
+    "scripts/06_create_strand_pages.py.tmp.43412.1775843321679",
+    "scripts/06_create_strand_pages.py.tmp.43412.1775843206004",
+    "scripts/06_create_strand_pages.py.tmp.43412.1775843184343",
+    "scripts/06_create_strand_pages.py.tmp.43412.1775842909075",
+    "strands/Spenser, Celtic, Joyce, Twilight, Wilde.md",
+    "KCI.md",
+    "strands/Memory, Critical, Year, Scholar, Time.md",
+    "OpenAlex.md",
+    "citations.md",
+    "findings-supporting-abstracts.md",
+    "methodology-reference.md",
+    "papers/kci/2012 - Yeats's Eugenical and Psychical Aesthetics.md",
+    "papers/openalex/2010 - The rule of kindred eugenics,_Purgatory_, and Yeats's race philosophy.md",
+    "papers/openalex/1996 - Yeats's Nations.md",
+    "papers/kci/2004 - Yeats's Universe-Soul Correspondence and Christian Mysticism.md",
+    "papers/kci/2005 - 예이츠 시의 포스트콜로니얼적인 접근.md",
+    "readme.md.tmp.12976.1775737235512",
+    "readme.md.tmp.12976.1775737228827",
+    "assets/probe-inversion.png",
+    "assets/probe-stems.png",
+    "assets/probe-by-strand.png"
+  ]
+}

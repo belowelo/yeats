@@ -1,0 +1,23 @@
+---
+title: "Brian Arkins, _The Thought of W. B. Yeats_ (Bern: Peter Lang, 2010), ISBN 978-3-03911939-4, pp. xi + 192; J. P. Mahaffy, _Rambles & Studies in Greece_, with an Introduction and Commentary by Brian Arkins (Ulster Editions and Monographs 17; Gerrards Cross: Colin Smythe, 2012), ISBN 978-0-86140-430-8, pp. 29 + 241"
+authors: ["Michaël Edwards"]
+year: 2016
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.11647/obp.0081.21"
+journal: "Open Book Publishers"
+strands:
+  - "[[Self, Byzantium, Art, Human, Unity]]"
+strand_probs:
+  Self, Byzantium, Art, Human, Unity: 0.976
+probe_matches: []
+works_discussed: []
+---
+
+## Abstract
+
+This number of Yeats Annual collects the essays resulting from the University College Cork/ESB International Annual W. B. Yeats Lectures Series (2003-2008) by Roy Foster, Warwick Gould, John Kelly, Paul Muldoon, Bernard O'Donoghue and Helen Vendler. Those that were available in pamphlet form are now collectors' items, but here is the complete series. These revised essays cover such themes as Yeats and the Refrain, Yeats as a Love Poet, Yeats, Ireland and Europe, the puzzles he created and solved with his art of poetic sequences, and his long and crucial interaction with the emerging T. S. Eliot.
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

@@ -1,0 +1,4482 @@
+{
+  "total": 1449,
+  "sources": {
+    "nltk_english": 198,
+    "nltk_spanish": 313,
+    "nltk_portuguese": 207,
+    "nltk_italian": 279,
+    "nltk_german": 232,
+    "nltk_french": 157,
+    "boilerplate (scraped page furniture)": 71,
+    "venue artifacts (Yeats Annual editorial apparatus)": 102,
+    "domain universal": 9
+  },
+  "words": {
+    "a": [
+      "nltk_english",
+      "nltk_spanish",
+      "nltk_portuguese",
+      "nltk_italian"
+    ],
+    "abbia": [
+      "nltk_italian"
+    ],
+    "abbiamo": [
+      "nltk_italian"
+    ],
+    "abbiano": [
+      "nltk_italian"
+    ],
+    "abbiate": [
+      "nltk_italian"
+    ],
+    "aber": [
+      "nltk_german"
+    ],
+    "about": [
+      "nltk_english"
+    ],
+    "above": [
+      "nltk_english"
+    ],
+    "access": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "ad": [
+      "nltk_italian"
+    ],
+    "added": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "aesthetic": [
+      "domain universal"
+    ],
+    "after": [
+      "nltk_english"
+    ],
+    "again": [
+      "nltk_english"
+    ],
+    "against": [
+      "nltk_english"
+    ],
+    "agl": [
+      "nltk_italian"
+    ],
+    "agli": [
+      "nltk_italian"
+    ],
+    "ai": [
+      "nltk_french",
+      "nltk_italian"
+    ],
+    "aie": [
+      "nltk_french"
+    ],
+    "aient": [
+      "nltk_french"
+    ],
+    "aies": [
+      "nltk_french"
+    ],
+    "ain": [
+      "nltk_english"
+    ],
+    "ait": [
+      "nltk_french"
+    ],
+    "al": [
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "algo": [
+      "nltk_spanish"
+    ],
+    "algorithm": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "algunas": [
+      "nltk_spanish"
+    ],
+    "algunos": [
+      "nltk_spanish"
+    ],
+    "all": [
+      "nltk_english",
+      "nltk_italian"
+    ],
+    "alla": [
+      "nltk_italian"
+    ],
+    "alle": [
+      "nltk_german",
+      "nltk_italian"
+    ],
+    "allem": [
+      "nltk_german"
+    ],
+    "allen": [
+      "nltk_german"
+    ],
+    "aller": [
+      "nltk_german"
+    ],
+    "alles": [
+      "nltk_german"
+    ],
+    "allo": [
+      "nltk_italian"
+    ],
+    "als": [
+      "nltk_german"
+    ],
+    "also": [
+      "nltk_german",
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "although": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "am": [
+      "nltk_english",
+      "nltk_german"
+    ],
+    "an": [
+      "nltk_english",
+      "nltk_german"
+    ],
+    "analyse": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "analysis": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "analyze": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "anche": [
+      "nltk_italian"
+    ],
+    "and": [
+      "nltk_english"
+    ],
+    "ander": [
+      "nltk_german"
+    ],
+    "andere": [
+      "nltk_german"
+    ],
+    "anderem": [
+      "nltk_german"
+    ],
+    "anderen": [
+      "nltk_german"
+    ],
+    "anderer": [
+      "nltk_german"
+    ],
+    "anderes": [
+      "nltk_german"
+    ],
+    "anderm": [
+      "nltk_german"
+    ],
+    "andern": [
+      "nltk_german"
+    ],
+    "anderr": [
+      "nltk_german"
+    ],
+    "anders": [
+      "nltk_german"
+    ],
+    "annual": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "another": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "ante": [
+      "nltk_spanish"
+    ],
+    "antes": [
+      "nltk_spanish"
+    ],
+    "any": [
+      "nltk_english"
+    ],
+    "ao": [
+      "nltk_portuguese"
+    ],
+    "aos": [
+      "nltk_portuguese"
+    ],
+    "appendix": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "approach": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "aquela": [
+      "nltk_portuguese"
+    ],
+    "aquelas": [
+      "nltk_portuguese"
+    ],
+    "aquele": [
+      "nltk_portuguese"
+    ],
+    "aqueles": [
+      "nltk_portuguese"
+    ],
+    "aquilo": [
+      "nltk_portuguese"
+    ],
+    "are": [
+      "nltk_english"
+    ],
+    "aren": [
+      "nltk_english"
+    ],
+    "aren't": [
+      "nltk_english"
+    ],
+    "argue": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "argument": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "article": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "as": [
+      "nltk_english",
+      "nltk_french",
+      "nltk_portuguese"
+    ],
+    "at": [
+      "nltk_english"
+    ],
+    "attempt": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "até": [
+      "nltk_portuguese"
+    ],
+    "au": [
+      "nltk_french"
+    ],
+    "auch": [
+      "nltk_german"
+    ],
+    "auf": [
+      "nltk_german"
+    ],
+    "aura": [
+      "nltk_french"
+    ],
+    "aurai": [
+      "nltk_french"
+    ],
+    "auraient": [
+      "nltk_french"
+    ],
+    "aurais": [
+      "nltk_french"
+    ],
+    "aurait": [
+      "nltk_french"
+    ],
+    "auras": [
+      "nltk_french"
+    ],
+    "aurez": [
+      "nltk_french"
+    ],
+    "auriez": [
+      "nltk_french"
+    ],
+    "aurions": [
+      "nltk_french"
+    ],
+    "aurons": [
+      "nltk_french"
+    ],
+    "auront": [
+      "nltk_french"
+    ],
+    "aus": [
+      "nltk_german"
+    ],
+    "author": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "authors": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "auto": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "aux": [
+      "nltk_french"
+    ],
+    "avaient": [
+      "nltk_french"
+    ],
+    "available": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "avais": [
+      "nltk_french"
+    ],
+    "avait": [
+      "nltk_french"
+    ],
+    "avec": [
+      "nltk_french"
+    ],
+    "avemmo": [
+      "nltk_italian"
+    ],
+    "avendo": [
+      "nltk_italian"
+    ],
+    "avesse": [
+      "nltk_italian"
+    ],
+    "avessero": [
+      "nltk_italian"
+    ],
+    "avessi": [
+      "nltk_italian"
+    ],
+    "avessimo": [
+      "nltk_italian"
+    ],
+    "aveste": [
+      "nltk_italian"
+    ],
+    "avesti": [
+      "nltk_italian"
+    ],
+    "avete": [
+      "nltk_italian"
+    ],
+    "aveva": [
+      "nltk_italian"
+    ],
+    "avevamo": [
+      "nltk_italian"
+    ],
+    "avevano": [
+      "nltk_italian"
+    ],
+    "avevate": [
+      "nltk_italian"
+    ],
+    "avevi": [
+      "nltk_italian"
+    ],
+    "avevo": [
+      "nltk_italian"
+    ],
+    "avez": [
+      "nltk_french"
+    ],
+    "aviez": [
+      "nltk_french"
+    ],
+    "avions": [
+      "nltk_french"
+    ],
+    "avons": [
+      "nltk_french"
+    ],
+    "avrai": [
+      "nltk_italian"
+    ],
+    "avranno": [
+      "nltk_italian"
+    ],
+    "avrebbe": [
+      "nltk_italian"
+    ],
+    "avrebbero": [
+      "nltk_italian"
+    ],
+    "avrei": [
+      "nltk_italian"
+    ],
+    "avremmo": [
+      "nltk_italian"
+    ],
+    "avremo": [
+      "nltk_italian"
+    ],
+    "avreste": [
+      "nltk_italian"
+    ],
+    "avresti": [
+      "nltk_italian"
+    ],
+    "avrete": [
+      "nltk_italian"
+    ],
+    "avrà": [
+      "nltk_italian"
+    ],
+    "avrò": [
+      "nltk_italian"
+    ],
+    "avuta": [
+      "nltk_italian"
+    ],
+    "avute": [
+      "nltk_italian"
+    ],
+    "avuti": [
+      "nltk_italian"
+    ],
+    "avuto": [
+      "nltk_italian"
+    ],
+    "ayant": [
+      "nltk_french"
+    ],
+    "ayante": [
+      "nltk_french"
+    ],
+    "ayantes": [
+      "nltk_french"
+    ],
+    "ayants": [
+      "nltk_french"
+    ],
+    "ayez": [
+      "nltk_french"
+    ],
+    "ayons": [
+      "nltk_french"
+    ],
+    "be": [
+      "nltk_english"
+    ],
+    "because": [
+      "nltk_english"
+    ],
+    "become": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "been": [
+      "nltk_english"
+    ],
+    "before": [
+      "nltk_english"
+    ],
+    "bei": [
+      "nltk_german"
+    ],
+    "being": [
+      "nltk_english"
+    ],
+    "below": [
+      "nltk_english"
+    ],
+    "between": [
+      "nltk_english"
+    ],
+    "bibliography": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "bin": [
+      "nltk_german"
+    ],
+    "bis": [
+      "nltk_german"
+    ],
+    "bist": [
+      "nltk_german"
+    ],
+    "book": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "both": [
+      "nltk_english"
+    ],
+    "but": [
+      "nltk_english"
+    ],
+    "butler": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "by": [
+      "nltk_english"
+    ],
+    "c": [
+      "nltk_french",
+      "nltk_italian"
+    ],
+    "cambridge": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "can": [
+      "nltk_english"
+    ],
+    "ce": [
+      "nltk_french"
+    ],
+    "ces": [
+      "nltk_french"
+    ],
+    "chapter": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "che": [
+      "nltk_italian"
+    ],
+    "chi": [
+      "nltk_italian"
+    ],
+    "ci": [
+      "nltk_italian"
+    ],
+    "citation": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "cite": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "click": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "coi": [
+      "nltk_italian"
+    ],
+    "col": [
+      "nltk_italian"
+    ],
+    "com": [
+      "nltk_portuguese",
+      "boilerplate (scraped page furniture)"
+    ],
+    "come": [
+      "nltk_italian"
+    ],
+    "como": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "con": [
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "conclusion": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "consider": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "content": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "context": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "contra": [
+      "nltk_spanish"
+    ],
+    "contro": [
+      "nltk_italian"
+    ],
+    "copyright": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "could": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "couldn": [
+      "nltk_english"
+    ],
+    "couldn't": [
+      "nltk_english"
+    ],
+    "cual": [
+      "nltk_spanish"
+    ],
+    "cuando": [
+      "nltk_spanish"
+    ],
+    "cui": [
+      "nltk_italian"
+    ],
+    "d": [
+      "nltk_english",
+      "nltk_french"
+    ],
+    "da": [
+      "nltk_portuguese",
+      "nltk_german",
+      "nltk_italian"
+    ],
+    "dagl": [
+      "nltk_italian"
+    ],
+    "dagli": [
+      "nltk_italian"
+    ],
+    "dai": [
+      "nltk_italian"
+    ],
+    "dal": [
+      "nltk_italian"
+    ],
+    "dall": [
+      "nltk_italian"
+    ],
+    "dalla": [
+      "nltk_italian"
+    ],
+    "dalle": [
+      "nltk_italian"
+    ],
+    "dallo": [
+      "nltk_italian"
+    ],
+    "damit": [
+      "nltk_german"
+    ],
+    "dann": [
+      "nltk_german"
+    ],
+    "dans": [
+      "nltk_french"
+    ],
+    "das": [
+      "nltk_portuguese",
+      "nltk_german"
+    ],
+    "dass": [
+      "nltk_german"
+    ],
+    "dasselbe": [
+      "nltk_german"
+    ],
+    "dazu": [
+      "nltk_german"
+    ],
+    "daß": [
+      "nltk_german"
+    ],
+    "de": [
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "decrease": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "degl": [
+      "nltk_italian"
+    ],
+    "degli": [
+      "nltk_italian"
+    ],
+    "dei": [
+      "nltk_italian"
+    ],
+    "dein": [
+      "nltk_german"
+    ],
+    "deine": [
+      "nltk_german"
+    ],
+    "deinem": [
+      "nltk_german"
+    ],
+    "deinen": [
+      "nltk_german"
+    ],
+    "deiner": [
+      "nltk_german"
+    ],
+    "deines": [
+      "nltk_german"
+    ],
+    "del": [
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "dela": [
+      "nltk_portuguese"
+    ],
+    "delas": [
+      "nltk_portuguese"
+    ],
+    "dele": [
+      "nltk_portuguese"
+    ],
+    "deles": [
+      "nltk_portuguese"
+    ],
+    "dell": [
+      "nltk_italian"
+    ],
+    "della": [
+      "nltk_italian"
+    ],
+    "delle": [
+      "nltk_italian"
+    ],
+    "dello": [
+      "nltk_italian"
+    ],
+    "dem": [
+      "nltk_german"
+    ],
+    "demonstrate": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "demselben": [
+      "nltk_german"
+    ],
+    "den": [
+      "nltk_german"
+    ],
+    "denn": [
+      "nltk_german"
+    ],
+    "denselben": [
+      "nltk_german"
+    ],
+    "depois": [
+      "nltk_portuguese"
+    ],
+    "der": [
+      "nltk_german"
+    ],
+    "derer": [
+      "nltk_german"
+    ],
+    "derselbe": [
+      "nltk_german"
+    ],
+    "derselben": [
+      "nltk_german"
+    ],
+    "des": [
+      "nltk_french",
+      "nltk_german"
+    ],
+    "desde": [
+      "nltk_spanish"
+    ],
+    "desselben": [
+      "nltk_german"
+    ],
+    "dessen": [
+      "nltk_german"
+    ],
+    "di": [
+      "nltk_italian"
+    ],
+    "dich": [
+      "nltk_german"
+    ],
+    "did": [
+      "nltk_english"
+    ],
+    "didn": [
+      "nltk_english"
+    ],
+    "didn't": [
+      "nltk_english"
+    ],
+    "die": [
+      "nltk_german"
+    ],
+    "dies": [
+      "nltk_german"
+    ],
+    "diese": [
+      "nltk_german"
+    ],
+    "dieselbe": [
+      "nltk_german"
+    ],
+    "dieselben": [
+      "nltk_german"
+    ],
+    "diesem": [
+      "nltk_german"
+    ],
+    "diesen": [
+      "nltk_german"
+    ],
+    "dieser": [
+      "nltk_german"
+    ],
+    "dieses": [
+      "nltk_german"
+    ],
+    "different": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "dir": [
+      "nltk_german"
+    ],
+    "discuss": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "do": [
+      "nltk_english",
+      "nltk_portuguese"
+    ],
+    "doch": [
+      "nltk_german"
+    ],
+    "does": [
+      "nltk_english"
+    ],
+    "doesn": [
+      "nltk_english"
+    ],
+    "doesn't": [
+      "nltk_english"
+    ],
+    "doi": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "doing": [
+      "nltk_english"
+    ],
+    "don": [
+      "nltk_english"
+    ],
+    "don't": [
+      "nltk_english"
+    ],
+    "donde": [
+      "nltk_spanish"
+    ],
+    "dort": [
+      "nltk_german"
+    ],
+    "dos": [
+      "nltk_portuguese"
+    ],
+    "dov": [
+      "nltk_italian"
+    ],
+    "dove": [
+      "nltk_italian"
+    ],
+    "down": [
+      "nltk_english"
+    ],
+    "download": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "dropdown": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "du": [
+      "nltk_french",
+      "nltk_german"
+    ],
+    "durante": [
+      "nltk_spanish"
+    ],
+    "durch": [
+      "nltk_german"
+    ],
+    "during": [
+      "nltk_english"
+    ],
+    "e": [
+      "nltk_spanish",
+      "nltk_portuguese",
+      "nltk_italian"
+    ],
+    "each": [
+      "nltk_english"
+    ],
+    "early": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "ebbe": [
+      "nltk_italian"
+    ],
+    "ebbero": [
+      "nltk_italian"
+    ],
+    "ebbi": [
+      "nltk_italian"
+    ],
+    "ebsco": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "ed": [
+      "nltk_italian"
+    ],
+    "edited": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "edition": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "editor": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "ein": [
+      "nltk_german"
+    ],
+    "eine": [
+      "nltk_german"
+    ],
+    "einem": [
+      "nltk_german"
+    ],
+    "einen": [
+      "nltk_german"
+    ],
+    "einer": [
+      "nltk_german"
+    ],
+    "eines": [
+      "nltk_german"
+    ],
+    "einig": [
+      "nltk_german"
+    ],
+    "einige": [
+      "nltk_german"
+    ],
+    "einigem": [
+      "nltk_german"
+    ],
+    "einigen": [
+      "nltk_german"
+    ],
+    "einiger": [
+      "nltk_german"
+    ],
+    "einiges": [
+      "nltk_german"
+    ],
+    "einmal": [
+      "nltk_german"
+    ],
+    "el": [
+      "nltk_spanish"
+    ],
+    "ela": [
+      "nltk_portuguese"
+    ],
+    "elas": [
+      "nltk_portuguese"
+    ],
+    "ele": [
+      "nltk_portuguese"
+    ],
+    "eles": [
+      "nltk_portuguese"
+    ],
+    "ella": [
+      "nltk_spanish"
+    ],
+    "ellas": [
+      "nltk_spanish"
+    ],
+    "elle": [
+      "nltk_french"
+    ],
+    "ellos": [
+      "nltk_spanish"
+    ],
+    "elsevier": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "em": [
+      "nltk_portuguese"
+    ],
+    "en": [
+      "nltk_french",
+      "nltk_spanish"
+    ],
+    "endnote": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "entre": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "er": [
+      "nltk_german"
+    ],
+    "era": [
+      "nltk_spanish",
+      "nltk_portuguese",
+      "nltk_italian"
+    ],
+    "erais": [
+      "nltk_spanish"
+    ],
+    "eram": [
+      "nltk_portuguese"
+    ],
+    "eran": [
+      "nltk_spanish"
+    ],
+    "erano": [
+      "nltk_italian"
+    ],
+    "eras": [
+      "nltk_spanish"
+    ],
+    "eravamo": [
+      "nltk_italian"
+    ],
+    "eravate": [
+      "nltk_italian"
+    ],
+    "eres": [
+      "nltk_spanish"
+    ],
+    "eri": [
+      "nltk_italian"
+    ],
+    "ero": [
+      "nltk_italian"
+    ],
+    "es": [
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_german"
+    ],
+    "esa": [
+      "nltk_spanish"
+    ],
+    "esas": [
+      "nltk_spanish"
+    ],
+    "ese": [
+      "nltk_spanish"
+    ],
+    "eso": [
+      "nltk_spanish"
+    ],
+    "esos": [
+      "nltk_spanish"
+    ],
+    "essa": [
+      "nltk_portuguese"
+    ],
+    "essas": [
+      "nltk_portuguese"
+    ],
+    "essay": [
+      "domain universal"
+    ],
+    "esse": [
+      "nltk_portuguese"
+    ],
+    "essendo": [
+      "nltk_italian"
+    ],
+    "esses": [
+      "nltk_portuguese"
+    ],
+    "est": [
+      "nltk_french"
+    ],
+    "esta": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "estaba": [
+      "nltk_spanish"
+    ],
+    "estabais": [
+      "nltk_spanish"
+    ],
+    "estaban": [
+      "nltk_spanish"
+    ],
+    "estabas": [
+      "nltk_spanish"
+    ],
+    "estad": [
+      "nltk_spanish"
+    ],
+    "estada": [
+      "nltk_spanish"
+    ],
+    "estadas": [
+      "nltk_spanish"
+    ],
+    "estado": [
+      "nltk_spanish"
+    ],
+    "estados": [
+      "nltk_spanish"
+    ],
+    "estamos": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "estando": [
+      "nltk_spanish"
+    ],
+    "estar": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "estaremos": [
+      "nltk_spanish"
+    ],
+    "estará": [
+      "nltk_spanish"
+    ],
+    "estarán": [
+      "nltk_spanish"
+    ],
+    "estarás": [
+      "nltk_spanish"
+    ],
+    "estaré": [
+      "nltk_spanish"
+    ],
+    "estaréis": [
+      "nltk_spanish"
+    ],
+    "estaría": [
+      "nltk_spanish"
+    ],
+    "estaríais": [
+      "nltk_spanish"
+    ],
+    "estaríamos": [
+      "nltk_spanish"
+    ],
+    "estarían": [
+      "nltk_spanish"
+    ],
+    "estarías": [
+      "nltk_spanish"
+    ],
+    "estas": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "estava": [
+      "nltk_portuguese"
+    ],
+    "estavam": [
+      "nltk_portuguese"
+    ],
+    "este": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "esteja": [
+      "nltk_portuguese"
+    ],
+    "estejam": [
+      "nltk_portuguese"
+    ],
+    "estejamos": [
+      "nltk_portuguese"
+    ],
+    "estemos": [
+      "nltk_spanish"
+    ],
+    "estes": [
+      "nltk_portuguese"
+    ],
+    "esteve": [
+      "nltk_portuguese"
+    ],
+    "estive": [
+      "nltk_portuguese"
+    ],
+    "estivemos": [
+      "nltk_portuguese"
+    ],
+    "estiver": [
+      "nltk_portuguese"
+    ],
+    "estivera": [
+      "nltk_portuguese"
+    ],
+    "estiveram": [
+      "nltk_portuguese"
+    ],
+    "estiverem": [
+      "nltk_portuguese"
+    ],
+    "estivermos": [
+      "nltk_portuguese"
+    ],
+    "estivesse": [
+      "nltk_portuguese"
+    ],
+    "estivessem": [
+      "nltk_portuguese"
+    ],
+    "estivéramos": [
+      "nltk_portuguese"
+    ],
+    "estivéssemos": [
+      "nltk_portuguese"
+    ],
+    "esto": [
+      "nltk_spanish"
+    ],
+    "estos": [
+      "nltk_spanish"
+    ],
+    "estou": [
+      "nltk_portuguese"
+    ],
+    "estoy": [
+      "nltk_spanish"
+    ],
+    "estuve": [
+      "nltk_spanish"
+    ],
+    "estuviera": [
+      "nltk_spanish"
+    ],
+    "estuvierais": [
+      "nltk_spanish"
+    ],
+    "estuvieran": [
+      "nltk_spanish"
+    ],
+    "estuvieras": [
+      "nltk_spanish"
+    ],
+    "estuvieron": [
+      "nltk_spanish"
+    ],
+    "estuviese": [
+      "nltk_spanish"
+    ],
+    "estuvieseis": [
+      "nltk_spanish"
+    ],
+    "estuviesen": [
+      "nltk_spanish"
+    ],
+    "estuvieses": [
+      "nltk_spanish"
+    ],
+    "estuvimos": [
+      "nltk_spanish"
+    ],
+    "estuviste": [
+      "nltk_spanish"
+    ],
+    "estuvisteis": [
+      "nltk_spanish"
+    ],
+    "estuviéramos": [
+      "nltk_spanish"
+    ],
+    "estuviésemos": [
+      "nltk_spanish"
+    ],
+    "estuvo": [
+      "nltk_spanish"
+    ],
+    "está": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "estábamos": [
+      "nltk_spanish"
+    ],
+    "estáis": [
+      "nltk_spanish"
+    ],
+    "están": [
+      "nltk_spanish"
+    ],
+    "estás": [
+      "nltk_spanish"
+    ],
+    "estávamos": [
+      "nltk_portuguese"
+    ],
+    "estão": [
+      "nltk_portuguese"
+    ],
+    "esté": [
+      "nltk_spanish"
+    ],
+    "estéis": [
+      "nltk_spanish"
+    ],
+    "estén": [
+      "nltk_spanish"
+    ],
+    "estés": [
+      "nltk_spanish"
+    ],
+    "et": [
+      "nltk_french"
+    ],
+    "etwas": [
+      "nltk_german"
+    ],
+    "eu": [
+      "nltk_french",
+      "nltk_portuguese"
+    ],
+    "euch": [
+      "nltk_german"
+    ],
+    "eue": [
+      "nltk_french"
+    ],
+    "euer": [
+      "nltk_german"
+    ],
+    "eues": [
+      "nltk_french"
+    ],
+    "eure": [
+      "nltk_german"
+    ],
+    "eurem": [
+      "nltk_german"
+    ],
+    "euren": [
+      "nltk_german"
+    ],
+    "eurent": [
+      "nltk_french"
+    ],
+    "eurer": [
+      "nltk_german"
+    ],
+    "eures": [
+      "nltk_german"
+    ],
+    "eus": [
+      "nltk_french"
+    ],
+    "eusse": [
+      "nltk_french"
+    ],
+    "eussent": [
+      "nltk_french"
+    ],
+    "eusses": [
+      "nltk_french"
+    ],
+    "eussiez": [
+      "nltk_french"
+    ],
+    "eussions": [
+      "nltk_french"
+    ],
+    "eut": [
+      "nltk_french"
+    ],
+    "eux": [
+      "nltk_french"
+    ],
+    "even": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "examine": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "experimental": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "explore": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "eûmes": [
+      "nltk_french"
+    ],
+    "eût": [
+      "nltk_french"
+    ],
+    "eûtes": [
+      "nltk_french"
+    ],
+    "faccia": [
+      "nltk_italian"
+    ],
+    "facciamo": [
+      "nltk_italian"
+    ],
+    "facciano": [
+      "nltk_italian"
+    ],
+    "facciate": [
+      "nltk_italian"
+    ],
+    "faccio": [
+      "nltk_italian"
+    ],
+    "facebook": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "facemmo": [
+      "nltk_italian"
+    ],
+    "facendo": [
+      "nltk_italian"
+    ],
+    "facesse": [
+      "nltk_italian"
+    ],
+    "facessero": [
+      "nltk_italian"
+    ],
+    "facessi": [
+      "nltk_italian"
+    ],
+    "facessimo": [
+      "nltk_italian"
+    ],
+    "faceste": [
+      "nltk_italian"
+    ],
+    "facesti": [
+      "nltk_italian"
+    ],
+    "faceva": [
+      "nltk_italian"
+    ],
+    "facevamo": [
+      "nltk_italian"
+    ],
+    "facevano": [
+      "nltk_italian"
+    ],
+    "facevate": [
+      "nltk_italian"
+    ],
+    "facevi": [
+      "nltk_italian"
+    ],
+    "facevo": [
+      "nltk_italian"
+    ],
+    "fai": [
+      "nltk_italian"
+    ],
+    "fanno": [
+      "nltk_italian"
+    ],
+    "farai": [
+      "nltk_italian"
+    ],
+    "faranno": [
+      "nltk_italian"
+    ],
+    "farebbe": [
+      "nltk_italian"
+    ],
+    "farebbero": [
+      "nltk_italian"
+    ],
+    "farei": [
+      "nltk_italian"
+    ],
+    "faremmo": [
+      "nltk_italian"
+    ],
+    "faremo": [
+      "nltk_italian"
+    ],
+    "fareste": [
+      "nltk_italian"
+    ],
+    "faresti": [
+      "nltk_italian"
+    ],
+    "farete": [
+      "nltk_italian"
+    ],
+    "farà": [
+      "nltk_italian"
+    ],
+    "farò": [
+      "nltk_italian"
+    ],
+    "fece": [
+      "nltk_italian"
+    ],
+    "fecero": [
+      "nltk_italian"
+    ],
+    "feci": [
+      "nltk_italian"
+    ],
+    "few": [
+      "nltk_english"
+    ],
+    "filter": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "first": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "focus": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "foi": [
+      "nltk_portuguese"
+    ],
+    "fomos": [
+      "nltk_portuguese"
+    ],
+    "footnote": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "for": [
+      "nltk_english",
+      "nltk_portuguese"
+    ],
+    "fora": [
+      "nltk_portuguese"
+    ],
+    "foram": [
+      "nltk_portuguese"
+    ],
+    "forem": [
+      "nltk_portuguese"
+    ],
+    "foreword": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "formos": [
+      "nltk_portuguese"
+    ],
+    "fosse": [
+      "nltk_portuguese",
+      "nltk_italian"
+    ],
+    "fossem": [
+      "nltk_portuguese"
+    ],
+    "fossero": [
+      "nltk_italian"
+    ],
+    "fossi": [
+      "nltk_italian"
+    ],
+    "fossimo": [
+      "nltk_italian"
+    ],
+    "foste": [
+      "nltk_italian"
+    ],
+    "foster": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "fosti": [
+      "nltk_italian"
+    ],
+    "francis": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "from": [
+      "nltk_english"
+    ],
+    "fu": [
+      "nltk_italian"
+    ],
+    "fue": [
+      "nltk_spanish"
+    ],
+    "fuera": [
+      "nltk_spanish"
+    ],
+    "fuerais": [
+      "nltk_spanish"
+    ],
+    "fueran": [
+      "nltk_spanish"
+    ],
+    "fueras": [
+      "nltk_spanish"
+    ],
+    "fueron": [
+      "nltk_spanish"
+    ],
+    "fuese": [
+      "nltk_spanish"
+    ],
+    "fueseis": [
+      "nltk_spanish"
+    ],
+    "fuesen": [
+      "nltk_spanish"
+    ],
+    "fueses": [
+      "nltk_spanish"
+    ],
+    "fui": [
+      "nltk_spanish",
+      "nltk_portuguese",
+      "nltk_italian"
+    ],
+    "fuimos": [
+      "nltk_spanish"
+    ],
+    "fuiste": [
+      "nltk_spanish"
+    ],
+    "fuisteis": [
+      "nltk_spanish"
+    ],
+    "fummo": [
+      "nltk_italian"
+    ],
+    "furent": [
+      "nltk_french"
+    ],
+    "furono": [
+      "nltk_italian"
+    ],
+    "further": [
+      "nltk_english"
+    ],
+    "fus": [
+      "nltk_french"
+    ],
+    "fusse": [
+      "nltk_french"
+    ],
+    "fussent": [
+      "nltk_french"
+    ],
+    "fusses": [
+      "nltk_french"
+    ],
+    "fussiez": [
+      "nltk_french"
+    ],
+    "fussions": [
+      "nltk_french"
+    ],
+    "fut": [
+      "nltk_french"
+    ],
+    "fuéramos": [
+      "nltk_spanish"
+    ],
+    "fuésemos": [
+      "nltk_spanish"
+    ],
+    "fôramos": [
+      "nltk_portuguese"
+    ],
+    "fôssemos": [
+      "nltk_portuguese"
+    ],
+    "fûmes": [
+      "nltk_french"
+    ],
+    "fût": [
+      "nltk_french"
+    ],
+    "fûtes": [
+      "nltk_french"
+    ],
+    "für": [
+      "nltk_german"
+    ],
+    "gegen": [
+      "nltk_german"
+    ],
+    "gewesen": [
+      "nltk_german"
+    ],
+    "gli": [
+      "nltk_italian"
+    ],
+    "gould": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "great": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "ha": [
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "hab": [
+      "nltk_german"
+    ],
+    "habe": [
+      "nltk_german"
+    ],
+    "haben": [
+      "nltk_german"
+    ],
+    "habida": [
+      "nltk_spanish"
+    ],
+    "habidas": [
+      "nltk_spanish"
+    ],
+    "habido": [
+      "nltk_spanish"
+    ],
+    "habidos": [
+      "nltk_spanish"
+    ],
+    "habiendo": [
+      "nltk_spanish"
+    ],
+    "habremos": [
+      "nltk_spanish"
+    ],
+    "habrá": [
+      "nltk_spanish"
+    ],
+    "habrán": [
+      "nltk_spanish"
+    ],
+    "habrás": [
+      "nltk_spanish"
+    ],
+    "habré": [
+      "nltk_spanish"
+    ],
+    "habréis": [
+      "nltk_spanish"
+    ],
+    "habría": [
+      "nltk_spanish"
+    ],
+    "habríais": [
+      "nltk_spanish"
+    ],
+    "habríamos": [
+      "nltk_spanish"
+    ],
+    "habrían": [
+      "nltk_spanish"
+    ],
+    "habrías": [
+      "nltk_spanish"
+    ],
+    "habéis": [
+      "nltk_spanish"
+    ],
+    "había": [
+      "nltk_spanish"
+    ],
+    "habíais": [
+      "nltk_spanish"
+    ],
+    "habíamos": [
+      "nltk_spanish"
+    ],
+    "habían": [
+      "nltk_spanish"
+    ],
+    "habías": [
+      "nltk_spanish"
+    ],
+    "had": [
+      "nltk_english"
+    ],
+    "hadn": [
+      "nltk_english"
+    ],
+    "hadn't": [
+      "nltk_english"
+    ],
+    "hai": [
+      "nltk_italian"
+    ],
+    "haja": [
+      "nltk_portuguese"
+    ],
+    "hajam": [
+      "nltk_portuguese"
+    ],
+    "hajamos": [
+      "nltk_portuguese"
+    ],
+    "han": [
+      "nltk_spanish"
+    ],
+    "hanno": [
+      "nltk_italian"
+    ],
+    "has": [
+      "nltk_english",
+      "nltk_spanish"
+    ],
+    "hasn": [
+      "nltk_english"
+    ],
+    "hasn't": [
+      "nltk_english"
+    ],
+    "hasta": [
+      "nltk_spanish"
+    ],
+    "hat": [
+      "nltk_german"
+    ],
+    "hatte": [
+      "nltk_german"
+    ],
+    "hatten": [
+      "nltk_german"
+    ],
+    "have": [
+      "nltk_english"
+    ],
+    "havemos": [
+      "nltk_portuguese"
+    ],
+    "haven": [
+      "nltk_english"
+    ],
+    "haven't": [
+      "nltk_english"
+    ],
+    "haver": [
+      "nltk_portuguese"
+    ],
+    "having": [
+      "nltk_english"
+    ],
+    "hay": [
+      "nltk_spanish"
+    ],
+    "haya": [
+      "nltk_spanish"
+    ],
+    "hayamos": [
+      "nltk_spanish"
+    ],
+    "hayan": [
+      "nltk_spanish"
+    ],
+    "hayas": [
+      "nltk_spanish"
+    ],
+    "hayáis": [
+      "nltk_spanish"
+    ],
+    "he": [
+      "nltk_english",
+      "nltk_spanish"
+    ],
+    "he'd": [
+      "nltk_english"
+    ],
+    "he'll": [
+      "nltk_english"
+    ],
+    "he's": [
+      "nltk_english"
+    ],
+    "hei": [
+      "nltk_portuguese"
+    ],
+    "hemos": [
+      "nltk_spanish"
+    ],
+    "her": [
+      "nltk_english"
+    ],
+    "here": [
+      "nltk_english"
+    ],
+    "hers": [
+      "nltk_english"
+    ],
+    "herself": [
+      "nltk_english"
+    ],
+    "hier": [
+      "nltk_german"
+    ],
+    "him": [
+      "nltk_english"
+    ],
+    "himself": [
+      "nltk_english"
+    ],
+    "hin": [
+      "nltk_german"
+    ],
+    "hinter": [
+      "nltk_german"
+    ],
+    "his": [
+      "nltk_english"
+    ],
+    "ho": [
+      "nltk_italian"
+    ],
+    "houve": [
+      "nltk_portuguese"
+    ],
+    "houvemos": [
+      "nltk_portuguese"
+    ],
+    "houver": [
+      "nltk_portuguese"
+    ],
+    "houvera": [
+      "nltk_portuguese"
+    ],
+    "houveram": [
+      "nltk_portuguese"
+    ],
+    "houverei": [
+      "nltk_portuguese"
+    ],
+    "houverem": [
+      "nltk_portuguese"
+    ],
+    "houveremos": [
+      "nltk_portuguese"
+    ],
+    "houveria": [
+      "nltk_portuguese"
+    ],
+    "houveriam": [
+      "nltk_portuguese"
+    ],
+    "houvermos": [
+      "nltk_portuguese"
+    ],
+    "houverá": [
+      "nltk_portuguese"
+    ],
+    "houverão": [
+      "nltk_portuguese"
+    ],
+    "houveríamos": [
+      "nltk_portuguese"
+    ],
+    "houvesse": [
+      "nltk_portuguese"
+    ],
+    "houvessem": [
+      "nltk_portuguese"
+    ],
+    "houvéramos": [
+      "nltk_portuguese"
+    ],
+    "houvéssemos": [
+      "nltk_portuguese"
+    ],
+    "how": [
+      "nltk_english"
+    ],
+    "however": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "html": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "http": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "https": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "hube": [
+      "nltk_spanish"
+    ],
+    "hubiera": [
+      "nltk_spanish"
+    ],
+    "hubierais": [
+      "nltk_spanish"
+    ],
+    "hubieran": [
+      "nltk_spanish"
+    ],
+    "hubieras": [
+      "nltk_spanish"
+    ],
+    "hubieron": [
+      "nltk_spanish"
+    ],
+    "hubiese": [
+      "nltk_spanish"
+    ],
+    "hubieseis": [
+      "nltk_spanish"
+    ],
+    "hubiesen": [
+      "nltk_spanish"
+    ],
+    "hubieses": [
+      "nltk_spanish"
+    ],
+    "hubimos": [
+      "nltk_spanish"
+    ],
+    "hubiste": [
+      "nltk_spanish"
+    ],
+    "hubisteis": [
+      "nltk_spanish"
+    ],
+    "hubiéramos": [
+      "nltk_spanish"
+    ],
+    "hubiésemos": [
+      "nltk_spanish"
+    ],
+    "hubo": [
+      "nltk_spanish"
+    ],
+    "há": [
+      "nltk_portuguese"
+    ],
+    "hão": [
+      "nltk_portuguese"
+    ],
+    "i": [
+      "nltk_english",
+      "nltk_italian"
+    ],
+    "i'd": [
+      "nltk_english"
+    ],
+    "i'll": [
+      "nltk_english"
+    ],
+    "i'm": [
+      "nltk_english"
+    ],
+    "i've": [
+      "nltk_english"
+    ],
+    "ich": [
+      "nltk_german"
+    ],
+    "if": [
+      "nltk_english"
+    ],
+    "ihm": [
+      "nltk_german"
+    ],
+    "ihn": [
+      "nltk_german"
+    ],
+    "ihnen": [
+      "nltk_german"
+    ],
+    "ihr": [
+      "nltk_german"
+    ],
+    "ihre": [
+      "nltk_german"
+    ],
+    "ihrem": [
+      "nltk_german"
+    ],
+    "ihren": [
+      "nltk_german"
+    ],
+    "ihrer": [
+      "nltk_german"
+    ],
+    "ihres": [
+      "nltk_german"
+    ],
+    "il": [
+      "nltk_french",
+      "nltk_italian"
+    ],
+    "ils": [
+      "nltk_french"
+    ],
+    "im": [
+      "nltk_german"
+    ],
+    "image": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "important": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "improves": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "in": [
+      "nltk_english",
+      "nltk_german",
+      "nltk_italian"
+    ],
+    "increase": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "indem": [
+      "nltk_german"
+    ],
+    "index": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "input": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "ins": [
+      "nltk_german"
+    ],
+    "into": [
+      "nltk_english"
+    ],
+    "introduction": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "io": [
+      "nltk_italian"
+    ],
+    "ireland": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "irish": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "is": [
+      "nltk_english"
+    ],
+    "isn": [
+      "nltk_english"
+    ],
+    "isn't": [
+      "nltk_english"
+    ],
+    "isso": [
+      "nltk_portuguese"
+    ],
+    "issue": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "ist": [
+      "nltk_german"
+    ],
+    "isto": [
+      "nltk_portuguese"
+    ],
+    "it": [
+      "nltk_english"
+    ],
+    "it'd": [
+      "nltk_english"
+    ],
+    "it'll": [
+      "nltk_english"
+    ],
+    "it's": [
+      "nltk_english"
+    ],
+    "its": [
+      "nltk_english"
+    ],
+    "itself": [
+      "nltk_english"
+    ],
+    "j": [
+      "nltk_french"
+    ],
+    "je": [
+      "nltk_french"
+    ],
+    "jede": [
+      "nltk_german"
+    ],
+    "jedem": [
+      "nltk_german"
+    ],
+    "jeden": [
+      "nltk_german"
+    ],
+    "jeder": [
+      "nltk_german"
+    ],
+    "jedes": [
+      "nltk_german"
+    ],
+    "jene": [
+      "nltk_german"
+    ],
+    "jenem": [
+      "nltk_german"
+    ],
+    "jenen": [
+      "nltk_german"
+    ],
+    "jener": [
+      "nltk_german"
+    ],
+    "jenes": [
+      "nltk_german"
+    ],
+    "jetzt": [
+      "nltk_german"
+    ],
+    "jstor": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "just": [
+      "nltk_english"
+    ],
+    "já": [
+      "nltk_portuguese"
+    ],
+    "kann": [
+      "nltk_german"
+    ],
+    "kein": [
+      "nltk_german"
+    ],
+    "keine": [
+      "nltk_german"
+    ],
+    "keinem": [
+      "nltk_german"
+    ],
+    "keinen": [
+      "nltk_german"
+    ],
+    "keiner": [
+      "nltk_german"
+    ],
+    "keines": [
+      "nltk_german"
+    ],
+    "kelly": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "keyword": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "keywords": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "können": [
+      "nltk_german"
+    ],
+    "könnte": [
+      "nltk_german"
+    ],
+    "l": [
+      "nltk_french",
+      "nltk_italian"
+    ],
+    "la": [
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "las": [
+      "nltk_spanish"
+    ],
+    "later": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "le": [
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "learning": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "lecture": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "lei": [
+      "nltk_italian"
+    ],
+    "les": [
+      "nltk_french",
+      "nltk_spanish"
+    ],
+    "leur": [
+      "nltk_french"
+    ],
+    "lhe": [
+      "nltk_portuguese"
+    ],
+    "lhes": [
+      "nltk_portuguese"
+    ],
+    "li": [
+      "nltk_italian"
+    ],
+    "like": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "linkedin": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "literary": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "literature": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "ll": [
+      "nltk_english"
+    ],
+    "lo": [
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "login": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "loro": [
+      "nltk_italian"
+    ],
+    "los": [
+      "nltk_spanish"
+    ],
+    "lui": [
+      "nltk_french",
+      "nltk_italian"
+    ],
+    "m": [
+      "nltk_english",
+      "nltk_french"
+    ],
+    "ma": [
+      "nltk_english",
+      "nltk_french",
+      "nltk_italian"
+    ],
+    "machen": [
+      "nltk_german"
+    ],
+    "machine": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "macmillan": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "mailto": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "mais": [
+      "nltk_french",
+      "nltk_portuguese"
+    ],
+    "make": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "man": [
+      "nltk_german"
+    ],
+    "manche": [
+      "nltk_german"
+    ],
+    "manchem": [
+      "nltk_german"
+    ],
+    "manchen": [
+      "nltk_german"
+    ],
+    "mancher": [
+      "nltk_german"
+    ],
+    "manches": [
+      "nltk_german"
+    ],
+    "many": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "mas": [
+      "nltk_portuguese"
+    ],
+    "may": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "me": [
+      "nltk_english",
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "mein": [
+      "nltk_german"
+    ],
+    "meine": [
+      "nltk_german"
+    ],
+    "meinem": [
+      "nltk_german"
+    ],
+    "meinen": [
+      "nltk_german"
+    ],
+    "meiner": [
+      "nltk_german"
+    ],
+    "meines": [
+      "nltk_german"
+    ],
+    "menu": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "mes": [
+      "nltk_french"
+    ],
+    "mesmo": [
+      "nltk_portuguese"
+    ],
+    "meu": [
+      "nltk_portuguese"
+    ],
+    "meus": [
+      "nltk_portuguese"
+    ],
+    "mi": [
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "mia": [
+      "nltk_italian"
+    ],
+    "mich": [
+      "nltk_german"
+    ],
+    "mie": [
+      "nltk_italian"
+    ],
+    "miei": [
+      "nltk_italian"
+    ],
+    "might": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "mightn": [
+      "nltk_english"
+    ],
+    "mightn't": [
+      "nltk_english"
+    ],
+    "minha": [
+      "nltk_portuguese"
+    ],
+    "minhas": [
+      "nltk_portuguese"
+    ],
+    "mio": [
+      "nltk_italian"
+    ],
+    "mir": [
+      "nltk_german"
+    ],
+    "mis": [
+      "nltk_spanish"
+    ],
+    "mit": [
+      "nltk_german"
+    ],
+    "moi": [
+      "nltk_french"
+    ],
+    "mon": [
+      "nltk_french"
+    ],
+    "more": [
+      "nltk_english"
+    ],
+    "moreover": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "most": [
+      "nltk_english"
+    ],
+    "much": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "mucho": [
+      "nltk_spanish"
+    ],
+    "muchos": [
+      "nltk_spanish"
+    ],
+    "muito": [
+      "nltk_portuguese"
+    ],
+    "muse": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "muss": [
+      "nltk_german"
+    ],
+    "musste": [
+      "nltk_german"
+    ],
+    "mustn": [
+      "nltk_english"
+    ],
+    "mustn't": [
+      "nltk_english"
+    ],
+    "muy": [
+      "nltk_spanish"
+    ],
+    "my": [
+      "nltk_english"
+    ],
+    "myself": [
+      "nltk_english"
+    ],
+    "más": [
+      "nltk_spanish"
+    ],
+    "même": [
+      "nltk_french"
+    ],
+    "mí": [
+      "nltk_spanish"
+    ],
+    "mía": [
+      "nltk_spanish"
+    ],
+    "mías": [
+      "nltk_spanish"
+    ],
+    "mío": [
+      "nltk_spanish"
+    ],
+    "míos": [
+      "nltk_spanish"
+    ],
+    "n": [
+      "nltk_french"
+    ],
+    "na": [
+      "nltk_portuguese"
+    ],
+    "nach": [
+      "nltk_german"
+    ],
+    "nada": [
+      "nltk_spanish"
+    ],
+    "nas": [
+      "nltk_portuguese"
+    ],
+    "ne": [
+      "nltk_french",
+      "nltk_italian"
+    ],
+    "needn": [
+      "nltk_english"
+    ],
+    "needn't": [
+      "nltk_english"
+    ],
+    "negl": [
+      "nltk_italian"
+    ],
+    "negli": [
+      "nltk_italian"
+    ],
+    "nei": [
+      "nltk_italian"
+    ],
+    "nel": [
+      "nltk_italian"
+    ],
+    "nell": [
+      "nltk_italian"
+    ],
+    "nella": [
+      "nltk_italian"
+    ],
+    "nelle": [
+      "nltk_italian"
+    ],
+    "nello": [
+      "nltk_italian"
+    ],
+    "nem": [
+      "nltk_portuguese"
+    ],
+    "new": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "ni": [
+      "nltk_spanish"
+    ],
+    "nicht": [
+      "nltk_german"
+    ],
+    "nichts": [
+      "nltk_german"
+    ],
+    "no": [
+      "nltk_english",
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "noch": [
+      "nltk_german"
+    ],
+    "noi": [
+      "nltk_italian"
+    ],
+    "non": [
+      "nltk_italian"
+    ],
+    "nor": [
+      "nltk_english"
+    ],
+    "nos": [
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "nosotras": [
+      "nltk_spanish"
+    ],
+    "nosotros": [
+      "nltk_spanish"
+    ],
+    "nossa": [
+      "nltk_portuguese"
+    ],
+    "nossas": [
+      "nltk_portuguese"
+    ],
+    "nosso": [
+      "nltk_portuguese"
+    ],
+    "nossos": [
+      "nltk_portuguese"
+    ],
+    "nostra": [
+      "nltk_italian"
+    ],
+    "nostre": [
+      "nltk_italian"
+    ],
+    "nostri": [
+      "nltk_italian"
+    ],
+    "nostro": [
+      "nltk_italian"
+    ],
+    "not": [
+      "nltk_english"
+    ],
+    "note": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "notre": [
+      "nltk_french"
+    ],
+    "nous": [
+      "nltk_french"
+    ],
+    "now": [
+      "nltk_english"
+    ],
+    "nuestra": [
+      "nltk_spanish"
+    ],
+    "nuestras": [
+      "nltk_spanish"
+    ],
+    "nuestro": [
+      "nltk_spanish"
+    ],
+    "nuestros": [
+      "nltk_spanish"
+    ],
+    "num": [
+      "nltk_portuguese"
+    ],
+    "numa": [
+      "nltk_portuguese"
+    ],
+    "nun": [
+      "nltk_german"
+    ],
+    "nur": [
+      "nltk_german"
+    ],
+    "não": [
+      "nltk_portuguese"
+    ],
+    "nós": [
+      "nltk_portuguese"
+    ],
+    "o": [
+      "nltk_english",
+      "nltk_spanish",
+      "nltk_portuguese",
+      "nltk_italian"
+    ],
+    "ob": [
+      "nltk_german"
+    ],
+    "oder": [
+      "nltk_german"
+    ],
+    "of": [
+      "nltk_english"
+    ],
+    "off": [
+      "nltk_english"
+    ],
+    "offer": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "often": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "ohne": [
+      "nltk_german"
+    ],
+    "on": [
+      "nltk_english",
+      "nltk_french"
+    ],
+    "once": [
+      "nltk_english"
+    ],
+    "one": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "only": [
+      "nltk_english"
+    ],
+    "ont": [
+      "nltk_french"
+    ],
+    "or": [
+      "nltk_english"
+    ],
+    "org": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "os": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "other": [
+      "nltk_english"
+    ],
+    "otra": [
+      "nltk_spanish"
+    ],
+    "otras": [
+      "nltk_spanish"
+    ],
+    "otro": [
+      "nltk_spanish"
+    ],
+    "otros": [
+      "nltk_spanish"
+    ],
+    "ou": [
+      "nltk_french",
+      "nltk_portuguese"
+    ],
+    "our": [
+      "nltk_english"
+    ],
+    "ours": [
+      "nltk_english"
+    ],
+    "ourselves": [
+      "nltk_english"
+    ],
+    "out": [
+      "nltk_english"
+    ],
+    "over": [
+      "nltk_english"
+    ],
+    "own": [
+      "nltk_english"
+    ],
+    "oxford": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "page": [
+      "venue artifacts (Yeats Annual editorial apparatus)",
+      "boilerplate (scraped page furniture)"
+    ],
+    "pages": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "palgrave": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "paper": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "par": [
+      "nltk_french"
+    ],
+    "para": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "part": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "pas": [
+      "nltk_french"
+    ],
+    "pdf": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "pela": [
+      "nltk_portuguese"
+    ],
+    "pelas": [
+      "nltk_portuguese"
+    ],
+    "pelo": [
+      "nltk_portuguese"
+    ],
+    "pelos": [
+      "nltk_portuguese"
+    ],
+    "per": [
+      "nltk_italian"
+    ],
+    "perché": [
+      "nltk_italian"
+    ],
+    "perhaps": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "permission": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "pero": [
+      "nltk_spanish"
+    ],
+    "più": [
+      "nltk_italian"
+    ],
+    "play": [
+      "domain universal"
+    ],
+    "poco": [
+      "nltk_spanish"
+    ],
+    "poem": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "poet": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "poetic": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "poetry": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "por": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "porque": [
+      "nltk_spanish"
+    ],
+    "pour": [
+      "nltk_french"
+    ],
+    "preface": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "present": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "press": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "process": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "proquest": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "provide": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "published": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "purchase": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "qu": [
+      "nltk_french"
+    ],
+    "qual": [
+      "nltk_portuguese"
+    ],
+    "quale": [
+      "nltk_italian"
+    ],
+    "quando": [
+      "nltk_portuguese"
+    ],
+    "quanta": [
+      "nltk_italian"
+    ],
+    "quante": [
+      "nltk_italian"
+    ],
+    "quanti": [
+      "nltk_italian"
+    ],
+    "quanto": [
+      "nltk_italian"
+    ],
+    "que": [
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "quella": [
+      "nltk_italian"
+    ],
+    "quelle": [
+      "nltk_italian"
+    ],
+    "quelli": [
+      "nltk_italian"
+    ],
+    "quello": [
+      "nltk_italian"
+    ],
+    "quem": [
+      "nltk_portuguese"
+    ],
+    "questa": [
+      "nltk_italian"
+    ],
+    "queste": [
+      "nltk_italian"
+    ],
+    "questi": [
+      "nltk_italian"
+    ],
+    "questo": [
+      "nltk_italian"
+    ],
+    "qui": [
+      "nltk_french"
+    ],
+    "quien": [
+      "nltk_spanish"
+    ],
+    "quienes": [
+      "nltk_spanish"
+    ],
+    "qué": [
+      "nltk_spanish"
+    ],
+    "rather": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "re": [
+      "nltk_english"
+    ],
+    "reading": [
+      "domain universal"
+    ],
+    "reference": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "research": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "reveal": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "review": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "routledge": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "s": [
+      "nltk_english",
+      "nltk_french"
+    ],
+    "sa": [
+      "nltk_french"
+    ],
+    "same": [
+      "nltk_english"
+    ],
+    "sarai": [
+      "nltk_italian"
+    ],
+    "saranno": [
+      "nltk_italian"
+    ],
+    "sarebbe": [
+      "nltk_italian"
+    ],
+    "sarebbero": [
+      "nltk_italian"
+    ],
+    "sarei": [
+      "nltk_italian"
+    ],
+    "saremmo": [
+      "nltk_italian"
+    ],
+    "saremo": [
+      "nltk_italian"
+    ],
+    "sareste": [
+      "nltk_italian"
+    ],
+    "saresti": [
+      "nltk_italian"
+    ],
+    "sarete": [
+      "nltk_italian"
+    ],
+    "sarà": [
+      "nltk_italian"
+    ],
+    "sarò": [
+      "nltk_italian"
+    ],
+    "se": [
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_portuguese",
+      "nltk_italian"
+    ],
+    "sea": [
+      "nltk_spanish"
+    ],
+    "seamos": [
+      "nltk_spanish"
+    ],
+    "sean": [
+      "nltk_spanish"
+    ],
+    "search": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "seas": [
+      "nltk_spanish"
+    ],
+    "second": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "section": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "sehr": [
+      "nltk_german"
+    ],
+    "sei": [
+      "nltk_italian"
+    ],
+    "sein": [
+      "nltk_german"
+    ],
+    "seine": [
+      "nltk_german"
+    ],
+    "seinem": [
+      "nltk_german"
+    ],
+    "seinen": [
+      "nltk_german"
+    ],
+    "seiner": [
+      "nltk_german"
+    ],
+    "seines": [
+      "nltk_german"
+    ],
+    "seja": [
+      "nltk_portuguese"
+    ],
+    "sejam": [
+      "nltk_portuguese"
+    ],
+    "sejamos": [
+      "nltk_portuguese"
+    ],
+    "selbst": [
+      "nltk_german"
+    ],
+    "sem": [
+      "nltk_portuguese"
+    ],
+    "sentid": [
+      "nltk_spanish"
+    ],
+    "sentida": [
+      "nltk_spanish"
+    ],
+    "sentidas": [
+      "nltk_spanish"
+    ],
+    "sentido": [
+      "nltk_spanish"
+    ],
+    "sentidos": [
+      "nltk_spanish"
+    ],
+    "ser": [
+      "nltk_portuguese"
+    ],
+    "sera": [
+      "nltk_french"
+    ],
+    "serai": [
+      "nltk_french"
+    ],
+    "seraient": [
+      "nltk_french"
+    ],
+    "serais": [
+      "nltk_french"
+    ],
+    "serait": [
+      "nltk_french"
+    ],
+    "seras": [
+      "nltk_french"
+    ],
+    "serei": [
+      "nltk_portuguese"
+    ],
+    "seremos": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "serez": [
+      "nltk_french"
+    ],
+    "seria": [
+      "nltk_portuguese"
+    ],
+    "seriam": [
+      "nltk_portuguese"
+    ],
+    "series": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "seriez": [
+      "nltk_french"
+    ],
+    "serions": [
+      "nltk_french"
+    ],
+    "serons": [
+      "nltk_french"
+    ],
+    "seront": [
+      "nltk_french"
+    ],
+    "será": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "serán": [
+      "nltk_spanish"
+    ],
+    "serás": [
+      "nltk_spanish"
+    ],
+    "serão": [
+      "nltk_portuguese"
+    ],
+    "seré": [
+      "nltk_spanish"
+    ],
+    "seréis": [
+      "nltk_spanish"
+    ],
+    "sería": [
+      "nltk_spanish"
+    ],
+    "seríais": [
+      "nltk_spanish"
+    ],
+    "seríamos": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "serían": [
+      "nltk_spanish"
+    ],
+    "serías": [
+      "nltk_spanish"
+    ],
+    "ses": [
+      "nltk_french"
+    ],
+    "seu": [
+      "nltk_portuguese"
+    ],
+    "seus": [
+      "nltk_portuguese"
+    ],
+    "seáis": [
+      "nltk_spanish"
+    ],
+    "shan": [
+      "nltk_english"
+    ],
+    "shan't": [
+      "nltk_english"
+    ],
+    "share": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "she": [
+      "nltk_english"
+    ],
+    "she'd": [
+      "nltk_english"
+    ],
+    "she'll": [
+      "nltk_english"
+    ],
+    "she's": [
+      "nltk_english"
+    ],
+    "should": [
+      "nltk_english"
+    ],
+    "should've": [
+      "nltk_english"
+    ],
+    "shouldn": [
+      "nltk_english"
+    ],
+    "shouldn't": [
+      "nltk_english"
+    ],
+    "show": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "si": [
+      "nltk_italian"
+    ],
+    "sia": [
+      "nltk_italian"
+    ],
+    "siamo": [
+      "nltk_italian"
+    ],
+    "siano": [
+      "nltk_italian"
+    ],
+    "siate": [
+      "nltk_italian"
+    ],
+    "sich": [
+      "nltk_german"
+    ],
+    "sie": [
+      "nltk_german"
+    ],
+    "siente": [
+      "nltk_spanish"
+    ],
+    "siete": [
+      "nltk_italian"
+    ],
+    "sin": [
+      "nltk_spanish"
+    ],
+    "since": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "sind": [
+      "nltk_german"
+    ],
+    "sintiendo": [
+      "nltk_spanish"
+    ],
+    "size": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "so": [
+      "nltk_english",
+      "nltk_german"
+    ],
+    "sobre": [
+      "nltk_spanish"
+    ],
+    "soient": [
+      "nltk_french"
+    ],
+    "sois": [
+      "nltk_french",
+      "nltk_spanish"
+    ],
+    "soit": [
+      "nltk_french"
+    ],
+    "solche": [
+      "nltk_german"
+    ],
+    "solchem": [
+      "nltk_german"
+    ],
+    "solchen": [
+      "nltk_german"
+    ],
+    "solcher": [
+      "nltk_german"
+    ],
+    "solches": [
+      "nltk_german"
+    ],
+    "soll": [
+      "nltk_german"
+    ],
+    "sollte": [
+      "nltk_german"
+    ],
+    "some": [
+      "nltk_english"
+    ],
+    "sommes": [
+      "nltk_french"
+    ],
+    "somos": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "son": [
+      "nltk_french",
+      "nltk_spanish"
+    ],
+    "sondern": [
+      "nltk_german"
+    ],
+    "sono": [
+      "nltk_italian"
+    ],
+    "sonst": [
+      "nltk_german"
+    ],
+    "sont": [
+      "nltk_french"
+    ],
+    "sou": [
+      "nltk_portuguese"
+    ],
+    "soy": [
+      "nltk_spanish"
+    ],
+    "soyez": [
+      "nltk_french"
+    ],
+    "soyons": [
+      "nltk_french"
+    ],
+    "springer": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "sta": [
+      "nltk_italian"
+    ],
+    "stai": [
+      "nltk_italian"
+    ],
+    "stando": [
+      "nltk_italian"
+    ],
+    "stanno": [
+      "nltk_italian"
+    ],
+    "starai": [
+      "nltk_italian"
+    ],
+    "staranno": [
+      "nltk_italian"
+    ],
+    "starebbe": [
+      "nltk_italian"
+    ],
+    "starebbero": [
+      "nltk_italian"
+    ],
+    "starei": [
+      "nltk_italian"
+    ],
+    "staremmo": [
+      "nltk_italian"
+    ],
+    "staremo": [
+      "nltk_italian"
+    ],
+    "stareste": [
+      "nltk_italian"
+    ],
+    "staresti": [
+      "nltk_italian"
+    ],
+    "starete": [
+      "nltk_italian"
+    ],
+    "starà": [
+      "nltk_italian"
+    ],
+    "starò": [
+      "nltk_italian"
+    ],
+    "stava": [
+      "nltk_italian"
+    ],
+    "stavamo": [
+      "nltk_italian"
+    ],
+    "stavano": [
+      "nltk_italian"
+    ],
+    "stavate": [
+      "nltk_italian"
+    ],
+    "stavi": [
+      "nltk_italian"
+    ],
+    "stavo": [
+      "nltk_italian"
+    ],
+    "stemmo": [
+      "nltk_italian"
+    ],
+    "stesse": [
+      "nltk_italian"
+    ],
+    "stessero": [
+      "nltk_italian"
+    ],
+    "stessi": [
+      "nltk_italian"
+    ],
+    "stessimo": [
+      "nltk_italian"
+    ],
+    "steste": [
+      "nltk_italian"
+    ],
+    "stesti": [
+      "nltk_italian"
+    ],
+    "stette": [
+      "nltk_italian"
+    ],
+    "stettero": [
+      "nltk_italian"
+    ],
+    "stetti": [
+      "nltk_italian"
+    ],
+    "stia": [
+      "nltk_italian"
+    ],
+    "stiamo": [
+      "nltk_italian"
+    ],
+    "stiano": [
+      "nltk_italian"
+    ],
+    "stiate": [
+      "nltk_italian"
+    ],
+    "still": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "sto": [
+      "nltk_italian"
+    ],
+    "study": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "su": [
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "sua": [
+      "nltk_portuguese",
+      "nltk_italian"
+    ],
+    "suas": [
+      "nltk_portuguese"
+    ],
+    "subscribe": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "such": [
+      "nltk_english"
+    ],
+    "sue": [
+      "nltk_italian"
+    ],
+    "suggest": [
+      "venue artifacts (Yeats Annual editorial apparatus)",
+      "boilerplate (scraped page furniture)"
+    ],
+    "sugl": [
+      "nltk_italian"
+    ],
+    "sugli": [
+      "nltk_italian"
+    ],
+    "sui": [
+      "nltk_italian"
+    ],
+    "suis": [
+      "nltk_french"
+    ],
+    "sul": [
+      "nltk_italian"
+    ],
+    "sull": [
+      "nltk_italian"
+    ],
+    "sulla": [
+      "nltk_italian"
+    ],
+    "sulle": [
+      "nltk_italian"
+    ],
+    "sullo": [
+      "nltk_italian"
+    ],
+    "suo": [
+      "nltk_italian"
+    ],
+    "suoi": [
+      "nltk_italian"
+    ],
+    "sur": [
+      "nltk_french"
+    ],
+    "sus": [
+      "nltk_spanish"
+    ],
+    "suya": [
+      "nltk_spanish"
+    ],
+    "suyas": [
+      "nltk_spanish"
+    ],
+    "suyo": [
+      "nltk_spanish"
+    ],
+    "suyos": [
+      "nltk_spanish"
+    ],
+    "são": [
+      "nltk_portuguese"
+    ],
+    "sí": [
+      "nltk_spanish"
+    ],
+    "só": [
+      "nltk_portuguese"
+    ],
+    "t": [
+      "nltk_english",
+      "nltk_french"
+    ],
+    "ta": [
+      "nltk_french"
+    ],
+    "también": [
+      "nltk_spanish"
+    ],
+    "também": [
+      "nltk_portuguese"
+    ],
+    "tanto": [
+      "nltk_spanish"
+    ],
+    "taylor": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "te": [
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "tem": [
+      "nltk_portuguese"
+    ],
+    "temos": [
+      "nltk_portuguese"
+    ],
+    "tendremos": [
+      "nltk_spanish"
+    ],
+    "tendrá": [
+      "nltk_spanish"
+    ],
+    "tendrán": [
+      "nltk_spanish"
+    ],
+    "tendrás": [
+      "nltk_spanish"
+    ],
+    "tendré": [
+      "nltk_spanish"
+    ],
+    "tendréis": [
+      "nltk_spanish"
+    ],
+    "tendría": [
+      "nltk_spanish"
+    ],
+    "tendríais": [
+      "nltk_spanish"
+    ],
+    "tendríamos": [
+      "nltk_spanish"
+    ],
+    "tendrían": [
+      "nltk_spanish"
+    ],
+    "tendrías": [
+      "nltk_spanish"
+    ],
+    "tened": [
+      "nltk_spanish"
+    ],
+    "tenemos": [
+      "nltk_spanish"
+    ],
+    "tenga": [
+      "nltk_spanish"
+    ],
+    "tengamos": [
+      "nltk_spanish"
+    ],
+    "tengan": [
+      "nltk_spanish"
+    ],
+    "tengas": [
+      "nltk_spanish"
+    ],
+    "tengo": [
+      "nltk_spanish"
+    ],
+    "tengáis": [
+      "nltk_spanish"
+    ],
+    "tenha": [
+      "nltk_portuguese"
+    ],
+    "tenham": [
+      "nltk_portuguese"
+    ],
+    "tenhamos": [
+      "nltk_portuguese"
+    ],
+    "tenho": [
+      "nltk_portuguese"
+    ],
+    "tenida": [
+      "nltk_spanish"
+    ],
+    "tenidas": [
+      "nltk_spanish"
+    ],
+    "tenido": [
+      "nltk_spanish"
+    ],
+    "tenidos": [
+      "nltk_spanish"
+    ],
+    "teniendo": [
+      "nltk_spanish"
+    ],
+    "tenéis": [
+      "nltk_spanish"
+    ],
+    "tenía": [
+      "nltk_spanish"
+    ],
+    "teníais": [
+      "nltk_spanish"
+    ],
+    "teníamos": [
+      "nltk_spanish"
+    ],
+    "tenían": [
+      "nltk_spanish"
+    ],
+    "tenías": [
+      "nltk_spanish"
+    ],
+    "terei": [
+      "nltk_portuguese"
+    ],
+    "teremos": [
+      "nltk_portuguese"
+    ],
+    "teria": [
+      "nltk_portuguese"
+    ],
+    "teriam": [
+      "nltk_portuguese"
+    ],
+    "terá": [
+      "nltk_portuguese"
+    ],
+    "terão": [
+      "nltk_portuguese"
+    ],
+    "teríamos": [
+      "nltk_portuguese"
+    ],
+    "tes": [
+      "nltk_french"
+    ],
+    "teu": [
+      "nltk_portuguese"
+    ],
+    "teus": [
+      "nltk_portuguese"
+    ],
+    "teve": [
+      "nltk_portuguese"
+    ],
+    "text": [
+      "domain universal"
+    ],
+    "than": [
+      "nltk_english"
+    ],
+    "that": [
+      "nltk_english"
+    ],
+    "that'll": [
+      "nltk_english"
+    ],
+    "the": [
+      "nltk_english"
+    ],
+    "their": [
+      "nltk_english"
+    ],
+    "theirs": [
+      "nltk_english"
+    ],
+    "them": [
+      "nltk_english"
+    ],
+    "themselves": [
+      "nltk_english"
+    ],
+    "then": [
+      "nltk_english"
+    ],
+    "there": [
+      "nltk_english"
+    ],
+    "therefore": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "these": [
+      "nltk_english"
+    ],
+    "they": [
+      "nltk_english"
+    ],
+    "they'd": [
+      "nltk_english"
+    ],
+    "they'll": [
+      "nltk_english"
+    ],
+    "they're": [
+      "nltk_english"
+    ],
+    "they've": [
+      "nltk_english"
+    ],
+    "this": [
+      "nltk_english"
+    ],
+    "those": [
+      "nltk_english"
+    ],
+    "though": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "three": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "through": [
+      "nltk_english"
+    ],
+    "thus": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "ti": [
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "tiene": [
+      "nltk_spanish"
+    ],
+    "tienen": [
+      "nltk_spanish"
+    ],
+    "tienes": [
+      "nltk_spanish"
+    ],
+    "tinha": [
+      "nltk_portuguese"
+    ],
+    "tinham": [
+      "nltk_portuguese"
+    ],
+    "tive": [
+      "nltk_portuguese"
+    ],
+    "tivemos": [
+      "nltk_portuguese"
+    ],
+    "tiver": [
+      "nltk_portuguese"
+    ],
+    "tivera": [
+      "nltk_portuguese"
+    ],
+    "tiveram": [
+      "nltk_portuguese"
+    ],
+    "tiverem": [
+      "nltk_portuguese"
+    ],
+    "tivermos": [
+      "nltk_portuguese"
+    ],
+    "tivesse": [
+      "nltk_portuguese"
+    ],
+    "tivessem": [
+      "nltk_portuguese"
+    ],
+    "tivéramos": [
+      "nltk_portuguese"
+    ],
+    "tivéssemos": [
+      "nltk_portuguese"
+    ],
+    "to": [
+      "nltk_english"
+    ],
+    "todo": [
+      "nltk_spanish"
+    ],
+    "todos": [
+      "nltk_spanish"
+    ],
+    "toi": [
+      "nltk_french"
+    ],
+    "ton": [
+      "nltk_french"
+    ],
+    "too": [
+      "nltk_english"
+    ],
+    "toolbar": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "tra": [
+      "nltk_italian"
+    ],
+    "tu": [
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_portuguese",
+      "nltk_italian"
+    ],
+    "tua": [
+      "nltk_portuguese",
+      "nltk_italian"
+    ],
+    "tuas": [
+      "nltk_portuguese"
+    ],
+    "tue": [
+      "nltk_italian"
+    ],
+    "tuo": [
+      "nltk_italian"
+    ],
+    "tuoi": [
+      "nltk_italian"
+    ],
+    "tus": [
+      "nltk_spanish"
+    ],
+    "tutti": [
+      "nltk_italian"
+    ],
+    "tutto": [
+      "nltk_italian"
+    ],
+    "tuve": [
+      "nltk_spanish"
+    ],
+    "tuviera": [
+      "nltk_spanish"
+    ],
+    "tuvierais": [
+      "nltk_spanish"
+    ],
+    "tuvieran": [
+      "nltk_spanish"
+    ],
+    "tuvieras": [
+      "nltk_spanish"
+    ],
+    "tuvieron": [
+      "nltk_spanish"
+    ],
+    "tuviese": [
+      "nltk_spanish"
+    ],
+    "tuvieseis": [
+      "nltk_spanish"
+    ],
+    "tuviesen": [
+      "nltk_spanish"
+    ],
+    "tuvieses": [
+      "nltk_spanish"
+    ],
+    "tuvimos": [
+      "nltk_spanish"
+    ],
+    "tuviste": [
+      "nltk_spanish"
+    ],
+    "tuvisteis": [
+      "nltk_spanish"
+    ],
+    "tuviéramos": [
+      "nltk_spanish"
+    ],
+    "tuviésemos": [
+      "nltk_spanish"
+    ],
+    "tuvo": [
+      "nltk_spanish"
+    ],
+    "tuya": [
+      "nltk_spanish"
+    ],
+    "tuyas": [
+      "nltk_spanish"
+    ],
+    "tuyo": [
+      "nltk_spanish"
+    ],
+    "tuyos": [
+      "nltk_spanish"
+    ],
+    "twitter": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "two": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "tém": [
+      "nltk_portuguese"
+    ],
+    "tínhamos": [
+      "nltk_portuguese"
+    ],
+    "tú": [
+      "nltk_spanish"
+    ],
+    "um": [
+      "nltk_portuguese",
+      "nltk_german"
+    ],
+    "uma": [
+      "nltk_portuguese"
+    ],
+    "un": [
+      "nltk_french",
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "una": [
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "und": [
+      "nltk_german"
+    ],
+    "under": [
+      "nltk_english"
+    ],
+    "une": [
+      "nltk_french"
+    ],
+    "university": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "uno": [
+      "nltk_spanish",
+      "nltk_italian"
+    ],
+    "unos": [
+      "nltk_spanish"
+    ],
+    "uns": [
+      "nltk_german"
+    ],
+    "unser": [
+      "nltk_german"
+    ],
+    "unsere": [
+      "nltk_german"
+    ],
+    "unserem": [
+      "nltk_german"
+    ],
+    "unseren": [
+      "nltk_german"
+    ],
+    "unseres": [
+      "nltk_german"
+    ],
+    "unter": [
+      "nltk_german"
+    ],
+    "until": [
+      "nltk_english"
+    ],
+    "up": [
+      "nltk_english"
+    ],
+    "updated": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "use": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "ve": [
+      "nltk_english"
+    ],
+    "very": [
+      "nltk_english"
+    ],
+    "vi": [
+      "nltk_italian"
+    ],
+    "viel": [
+      "nltk_german"
+    ],
+    "você": [
+      "nltk_portuguese"
+    ],
+    "vocês": [
+      "nltk_portuguese"
+    ],
+    "voi": [
+      "nltk_italian"
+    ],
+    "volume": [
+      "venue artifacts (Yeats Annual editorial apparatus)",
+      "boilerplate (scraped page furniture)"
+    ],
+    "vom": [
+      "nltk_german"
+    ],
+    "von": [
+      "nltk_german"
+    ],
+    "vor": [
+      "nltk_german"
+    ],
+    "vos": [
+      "nltk_french",
+      "nltk_portuguese"
+    ],
+    "vosotras": [
+      "nltk_spanish"
+    ],
+    "vosotros": [
+      "nltk_spanish"
+    ],
+    "vostra": [
+      "nltk_italian"
+    ],
+    "vostre": [
+      "nltk_italian"
+    ],
+    "vostri": [
+      "nltk_italian"
+    ],
+    "vostro": [
+      "nltk_italian"
+    ],
+    "votre": [
+      "nltk_french"
+    ],
+    "vous": [
+      "nltk_french"
+    ],
+    "vuestra": [
+      "nltk_spanish"
+    ],
+    "vuestras": [
+      "nltk_spanish"
+    ],
+    "vuestro": [
+      "nltk_spanish"
+    ],
+    "vuestros": [
+      "nltk_spanish"
+    ],
+    "wa": [
+      "domain universal"
+    ],
+    "war": [
+      "nltk_german"
+    ],
+    "waren": [
+      "nltk_german"
+    ],
+    "warst": [
+      "nltk_german"
+    ],
+    "warwick": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "was": [
+      "nltk_english",
+      "nltk_german"
+    ],
+    "wasn": [
+      "nltk_english"
+    ],
+    "wasn't": [
+      "nltk_english"
+    ],
+    "way": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "we": [
+      "nltk_english"
+    ],
+    "we'd": [
+      "nltk_english"
+    ],
+    "we'll": [
+      "nltk_english"
+    ],
+    "we're": [
+      "nltk_english"
+    ],
+    "we've": [
+      "nltk_english"
+    ],
+    "weg": [
+      "nltk_german"
+    ],
+    "weil": [
+      "nltk_german"
+    ],
+    "weiter": [
+      "nltk_german"
+    ],
+    "welche": [
+      "nltk_german"
+    ],
+    "welchem": [
+      "nltk_german"
+    ],
+    "welchen": [
+      "nltk_german"
+    ],
+    "welcher": [
+      "nltk_german"
+    ],
+    "welches": [
+      "nltk_german"
+    ],
+    "well": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "wenn": [
+      "nltk_german"
+    ],
+    "werde": [
+      "nltk_german"
+    ],
+    "werden": [
+      "nltk_german"
+    ],
+    "were": [
+      "nltk_english"
+    ],
+    "weren": [
+      "nltk_english"
+    ],
+    "weren't": [
+      "nltk_english"
+    ],
+    "what": [
+      "nltk_english"
+    ],
+    "when": [
+      "nltk_english"
+    ],
+    "where": [
+      "nltk_english"
+    ],
+    "whether": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "which": [
+      "nltk_english"
+    ],
+    "while": [
+      "nltk_english"
+    ],
+    "who": [
+      "nltk_english"
+    ],
+    "whom": [
+      "nltk_english"
+    ],
+    "why": [
+      "nltk_english"
+    ],
+    "wie": [
+      "nltk_german"
+    ],
+    "wieder": [
+      "nltk_german"
+    ],
+    "wiley": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "will": [
+      "nltk_english",
+      "nltk_german"
+    ],
+    "william": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "wir": [
+      "nltk_german"
+    ],
+    "wird": [
+      "nltk_german"
+    ],
+    "wirst": [
+      "nltk_german"
+    ],
+    "with": [
+      "nltk_english"
+    ],
+    "wo": [
+      "nltk_german"
+    ],
+    "wollen": [
+      "nltk_german"
+    ],
+    "wollte": [
+      "nltk_german"
+    ],
+    "won": [
+      "nltk_english"
+    ],
+    "won't": [
+      "nltk_english"
+    ],
+    "work": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "would": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "wouldn": [
+      "nltk_english"
+    ],
+    "wouldn't": [
+      "nltk_english"
+    ],
+    "www": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "während": [
+      "nltk_german"
+    ],
+    "würde": [
+      "nltk_german"
+    ],
+    "würden": [
+      "nltk_german"
+    ],
+    "xml": [
+      "boilerplate (scraped page furniture)"
+    ],
+    "y": [
+      "nltk_english",
+      "nltk_french",
+      "nltk_spanish"
+    ],
+    "ya": [
+      "nltk_spanish"
+    ],
+    "yeat": [
+      "domain universal"
+    ],
+    "yeats": [
+      "domain universal"
+    ],
+    "yeatsian": [
+      "domain universal"
+    ],
+    "yet": [
+      "venue artifacts (Yeats Annual editorial apparatus)"
+    ],
+    "yo": [
+      "nltk_spanish"
+    ],
+    "you": [
+      "nltk_english"
+    ],
+    "you'd": [
+      "nltk_english"
+    ],
+    "you'll": [
+      "nltk_english"
+    ],
+    "you're": [
+      "nltk_english"
+    ],
+    "you've": [
+      "nltk_english"
+    ],
+    "your": [
+      "nltk_english"
+    ],
+    "yours": [
+      "nltk_english"
+    ],
+    "yourself": [
+      "nltk_english"
+    ],
+    "yourselves": [
+      "nltk_english"
+    ],
+    "zu": [
+      "nltk_german"
+    ],
+    "zum": [
+      "nltk_german"
+    ],
+    "zur": [
+      "nltk_german"
+    ],
+    "zwar": [
+      "nltk_german"
+    ],
+    "zwischen": [
+      "nltk_german"
+    ],
+    "à": [
+      "nltk_french",
+      "nltk_portuguese"
+    ],
+    "às": [
+      "nltk_portuguese"
+    ],
+    "è": [
+      "nltk_italian"
+    ],
+    "é": [
+      "nltk_portuguese"
+    ],
+    "él": [
+      "nltk_spanish"
+    ],
+    "éramos": [
+      "nltk_spanish",
+      "nltk_portuguese"
+    ],
+    "étaient": [
+      "nltk_french"
+    ],
+    "étais": [
+      "nltk_french"
+    ],
+    "était": [
+      "nltk_french"
+    ],
+    "étant": [
+      "nltk_french"
+    ],
+    "étante": [
+      "nltk_french"
+    ],
+    "étantes": [
+      "nltk_french"
+    ],
+    "étants": [
+      "nltk_french"
+    ],
+    "étiez": [
+      "nltk_french"
+    ],
+    "étions": [
+      "nltk_french"
+    ],
+    "été": [
+      "nltk_french"
+    ],
+    "étée": [
+      "nltk_french"
+    ],
+    "étées": [
+      "nltk_french"
+    ],
+    "étés": [
+      "nltk_french"
+    ],
+    "êtes": [
+      "nltk_french"
+    ],
+    "über": [
+      "nltk_german"
+    ]
+  }
+}
