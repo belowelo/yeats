@@ -46,7 +46,7 @@ The research pipeline collates search-term result data in the form of titles, ab
 
 The research motive has two internal limitations that we weren't able to completely overcome, but should be negligible for most usecases. 
 
-The first is the infeasibility of defining, let alone completely parsing out the scope of which kinds of 'non-KCI' research we would like to collate. For simplicity of LDA topic modeling, the pipeline is currently configured to parse out non-English research languages.^[The resulting dataset is currently labeled 'Anglophone,' given that English-language publications within the sample research domain were predominantly from anglophone research institutions. The label itself may potentially be inaccurate or misleading, depending on the research domain.] 
+The first is the infeasibility of defining, let alone completely parsing out the scope of which kinds of 'non-KCI' research we would like to collate. For simplicity of LDA topic modeling, the pipeline is currently configured to parse out non-English research languages.
 
 The second is the potential abundance of false positives within a given research domain (for example, W.B. Yeats vs. the YEATS protein domain in biology). A false-positives.txt is included to identify any negative search terms that might assist in removing false positives from data harvestation, although this has proven not to be 100% effective.
 
@@ -169,7 +169,7 @@ This distinction manifests most clearly in the discussion of Yeats's later-life 
 
 *from Marjorie Howes, "The Rule of Kindred: eugenics, Purgatory, and Yeats's race philosophy" (1996)*
 
-As hypothesized, following the evaluation of Yeats as a sympathiser and advocate for fascism and eugenics^[As initially and most prominently argued for in Conor Cruise O'Brien's 1965 landmark essay "Passion and Cunning: An Essay on the Politics of W. B. Yeats," although ironically O'Brien himself would later come to identify strongly with reactionary politics.], it appears to have become somewhat customary for scholars to issue a disclaimer in their abstracts when positioning Yeats' work as critically productive. Stephanie J. Pocock, for the *New Hibernia Review*, argues: 
+As hypothesized, following the evaluation of Yeats as a sympathiser and advocate for fascism and eugenics, it appears to have become somewhat customary for scholars to issue a disclaimer in their abstracts when positioning Yeats' work as critically productive. Stephanie J. Pocock, for the *New Hibernia Review*, argues: 
 
 > ...It is misleading to make him essentially non-political, on the strength of certain disclaimers, refusals, and ironies.
 
@@ -210,7 +210,7 @@ Kim Jooseong, for example, writing for *Yeats Journal of Korea* in 2005, positio
 
 Kim's thesis presents a reasonable complication and challenge to Edward Said's conception of Yeats as a decolonial poet who failed mid-way in transcending nativist thought into liberatory thought, and a quite more critical one at that, as it identifies his inability to transcend nativism into a 'liberated' state as a *personal* and *artistic* failure. 
 
-Kim's paper, in that it identifies this evident incompatibility between Yeats's political identity and the postcolonial impulse as potentially generative, also predates Marjorie Howes' similar maneuver in 2006 in her book chapter, "Yeats and the Postcolonial," by a year^[This 2006 turn represents a significant change in Howes' own thinking about Yeats's configuration in relation to the postcolonial, as evident in her 1996 essay "The Rule of Kindred" in which she mirrored Said's analysis of Yeats's nativism to illustrate that the concept of nationality poses a challenge for postcolonialism as a whole.]: 
+Kim's paper, in that it identifies this evident incompatibility between Yeats's political identity and the postcolonial impulse as potentially generative, also predates Marjorie Howes' similar maneuver in 2006 in her book chapter, "Yeats and the Postcolonial," by a year. (This 2006 turn represents a significant change in Howes' own thinking about Yeats's configuration in relation to the postcolonial, as evident in her 1996 essay "The Rule of Kindred" in which she mirrored Said's analysis of Yeats's nativism to illustrate that the concept of nationality poses a challenge for postcolonialism as a whole.): 
 
 > I think this apparent difficulty is a good thing; rather than being an obstacle in the reader’s way, it is precisely what makes it useful to explore the relationship between Yeats’s writings and postcolonial studies. This exploration may raise more questions than it answers, and the reader may find this frustrating, but if she can adjust her expectations, she will also find that there are varieties of uncertainty that are more illuminating, and even more enjoyable, than certainty.
 
