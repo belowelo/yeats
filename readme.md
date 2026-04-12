@@ -22,7 +22,7 @@ The process, as documented in the demonstration below, should be reproducible wi
 
 - **Step 2:** Apply for a [KCI API key](https://www.kci.go.kr/kciportal/po/openapi/openApiKeyRequest.kci)  
 
-- **Step 3:** In the /scripts directory, edit "config.yaml", "works.csv", and "stopwords.txt"
+- **Step 3:** In the /data directory, edit "config.yaml", "works.csv", and "stopwords.txt"
 
 - (Optional) if you anticipate that your search terminology will flag false positives, configure "false-positives.txt" 
 
