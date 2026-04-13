@@ -18,7 +18,7 @@ The process, as documented in the demonstration below, should be reproducible wi
 
 - **Step 0:** In [Releases], download the latest release and unzip the contents into a new folder.
 
-- **Step 1:** Download [Obsidian]()
+- **Step 1:** Download [Obsidian](https://obsidian.md/download) and [Python 3](https://www.python.org/downloads/) 
 
 - **Step 2:** Apply for a [KCI API key](https://www.kci.go.kr/kciportal/po/openapi/openApiKeyRequest.kci), then copy-paste it into the ".env" in /scripts using a text editor
 
