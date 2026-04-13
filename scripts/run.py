@@ -18,6 +18,22 @@ import re
 import subprocess
 from pathlib import Path
 
+# Auto-install dependencies if missing
+def _ensure_deps():
+    deps = {"nltk": "nltk", "sklearn": "scikit-learn", "requests": "requests", "yaml": "pyyaml"}
+    missing = []
+    for module, package in deps.items():
+        try:
+            __import__(module)
+        except ImportError:
+            missing.append(package)
+    if missing:
+        print(f"  installing dependencies: {', '.join(missing)}...")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", *missing, "-q"])
+        print("  done.\n")
+
+_ensure_deps()
+
 # Fix Windows console encoding
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
