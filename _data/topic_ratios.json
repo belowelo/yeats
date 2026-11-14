@@ -1,0 +1,212 @@
+{
+  "corpus_sizes": {
+    "KCI": 698,
+    "angl": 1507
+  },
+  "baseline": {
+    "KCI": 31.7,
+    "angl": 68.3
+  },
+  "topics": [
+    {
+      "topic_id": 9,
+      "name": "Topic 9 — NAME ME",
+      "total": 736,
+      "corpora": {
+        "KCI": {
+          "count": 424,
+          "pct_of_corpus": 60.7,
+          "pct_of_topic": 57.6
+        },
+        "angl": {
+          "count": 312,
+          "pct_of_corpus": 20.7,
+          "pct_of_topic": 42.4
+        }
+      },
+      "ratio": 2.93,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI overrep"
+    },
+    {
+      "topic_id": 2,
+      "name": "Topic 2 — NAME ME",
+      "total": 193,
+      "corpora": {
+        "KCI": {
+          "count": 75,
+          "pct_of_corpus": 10.7,
+          "pct_of_topic": 38.9
+        },
+        "angl": {
+          "count": 118,
+          "pct_of_corpus": 7.8,
+          "pct_of_topic": 61.1
+        }
+      },
+      "ratio": 1.37,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI overrep"
+    },
+    {
+      "topic_id": 1,
+      "name": "Topic 1 — NAME ME",
+      "total": 366,
+      "corpora": {
+        "KCI": {
+          "count": 128,
+          "pct_of_corpus": 18.3,
+          "pct_of_topic": 35.0
+        },
+        "angl": {
+          "count": 238,
+          "pct_of_corpus": 15.8,
+          "pct_of_topic": 65.0
+        }
+      },
+      "ratio": 1.16,
+      "ratio_label": "KCI/angl",
+      "signal": "balanced"
+    },
+    {
+      "topic_id": 0,
+      "name": "Topic 0 — NAME ME",
+      "total": 357,
+      "corpora": {
+        "KCI": {
+          "count": 112,
+          "pct_of_corpus": 16.0,
+          "pct_of_topic": 31.4
+        },
+        "angl": {
+          "count": 245,
+          "pct_of_corpus": 16.3,
+          "pct_of_topic": 68.6
+        }
+      },
+      "ratio": 0.99,
+      "ratio_label": "KCI/angl",
+      "signal": "balanced"
+    },
+    {
+      "topic_id": 8,
+      "name": "Topic 8 — NAME ME",
+      "total": 670,
+      "corpora": {
+        "KCI": {
+          "count": 189,
+          "pct_of_corpus": 27.1,
+          "pct_of_topic": 28.2
+        },
+        "angl": {
+          "count": 481,
+          "pct_of_corpus": 31.9,
+          "pct_of_topic": 71.8
+        }
+      },
+      "ratio": 0.85,
+      "ratio_label": "KCI/angl",
+      "signal": "balanced"
+    },
+    {
+      "topic_id": 6,
+      "name": "Topic 6 — NAME ME",
+      "total": 491,
+      "corpora": {
+        "KCI": {
+          "count": 120,
+          "pct_of_corpus": 17.2,
+          "pct_of_topic": 24.4
+        },
+        "angl": {
+          "count": 371,
+          "pct_of_corpus": 24.6,
+          "pct_of_topic": 75.6
+        }
+      },
+      "ratio": 0.7,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI underrep"
+    },
+    {
+      "topic_id": 5,
+      "name": "Topic 5 — NAME ME",
+      "total": 457,
+      "corpora": {
+        "KCI": {
+          "count": 105,
+          "pct_of_corpus": 15.0,
+          "pct_of_topic": 23.0
+        },
+        "angl": {
+          "count": 352,
+          "pct_of_corpus": 23.4,
+          "pct_of_topic": 77.0
+        }
+      },
+      "ratio": 0.64,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI underrep"
+    },
+    {
+      "topic_id": 3,
+      "name": "Topic 3 — NAME ME",
+      "total": 180,
+      "corpora": {
+        "KCI": {
+          "count": 40,
+          "pct_of_corpus": 5.7,
+          "pct_of_topic": 22.2
+        },
+        "angl": {
+          "count": 140,
+          "pct_of_corpus": 9.3,
+          "pct_of_topic": 77.8
+        }
+      },
+      "ratio": 0.62,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI underrep"
+    },
+    {
+      "topic_id": 7,
+      "name": "Topic 7 — NAME ME",
+      "total": 319,
+      "corpora": {
+        "KCI": {
+          "count": 67,
+          "pct_of_corpus": 9.6,
+          "pct_of_topic": 21.0
+        },
+        "angl": {
+          "count": 252,
+          "pct_of_corpus": 16.7,
+          "pct_of_topic": 79.0
+        }
+      },
+      "ratio": 0.57,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI underrep"
+    },
+    {
+      "topic_id": 4,
+      "name": "Topic 4 — NAME ME",
+      "total": 384,
+      "corpora": {
+        "KCI": {
+          "count": 59,
+          "pct_of_corpus": 8.5,
+          "pct_of_topic": 15.4
+        },
+        "angl": {
+          "count": 325,
+          "pct_of_corpus": 21.6,
+          "pct_of_topic": 84.6
+        }
+      },
+      "ratio": 0.39,
+      "ratio_label": "KCI/angl",
+      "signal": "KCI underrep"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+# Works list for subject assignment (step 04)
+# Format: Title | type | year | match_term1, match_term2, 한국어
+# One work per line. Lines starting with # are comments.
+# Match terms are case-insensitive substrings checked against title + abstract.
+
+# --- POEMS ---
+The Wanderings of Oisin | poem | 1889 | wanderings of oisin, 어쉰의 방랑
+The Song of the Happy Shepherd | poem | 1889 | song of the happy shepherd
+The Stolen Child | poem | 1889 | stolen child
+Down by the Salley Gardens | poem | 1889 | salley gardens, sally gardens
+The Lake Isle of Innisfree | poem | 1890 | lake isle of innisfree, innisfree, 이니스프리의 호도
+Who Goes with Fergus? | poem | 1892 | who goes with fergus, goes with fergus
+When You Are Old | poem | 1893 | when you are old
+The White Birds | poem | 1893 | white birds, 하얀 새들
+The Song of Wandering Aengus | poem | 1899 | song of wandering aengus, wandering aengus, 방황하는 엥거스의 노래
+Song of the Old Mother | poem | 1899 | song of the old mother
+The Madness of King Goll | poem | 1887 | madness of king goll, king goll, 골 왕의 광기
+Adam's Curse | poem | 1903 | adam's curse, adams curse
+Baile and Aillinn | poem | 1903 | baile and aillinn, 발랴와 아일린
+The Grey Rock | poem | 1913 | grey rock, gray rock, 회색바위
+No Second Troy | poem | 1910 | no second troy, second troy
+September 1913 | poem | 1913 | september 1913, 1913년 9월
+A Coat | poem | 1914 | a coat
+Easter, 1916 | poem | 1916 | easter 1916, easter, 1916, 1916 부활절, 1916년 부활절
+An Irish Airman Foresees His Death | poem | 1919 | irish airman foresees his death, irish airman
+In Memory of Major Robert Gregory | poem | 1918 | in memory of major robert gregory, major robert gregory
+The Phases of the Moon | poem | 1919 | phases of the moon
+Ego Dominus Tuus | poem | 1917 | ego dominus tuus
+The Scholars | poem | 1919 | the scholars
+On Being Asked for a War Poem | poem | 1915 | on being asked for a war poem
+The Second Coming | poem | 1920 | second coming, 재림
+A Prayer for My Daughter | poem | 1919 | prayer for my daughter
+Sailing to Byzantium | poem | 1928 | sailing to byzantium, 비잔티움 항행
+The Tower | poem and collection | 1928 | the tower
+Meditations in Time of Civil War | poem | 1923 | meditations in time of civil war, 내전기의 명상, 내전기의 사색
+Nineteen Hundred and Nineteen | poem | 1928 | nineteen hundred and nineteen, 1919년
+Leda and the Swan | poem | 1924 | leda and the swan, 레다와 백조
+Among School Children | poem | 1928 | among school children, 학교 아이들
+A Dialogue of Self and Soul | poem | 1929 | dialogue of self and soul
+Byzantium | poem | 1932 | byzantium, 비잔티움
+Crazy Jane poems | poem | 1932 | crazy jane, 미친 제인
+Coole Park and Ballylee, 1931 | poem | 1931 | coole park and ballylee, 1931년 쿨파크와 밸릴리
+The Circus Animals' Desertion | poem | 1939 | circus animals' desertion, circus animals
+The Black Tower | poem | 1939 | the black tower, black tower, 검은 탑
+Under Ben Bulben | poem | 1939 | under ben bulben, ben bulben, 벌벤 산 아래
+The Man and the Echo | poem | 1939 | man and the echo
+Cuchulain Comforted | poem | 1939 | cuchulain comforted
+Long-Legged Fly | poem | 1938 | long-legged fly, long legged fly, 소금쟁이
+Lapis Lazuli | poem | 1938 | lapis lazuli, 청금석 부조, 청금석부조
+The Gyres | poem | 1938 | the gyres
+Two Songs of a Fool | poem | 1919 | two songs of a fool, 바보의 노래 두 곡
+The Leaders of the Crowd | poem | 1921 | leaders of the crowd
+
+# --- COLLECTIONS ---
+Crossways | collection | 1889 | crossways
+The Countess Kathleen and Various Legends and Lyrics | collection | 1892 | countess kathleen and various legends
+The Wind Among the Reeds | collection | 1899 | wind among the reeds, 갈대 속의 바람, 갈대밭의 바람
+In the Seven Woods | collection | 1903 | in the seven woods, seven woods
+The Green Helmet and Other Poems | collection | 1910 | green helmet
+Responsibilities | collection | 1914 | responsibilities
+The Wild Swans at Coole | poem and collection | 1917 | wild swans at coole
+Michael Robartes and the Dancer | collection | 1921 | michael robartes and the dancer, robartes and the dancer
+The Winding Stair | collection | 1929 | winding stair
+Words for Music Perhaps | collection | 1932 | words for music perhaps
+Parnell's Funeral and Other Poems | collection | 1935 | parnell's funeral, 파넬의 장례식과 기타 시들
+A Full Moon in March | play and collection | 1935 | full moon in march
+New Poems | collection | 1938 | new poems, 새 시들
+Last Poems and Two Plays | collection | 1939 | last poems
+The Statues | poem | 1939 | the statues, 조각상
+Supernatural Songs | poem_sequence | 1934 | supernatural songs, 초자연의 노래, 초자연적 노래
+A Man Young and Old | poem_sequence | 1928 | a man young and old, man young and old, 젊었을 때와 늙었을 때의 한 남성
+A Woman Young and Old | poem_sequence | 1929 | a woman young and old, woman young and old, 젊었을 때와 늙었을 때의 여자
+All Souls' Night | poem | 1920 | all souls' night, all souls night, 모든 영혼들의 밤
+The Two Kings | poem | 1913 | the two kings, two kings, 두 왕
+
+# --- PLAYS ---
+Mosada | play | 1886 | mosada
+The Land of Heart's Desire | play | 1894 | land of heart's desire, land of hearts desire, 마음이 열망하는 곳
+The Countess Cathleen | play | 1892 | countess cathleen
+Cathleen Ní Houlihan | play | 1902 | cathleen ni houlihan, cathleen ní houlihan, 캐슬린
+The Pot of Broth | play | 1902 | pot of broth, 죽 냄비, 치킨 국물 뚝배기, 치킨 국물
+The Shadowy Waters | play | 1900 | shadowy waters, 환영의 바다
+Where There is Nothing | play | 1903 | where there is nothing
+The Hour Glass | play | 1903 | hour glass, hour-glass, 모래시계, 모래 시계
+The King's Threshold | play | 1904 | king's threshold, kings threshold, 왕궁문턱
+On Baile's Strand | play | 1904 | baile's strand, 베일의 해변, 발야스 스트랜드
+Deirdre | play | 1907 | deirdre
+At the Hawk's Well | play | 1917 | hawk's well, 매의 우물
+The Only Jealousy of Emer | play | 1919 | only jealousy of emer, jealousy of emer, 영혼의 심판
+The Dreaming of the Bones | play | 1919 | dreaming of the bones, 뼈의 꿈
+Calvary | play | 1920 | calvary, 캘버리
+The Player Queen | play | 1922 | player queen, 배우 여왕
+The Cat and the Moon | play | 1924 | cat and the moon
+The Resurrection | play | 1927 | the resurrection, 부활
+Sophocles' King Oedipus | play | 1928 | sophocles' king oedipus, king oedipus, 오이디푸스
+The Words Upon the Window Pane | play | 1934 | words upon the window pane, words upon the window-pane, 유리창에 새겨진 글자, 창문 위에 쓰인
+The King of the Great Clock Tower | play | 1934 | king of the great clock tower, great clock tower
+Wheels and Butterflies | play | 1934 | wheels and butterflies
+The Herne's Egg | play | 1938 | herne's egg, hernes egg
+Purgatory | play | 1938 | purgatory, 연옥
+The Death of Cuchulain | play | 1939 | death of cuchulain
+The Unicorn from the Stars | play | 1908 | unicorn from the stars, 별나라에서 온 외뿔달린 백마, 별나라에서 온
+
+# --- PROSE ---
+Fairy and Folk Tales of the Irish Peasantry | prose | 1888 | fairy and folk tales of the irish peasantry, folk tales of the irish peasantry
+The Celtic Twilight | prose | 1893 | celtic twilight, 캘트족의 황혼
+The Secret Rose | prose | 1897 | secret rose
+Ideas of Good and Evil | prose | 1903 | ideas of good and evil
+Stories of Red Hanrahan | prose | 1905 | red hanrahan
+Discoveries | prose | 1907 | discoveries
+The Cutting of an Agate | prose | 1912 | cutting of an agate
+Reveries Over Childhood and Youth | prose | 1916 | reveries over childhood and youth
+Per Amica Silentia Lunae | prose | 1918 | per amica silentia lunae, per amica silentia, 달의 친절한 침묵, 달의 친밀한 침묵
+The Trembling of the Veil | prose | 1922 | trembling of the veil
+A Vision | prose | 1925 | a vision, 환상록, 비전
+The Bounty of Sweden | prose | 1925 | bounty of sweden
+Autobiographies | prose | 1926 | autobiographies
+On the Boiler | prose | 1939 | on the boiler

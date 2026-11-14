@@ -1,0 +1,70 @@
+# Exclusion rules (step 03b)
+#
+# One rule per line. A prefix declares what the rule matches:
+#
+#   term:   a phrase, matched case-insensitively against title + abstract
+#   title:  one exact title
+#   venue:  an exact source-journal name
+#
+# An unprefixed line is read as "term:".
+#
+# 03b fails the run on an unmatched rule while cleaning.strict_rules is true.
+#
+# Step 03b writes _data/cleaning_candidates.md with records it did not remove.
+
+# YEATS protein domain (chromatin biology)
+yeats domain
+yeats family
+histone crotonylation
+histone acetylation
+histone benzoylation
+histone succinylation
+af9 yeats
+enl yeats
+mllt1 yeats
+taf14 yeats
+gas41 yeats
+yaf9 yeats
+dpf and yeats
+chromatin reader
+epigenetic mark
+histone mark
+acetyllysine
+
+# Robert S. Yeats (geologist)
+geology of earthquakes
+living with earthquakes
+
+# Yeast microbiology (misspelled as "yeats"/"yeat")
+saccharomyces
+kluyveromyces
+biocontrol of botrytis
+food preservatives
+cocoa beans flavor
+rna-seq assembler artifact
+tumors of the central nervous
+
+# --- Single-record exclusions, by exact title ---
+title: Regulation of Aerobic and Anaerobic<scp>d</scp>-Malate Metabolism of_Escherichia coli_by the LysR-Type Regulator DmlR (YeaT)
+title: Nashua, New Hampshire 139th municipal government report, fiscal yeat July 1, 1991-June 30, 1992.
+title: Yeats Valves and Controls Inc.
+title: Yeats Valves and Controls Inc. (V 2.7)
+title: Contemporary Company Law 2 ed, Farouk H.I. Cassim, Maleka Cassim, Rehana Cassim, Richard Jooste, Joanne Shev & Jacqueline Yeats (Eds.) : book review
+
+# --- Candidates surfaced by 03b's review queue. Active. ---
+#
+# composer Marc Yeats; a CD of his piano works
+title: The Anatomy of Melancholy - The Piano Music of Marc Yeats (CD Recording)
+#
+# Journal of Parasitology award acceptance speech that quotes Yeats in its title
+title: Acceptance of the Clark P. Read Mentor Award:Students, Opportunity, Serendipity, and W.B. Yeats: "_Education is Not the Filling of a Pail; It is the Lighting of a Fire_"
+#
+# "Yet Another Tool Suite" -- RNA-seq bioinformatics, black walnut transcriptome
+title: YeATS - a tool suite for analyzing RNA-seq derived transcriptome identifies a highly transcribed putative extensin in heartwood/sapwood transition zone in black walnut
+#
+# disability-services paper using a Yeats line as an epigraph
+title: Tomorrows Disability Officer - A Cornerstone on the Universal Design Campus 'there are no strangers here – only friends you haven't met yet" - W B Yeats
+#
+# Bulletin of the Seismological Society of America -- Robert Yeats the geologist.
+title: Comment on "A Vertical Exposure of the 1999 Surface Rupture of the Chelungpu Fault at Wufeng, Western Taiwan: Structural and Paleoseismic Implications for an Active Thrust Fault," by Jian-Cheng Lee, Yue-Gau Chen, Kerry Sieh, Karl Mueller, Wen-Shan Chen, Hao-Tsu Chu, Yu-Chang Chan, Charles Rubin, and Robert Yeats
+title: Reply to "Comment on `A Vertical Exposure of the 1999 Surface Rupture of the Chelungpu Fault at Wufeng, Western Taiwan: Structural and Paleoseismic Implications for an Active Thrust Fault,' by Jian-Cheng Lee, Yue-Gau Chen, Kerry Sieh, Karl Mueller, Wen-Shan Chen, Hao-Tsu Chu, Yu-Chang Chan, Charles Rubin, and Robert Yeats," by Yuan-Hsi Lee, Shih-Ting Lu, Tung-Sheng Shih, and Wei-Yu Wu

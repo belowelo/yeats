@@ -1,0 +1,23 @@
+---
+title: "Behind the Scenes: Rediscovering the Theater Designs of Anne Yeats"
+authors: ["Elaine Sisson"]
+year: 2021
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.1353/eir.2021.0007"
+journal: "Éire-Ireland"
+strands:
+  - "[[Art, Joyce, Theatre, Dublin, Beckett]]"
+strand_probs:
+  Art, Joyce, Theatre, Dublin, Beckett: 0.754
+probe_matches: []
+works_discussed: []
+---
+
+## Abstract
+
+Behind the Scenes:Rediscovering the Theater Designs of Anne Yeats Elaine Sisson (bio) In the spring of 2019 I organized a historical-research project with students at the Institute of Art, Design, and Technology (IADT) in Dublin that focused on theater design. We were interested in lost or partial accounts of Irish scenography, and particularly in exploring why stage designers, especially female ones, often fall out of history. Anne Yeats (1919-2001) became the center of our attention as we scoured reviews and visited the Yeats archive at the National Gallery of Ireland, examining her costume and set designs, letters, notes, prop lists, playbills, and sketchbooks.1 Students were outraged, in ways particular to young enthusiasts, at how Anne's work was rarely mentioned in histories of the Abbey Theatre despite her residency there as designer. They also objected to how she was often referred to as "daughter of" W. B. or "niece of" Jack Yeats rather than as an artist in her own right. Working with Wikimedia, we updated her Wikipedia entries and created links to sites on lesser-known playwrights and companies she had worked with-for example, the Abbey Experimental Theatre and the Lyric Theatre Company.2 Clearly, a more complete record of Anne Yeats's theater designs needed to be written if her work was to be fully recognized as part of the professionalization [End Page 209] of scenography in Ireland. This essay represents my contribution to that history. Known now primarily as a painter, Anne Yeats worked as a set and costume designer during the 1930s for the Abbey Theatre and in the 1940s and 1950s for a number of freelance projects, including Austin Clarke's Lyric Theatre Company. Born in Dublin in 1919, she was the eldest child of William Butler and George (Hyde-Lees) Yeats and had learned brush drawing from her aunts Susan and Elizabeth Yeats, as well as her uncle, the painter Jack Yeats. Anne displayed an early talent for drawing and won prizes in national competitions for children run by the Royal Dublin Society in the 1920s. Later, she spent three years at the Royal Hibernian Academy School under the tutelage of Maurice MacGonigal and Dermod O'Brien. She first apprenticed to Tanya Moiseiwitsch at the Abbey Theatre in 1936, later succeeding her as chief designer in 1939. Although Anne Yeats's work in scenography warrants retrieval and consideration, tracing the history of her contributions to Irish theater design exposes the difficulty of documenting and acknowledging such design work. Until the establishment of designers as professional artists and the development of an informed understanding of what they do, their artistic contributions could too often be subsumed into other roles. On occasion, playbills failed to mention a designer at all, even though every production demands a set, costumes, props, lighting-in short, the creation of a credible imagined world on the stage. Designers might be simply described as scenic or set painters, or credited with the catch-all "settings," as if there were no more labor involved in creating a set than simply placing objects on the stage. In Anne Yeats's case, for example, she might be credited for set-building, but not for the considerable design work needed to create the set. Archival research suggests, furthermore, that her designs for the play Harlequin's Position may have been attributed to her uncle Jack Yeats. Issues of gender could also influence the shaping of design histories. Although these are issues not directly relevant to Anne Yeats, women artists may fall out of history because of marriage, name changes, and family commitments. However, other considerations also affected women: their contributions to collaborative endeavors may not have been fully acknowledged-particularly within the ephemeral world of theater. [End Page 210] Professionalizing Design Standards at the Abbey Theatre Production standards at the Abbey were considerably less professional than at the Gate Theatre; by the early 1930s the Gate, under the aesthetic direction of Micheál Mac Liammóir and Hilton Edwards, had established a reputation for scenographic flair and excellence.3 From its inception in 1928 the company sought to stage experimental, contemporary, and international works, with...
+
+
+## Links
+
+*No specific Yeats works identified. General Yeats scholarship.*

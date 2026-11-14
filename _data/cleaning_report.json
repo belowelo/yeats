@@ -1,0 +1,130 @@
+{
+  "subject": "Yeats",
+  "harvested": 2481,
+  "modelled": 2211,
+  "by_corpus": {
+    "angl": 1512,
+    "KCI": 699
+  },
+  "excluded_total": 270,
+  "excluded_by_rule": {
+    "term:yeats domain": 60,
+    "term:mllt1 yeats": 2,
+    "term:yeats family": 23,
+    "term:histone benzoylation": 1,
+    "term:dpf and yeats": 1,
+    "term:epigenetic mark": 8,
+    "term:histone acetylation": 3,
+    "term:gas41 yeats": 6,
+    "term:histone succinylation": 1,
+    "term:af9 yeats": 13,
+    "term:yaf9 yeats": 3,
+    "term:saccharomyces": 6,
+    "term:histone crotonylation": 3,
+    "flagged:boilerplate-or-hand-removed": 110,
+    "term:enl yeats": 17,
+    "term:chromatin reader": 7,
+    "term:acetyllysine": 2,
+    "term:biocontrol of botrytis": 1,
+    "term:taf14 yeats": 1,
+    "title:Regulation of Aerobic and Anaerobic<scp>d</scp>-Malate Metabolism of_Escherichia coli_by the LysR-Type Regulator DmlR (YeaT)": 1,
+    "title:YeATS - a tool suite for analyzing RNA-seq derived transcriptome identifies a highly transcribed putative extensin in heartwood/sapwood transition zone in black walnut": 1,
+    "term:kluyveromyces": 2,
+    "abstract-too-short": 38,
+    "term:geology of earthquakes": 2,
+    "too-few-tokens": 14,
+    "title:Contemporary Company Law 2 ed, Farouk H.I. Cassim, Maleka Cassim, Rehana Cassim, Richard Jooste, Joanne Shev & Jacqueline Yeats (Eds.) : book review": 1,
+    "title:Acceptance of the Clark P. Read Mentor Award:Students, Opportunity, Serendipity, and W.B. Yeats: \"_Education is Not the Filling of a Pail; It is the Lighting of a Fire_\"": 1,
+    "title:Comment on \"A Vertical Exposure of the 1999 Surface Rupture of the Chelungpu Fault at Wufeng, Western Taiwan: Structural and Paleoseismic Implications for an Active Thrust Fault,\" by Jian-Cheng Lee, Yue-Gau Chen, Kerry Sieh, Karl Mueller, Wen-Shan Chen, Hao-Tsu Chu, Yu-Chang Chan, Charles Rubin, and Robert Yeats": 1,
+    "title:Reply to \"Comment on `A Vertical Exposure of the 1999 Surface Rupture of the Chelungpu Fault at Wufeng, Western Taiwan: Structural and Paleoseismic Implications for an Active Thrust Fault,' by Jian-Cheng Lee, Yue-Gau Chen, Kerry Sieh, Karl Mueller, Wen-Shan Chen, Hao-Tsu Chu, Yu-Chang Chan, Charles Rubin, and Robert Yeats,\" by Yuan-Hsi Lee, Shih-Ting Lu, Tung-Sheng Shih, and Wei-Yu Wu": 1,
+    "title:Yeats Valves and Controls Inc.": 1,
+    "duplicate-of-kci-record": 9,
+    "title:Yeats Valves and Controls Inc. (V 2.7)": 1,
+    "term:living with earthquakes": 2,
+    "title:The Anatomy of Melancholy - The Piano Music of Marc Yeats (CD Recording)": 1,
+    "term:cocoa beans flavor": 1,
+    "term:food preservatives": 1,
+    "title:Nashua, New Hampshire 139th municipal government report, fiscal yeat July 1, 1991-June 30, 1992.": 1,
+    "term:rna-seq assembler artifact": 1,
+    "term:tumors of the central nervous": 1,
+    "title:Tomorrows Disability Officer - A Cornerstone on the Universal Design Campus 'there are no strangers here – only friends you haven't met yet\" - W B Yeats": 1,
+    "term:histone mark": 2
+  },
+  "rules_in_file": 37,
+  "rules_matching_nothing": [],
+  "inert_guard_terms": [],
+  "flagged_titles_matching_no_record": [],
+  "reassigned_to_kci": [
+    {
+      "title": "Larkin's Transformation of Yeats",
+      "venue": "신영어영문학"
+    },
+    {
+      "title": "A Vision을 통한 Yeats 읽기",
+      "venue": "한국 예이츠 저널"
+    },
+    {
+      "title": "Visionary Landscape in Coleridge and Yeats",
+      "venue": "The Yeats Journal of Korea"
+    },
+    {
+      "title": "Yeats and T. S. Eliot",
+      "venue": "T.S.엘리엇연구"
+    },
+    {
+      "title": "Irish Catholicism in Poetries of Yeats and Heaney",
+      "venue": "The Yeats Journal of Korea"
+    },
+    {
+      "title": "W. B. Yeats 명상시의 사상적 배경",
+      "venue": "인문학연구"
+    },
+    {
+      "title": "Yeats 시의 동양적 象數 비교: A Vision의 수적 상징",
+      "venue": "한국 예이츠 저널"
+    },
+    {
+      "title": "In Light of The \"Wave\" Poetics: Yeats, Shelley, Milton, and e e cummings",
+      "venue": "The Yeats Journal of Korea"
+    },
+    {
+      "title": "Acceptance of Hybridity and the Expansion of Identity: Focusing on Seamus Heaney and William Butler Yeats*",
+      "venue": "The Yeats Journal of Korea"
+    },
+    {
+      "title": "Yeats's Use of Myth in His Poetry: Unity in Diversity",
+      "venue": "The Yeats Journal of Korea"
+    },
+    {
+      "title": "A De-constructive Reading: The Gateless Gate in W. B. Yeats's Poetry",
+      "venue": "The Yeats Journal of Korea"
+    }
+  ],
+  "dropped_as_kci_duplicates": [
+    "The Transnational Poetics of Modern Writers in the World of William Butler Yeats : Yeats, Lady Gregory, Pound, and Eliot",
+    "The Unreality of W. B. Yeats and Park Mok-wol",
+    "A Comparative Study of Hopkins and Yeats: Revolt against Dualism",
+    "The Magical Tradition in W. B. Yeats and Hargrave Jennings's Rosicrucianism",
+    "Staging the Past in Yeats and Beckett : Purgatory and Krapp's Last Tape",
+    "Comparison of Playfulness between W. B. Yeats and Shin Kyeong-lim",
+    "W. B. Yeats and Sterling A. Brown, the Irish and New Negro Renaissances, and the Vernacular Performer",
+    "The Supernatural Elements as Metaphors of Life in W. B. Yeats's Purgatory and Haruki Murakami's Kafka on the Shore*",
+    "Yeats's Sligo and Eliot's East Coker"
+  ],
+  "candidates_surfaced": 30,
+  "candidates_strong_signal": 0,
+  "year_spread_by_decade": {
+    "angl": {
+      "1990": 205,
+      "2000": 316,
+      "2010": 644,
+      "2020": 347
+    },
+    "KCI": {
+      "1990": 3,
+      "2000": 100,
+      "2010": 422,
+      "2020": 174
+    }
+  }
+}

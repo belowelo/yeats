@@ -1,0 +1,7 @@
+# Vocabulary probe stems (step 06 + 07)
+# Case-insensitive substrings matched against title + abstract.
+politic
+fascis
+eugenic
+reception
+debate

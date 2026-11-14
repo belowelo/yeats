@@ -1,0 +1,84 @@
+# EDIT THIS BEFORE RUNNING
+# This file is the only place the pipeline's parameters live. The per-subject
+# word lists live beside it:
+#   works.txt / works.csv    - primary texts + match terms (step 04)
+#   false-positives.txt      - exclusion rules (step 03b)
+#   stopwords.txt            - LDA stopwords (step 05a)
+#   vocabulary-probes.txt    - probe stems (steps 06-07)
+
+subject: "Yeats"
+
+# Forms of the subject's name that count as a mention, in every script the
+# corpus uses. Step 03b flags any record containing none of these as a
+# candidate false positive.
+subject_terms: ["yeats", "예이츠"]
+
+# Search terms for each corpus.
+search_terms:
+  openalex: ["Yeats", "Yeats's", "W.B. Yeats", "William Butler Yeats"]
+  kci: ["예이츠", "Yeats"]
+
+# Harvest window. Step 03b reports the per-corpus year spread of what was
+# actually collected.
+date_range: [1990, 2025]
+
+# Output paths (relative to vault root)
+vault_root: ".."  # relative to scripts/ directory
+paths:
+  papers: "papers"         # contains kci/ and openalex/ subdirs
+  papers_kci: "papers/kci"
+  papers_openalex: "papers/openalex"
+  strands: "strands"
+  works: "works"
+  data: "_data"
+
+# --- Cleaning (step 03b) ---
+cleaning:
+  # Minimum abstract length, in characters, to be usable for topic modelling.
+  min_abstract_chars: 50
+  # Minimum tokens surviving preprocessing.
+  min_tokens: 5
+  # Field vocabulary. Orders the review queue; drops nothing.
+  field_vocabulary: ["poem", "poetry", "poet", "poetic", "verse", "stanza",
+                     "literary", "literature", "criticism", "critic", "play",
+                     "drama", "dramatic", "prosody", "metaphor", "imagery",
+                     "symbolism", "lyric", "essay", "prose", "fiction",
+                     "aesthetic"]
+  # Venues moved from the anglophone side to the KCI side; duplicates of an
+  # existing KCI record are dropped.
+  reassign_to_kci_venues:
+    - "The Yeats Journal of Korea"
+    - "한국 예이츠 저널"
+    - "영미어문학"
+    - "현대영미드라마"
+    - "Acta Koreana"
+    - "T.S.엘리엇연구"
+    - "The British and American Language and Literature Association of Korea"
+    - "신영어영문학"
+    - "영어영문학연구"
+    - "인문학연구"
+    - "The Journal of East-West Comparative Literature"
+  # Fuzzy-title threshold for calling a reassigned record a duplicate of an
+  # existing KCI record.
+  duplicate_title_cutoff: 0.90
+  # How many low-field-vocabulary records to put in the review queue.
+  candidate_review_size: 30
+  # Fail the run if an exclusion rule in false-positives.txt matches no record.
+  strict_rules: true
+
+# --- LDA parameters (step 05) ---
+lda:
+  num_topics: 10       # starting point - adjust after first run
+  no_below: 5          # ignore words appearing fewer than N documents
+  no_above: 0.5        # ignore words in >N% of documents
+  topic_threshold: 0.20  # a paper is tagged with every topic at or above this
+                         # share of its content (multi-tagging).
+  # Random initialisation for the LDA fit. Fixed so the run reproduces.
+  seed: 5
+  max_iter: 500        # iteration ceiling.
+  evaluate_every: 10   # how often to test the convergence tolerance. Must be
+                       # positive; scikit-learn's default is -1.
+  perp_tol: 0.1        # stop when perplexity improves by less than this.
+  n_jobs: 16           # Explicit integer, not -1. The E-step is split into this
+                       # many slices and each slice's statistics are summed
+                       # separately.

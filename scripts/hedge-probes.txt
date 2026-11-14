@@ -1,0 +1,5 @@
+# Hedge probe stems. Companion set to vocabulary-probes.txt.
+# Case-insensitive substring match against the English title + abstract.
+
+conflict
+ambival

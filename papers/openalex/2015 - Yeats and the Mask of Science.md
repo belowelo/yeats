@@ -1,0 +1,25 @@
+---
+title: "Yeats and the Mask of Science"
+authors: ["Aoife Lynch"]
+year: 2015
+source: "[[OpenAlex]]"
+doi: "https://doi.org/10.4000/etudesirlandaises.4574"
+journal: "Études irlandaises"
+strands:
+  - "[[Art, Vision, Philosophy, Influence, Idea]]"
+strand_probs:
+  Art, Vision, Philosophy, Influence, Idea: 0.968
+probe_matches: []
+works_discussed:
+  - "[[A Vision]]"
+---
+
+## Abstract
+
+This paper views science through the prism of the Yeatsian mask, that is, as an appropriation of willed creativity through the dynamics of opposition. It uses Jean Francois Lyotard's philosophy of changing episteme in the twentieth century to provide for an understanding of science and art as inter-penetrative. It considers the Yeatsian conception of universal realities as explicated in A Vision (1925, 1937) and as further expressed through his poetry as representative of this era of changing knowledge.
+
+
+## Links
+
+**Discusses:**
+- [[A Vision]]
