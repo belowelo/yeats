@@ -11,13 +11,13 @@ The process, as documented in the demonstration below, should be reproducible wi
 
 ---
 
- Step 0: In [Releases](), download the latest release and unzip the contents into a new folder.
+ Step 0: In [Releases](https://github.com/belowelo/yeats/releases), download the latest release and unzip the contents into a new folder.
  
- Step 1: Download [Obsidian]() and [Python 3]()
+ Step 1: Download [Obsidian](https://obsidian.md/) and [Python 3](https://www.python.org/downloads/)
 
  Step 2: In the /scripts directory, edit "config.yaml" (set: 'subject,' 'subject_terms', and 'search_terms'), then "works.csv" (and run "works_convert.py" afterwards). The remaining word lists — "stopwords.txt", "false-positives.txt" and "vocabulary-probes.txt" — are prompted for during the run.
 
- Step 3: Apply for a [KCI API key](), fetch the [OpenAlex API key]() from your account. Alternatively, utilize the Excel (.xls) data package download from KCI's search engine, and select every parameter.
+ Step 3: Apply for a [KCI API key](https://www.kci.go.kr/kciportal/po/openapi/openApiKeyRequest.kci), fetch the [OpenAlex API key](https://openalex.org/settings/api-key) from your account. Alternatively, utilize the Excel (.xls) data package download from KCI's search engine, and select every parameter.
 
  Step 4: open "run.bat"
  
