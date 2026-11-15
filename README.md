@@ -17,7 +17,7 @@ The process, as documented in the demonstration below, should be reproducible wi
 
  Step 2: In the /scripts directory, edit "config.yaml" (set: 'subject,' 'subject_terms', and 'search_terms'), then "works.csv" (and run "works_convert.py" afterwards). The remaining word lists — "stopwords.txt", "false-positives.txt" and "vocabulary-probes.txt" — are prompted for during the run.
 
- Step 3: Apply for a [KCI API key](https://www.kci.go.kr/kciportal/po/openapi/openApiKeyRequest.kci), fetch the [OpenAlex API key](https://openalex.org/settings/api-key) from your account. Alternatively, utilize the Excel (.xls) data package download from KCI's search engine, and select every parameter.
+ Step 3: Apply for a [KCI API key](https://www.kci.go.kr/kciportal/po/openapi/openApiKeyRequest.kci), fetch the [OpenAlex API key](https://openalex.org/signup) from your account. Alternatively, utilize the Excel (.xls) data package download from KCI's search engine, and select every parameter.
 
  Step 4: open "run.bat"
  
