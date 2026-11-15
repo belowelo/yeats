@@ -19,26 +19,11 @@ together less often than chance would predict.
 Perplexity and coherence answer different questions. Perplexity compares fits
 of the same k; to compare k, refit at each k and score each fit with this.
 
---rank-seeds refits the model at the configured k from every seed in the
-published set and reports where the configured seed falls once the fits are
-ordered by perplexity, lowest first. The vectoriser is fit once and shared, so
-every fit scores the same documents against the same vocabulary and only the
-random initialisation moves between them.
-
-What that ranking is: a reproduction record. It shows whether the deposited
-fit is an ordinary draw among initialisations or an outlier among them. It is
-not evidence that k is right — every fit in the ranking has the same k, and
-perplexity has no absolute scale — and a rank is not a quality: the seeds in
-the band below the best are fits of the same corpus that differ only in where
-they started.
-
 Inputs:  _data/lda_topics.json, _data/all_papers.json, _data/stopwords.json
 Outputs: console table (markdown); --out <file> also writes it
 
-Dependencies: numpy, nltk, pyyaml; scikit-learn for --rank-seeds, which is
-the only mode that refits anything. Nothing here writes to _data/.
+Dependencies: numpy, nltk, pyyaml
 Run: python metrics_fit.py [--top 10] [--out file.md]
-     python metrics_fit.py --rank-seeds [--seeds 5,21,42] [--progress p.json]
 """
 
 import argparse
@@ -58,16 +43,6 @@ import _text
 
 SCRIPT_DIR = Path(__file__).parent
 EPS = 1e-12
-
-# The seeds the paper reports: the original twelve of the stability run, then
-# the forty-seed wider sample. --seeds overrides the list; the default is the
-# published set and does not change.
-#
-# 123 falls in both halves, so the two lists name 52 slots but 51 distinct
-# initialisations. The ranking is over the distinct ones: fitting 123 twice
-# would put the same fit in the table twice and inflate the denominator.
-PUBLISHED_SEEDS = ([42, 7, 123, 2024, 31337, 1, 2, 3, 5, 8, 13, 21]
-                   + list(range(100, 140)))
 
 
 class WindowCounts:
@@ -134,110 +109,11 @@ def modelled_docs(papers, stopwords):
     return docs
 
 
-def shared_dtm(docs, lda):
-    """One document-term matrix for every fit in a ranking, built with 05's
-    vectoriser settings. Perplexities computed over different vocabularies are
-    not comparable, so the vectoriser is fit once here and never per seed."""
-    from sklearn.feature_extraction.text import CountVectorizer
-    vec = CountVectorizer(min_df=lda.get("no_below", 5),
-                          max_df=lda.get("no_above", 0.5),
-                          max_features=lda.get("max_features", 10000))
-    return vec.fit_transform([" ".join(d) for d in docs])
-
-
-def rank_seeds(dtm, seeds, lda, progress=None):
-    """Refit at the configured k from each seed and return
-    {seed: {perplexity, n_iter, converged}}.
-
-    Every parameter but random_state comes from config.yaml, n_jobs included:
-    it is an explicit integer there because -1 resolves to the host core count
-    and the numbers move with the machine. `progress` names a JSON file
-    rewritten after each fit, so a long sweep stays inspectable while it runs
-    and an interrupted one resumes from the seeds already fitted."""
-    from sklearn.decomposition import LatentDirichletAllocation
-
-    k, max_iter = int(lda.get("num_topics", 10)), int(lda.get("max_iter", 500))
-    # The sweep is only resumable onto the same corpus, k and ceiling.
-    stamp = {"k": k, "max_iter": max_iter,
-             "documents": dtm.shape[0], "vocabulary": dtm.shape[1]}
-    done = {}
-    if progress and Path(progress).exists():
-        prev = json.loads(Path(progress).read_text(encoding="utf-8"))
-        if prev.get("fit_over") == stamp:
-            done = {int(s): r for s, r in prev.get("seeds", {}).items()}
-
-    for seed in seeds:
-        if seed in done:
-            continue
-        model = LatentDirichletAllocation(
-            n_components=k,
-            max_iter=max_iter,
-            learning_method=lda.get("learning_method", "batch"),
-            random_state=seed,
-            n_jobs=lda.get("n_jobs", 16),
-            evaluate_every=lda.get("evaluate_every", 10),
-            perp_tol=lda.get("perp_tol", 0.1),
-        )
-        model.fit(dtm)
-        done[seed] = {"perplexity": float(model.perplexity(dtm)),
-                      "n_iter": int(model.n_iter_),
-                      "converged": int(model.n_iter_) < max_iter}
-        if progress:
-            Path(progress).write_text(
-                json.dumps({"fit_over": stamp,
-                            "seeds": {str(s): done[s] for s in sorted(done)}},
-                           indent=1), encoding="utf-8")
-    return {s: done[s] for s in seeds}
-
-
-def ranking_report(results, seed, deposited=None):
-    """The rank line rin quotes, then the per-seed table, lowest perplexity
-    first. Returns (rank_tag_for_the_fit_line, lines)."""
-    order = sorted(results, key=lambda s: results[s]["perplexity"])
-    pxs = [results[s]["perplexity"] for s in order]
-    rank = order.index(seed) + 1 if seed in results else None
-    stalled = [s for s in order if not results[s]["converged"]]
-
-    tag = " (rank %d of %d seeds)" % (rank, len(order)) if rank else ""
-    lines = []
-    if rank:
-        lines.append("seed %d: perplexity %.2f — rank %d of %d (range %.2f–%.2f)"
-                     % (seed, results[seed]["perplexity"], rank, len(order),
-                        pxs[0], pxs[-1]))
-        if deposited is not None and abs(results[seed]["perplexity"] - deposited) > 0.005:
-            lines.append("! the refit gives %.2f where the deposited record says %.2f"
-                         " — the sweep is not on 05's code path"
-                         % (results[seed]["perplexity"], deposited))
-    else:
-        lines.append("configured seed %d is not in the ranked set" % seed)
-    lines += ["",
-              "%d fits of the same k over the same documents and vocabulary;"
-              " %d did not converge within the iteration ceiling."
-              % (len(order), len(stalled)),
-              "",
-              "| rank | seed | perplexity | n_iter | converged |",
-              "|---|---|---|---|---|"]
-    for i, s in enumerate(order, 1):
-        r = results[s]
-        mark = "**%d**" % s if s == seed else "%d" % s
-        lines.append("| %d | %s | %.2f | %d | %s |"
-                     % (i, mark, r["perplexity"], r["n_iter"],
-                        "yes" if r["converged"] else "NO"))
-    return tag, lines
-
-
 def main():
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
     ap = argparse.ArgumentParser()
     ap.add_argument("--top", type=int, default=10, help="top words per topic")
     ap.add_argument("--out", help="also write the table to this file")
-    ap.add_argument("--rank-seeds", action="store_true",
-                    help="refit at the configured k from every published seed and"
-                         " report where the configured seed ranks by perplexity")
-    ap.add_argument("--seeds",
-                    help="comma-separated seeds, overriding the published set")
-    ap.add_argument("--progress",
-                    help="with --rank-seeds: JSON file rewritten after each fit")
     args = ap.parse_args()
 
     with open(SCRIPT_DIR / "config.yaml", encoding="utf-8") as f:
@@ -253,19 +129,8 @@ def main():
     w10, w110 = WindowCounts(docs, 10), WindowCounts(docs, 110)
 
     fit = lda.get("fit", {})
-    rank_tag, rank_lines = "", []
-    if args.rank_seeds:
-        lda_cfg = cfg.get("lda", {})
-        seeds = ([int(s) for s in args.seeds.split(",")] if args.seeds
-                 else list(PUBLISHED_SEEDS))
-        seeds = list(dict.fromkeys(seeds))  # distinct, in the order given
-        results = rank_seeds(shared_dtm(docs, lda_cfg), seeds, lda_cfg, args.progress)
-        rank_tag, rank_lines = ranking_report(
-            results, int(lda_cfg.get("seed", fit.get("seed", 0))),
-            lda.get("perplexity"))
-
-    lines = ["k %s · seed %s · perplexity %s%s · %s iterations of %s%s · %d documents"
-             % (lda["num_topics"], fit.get("seed", "?"), lda.get("perplexity"), rank_tag,
+    lines = ["k %s · seed %s · perplexity %s · %s iterations of %s%s · %d documents"
+             % (lda["num_topics"], fit.get("seed", "?"), lda.get("perplexity"),
                 fit.get("n_iter", "?"), fit.get("max_iter", "?"),
                 "" if fit.get("converged", True) else " (did NOT converge)", len(docs)),
              "",
@@ -279,8 +144,6 @@ def main():
         nps.append(npm)
         lines.append("| %d | %s | %.3f | %+.3f |" % (tid, ", ".join(words[:6]), cv, npm))
     lines.append("| mean | | %.3f | %+.3f |" % (np.mean(cvs), np.mean(nps)))
-    if rank_lines:
-        lines += [""] + rank_lines
     out = "\n".join(lines)
     print(out)
     if args.out:
