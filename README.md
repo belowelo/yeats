@@ -9,6 +9,7 @@ The aim of the project is to create a research environment that allows us to, th
 
 The process, as documented in the demonstration below, should be reproducible with any search term through the following steps:
 
+### setup
 ---
 
  Step 0: In [Releases](https://github.com/belowelo/yeats/releases), download the latest release and unzip the contents into a new folder.
