@@ -92,6 +92,7 @@ RESEARCHER: ok, so on the kci front... there's literally no paper without an eng
 
 RESEARCHER: for one, do we need korean probing if all the kci papers have english abstracts? we don't, right?.
 
+---
 
 **26 March 2026**
 
@@ -111,6 +112,7 @@ RESEARCHER: i think strand readers should just be merged with the strand files? 
 
 RESEARCHER: wait, does anything in the pipeline actually do anything that clean entities and corpus hub links do?
 
+---
 
 **1 April 2026**
 
@@ -126,6 +128,7 @@ RESEARCHER: can we make the probe also generate a probe_results doc for the corp
 
 RESEARCHER: something wrong with 04.subject_assign.py: there are no wikilinks to texts anywhere
 
+---
 
 **9 April 2026**
 
@@ -133,27 +136,33 @@ RESEARCHER: can we make it so that run.bat lives outside the scripts directory?
 
 RESEARCHER: add a column and append the total cotag rate, and order it vertically by that.
 
+---
+
 **11 April 2026**
 
 RESEARCHER: hm, can we modify the script so that in the KCI and OpenAlex pages themselves it also shows the strand analysis tables?
 
 RESEARCHER: just like the strand pages individually. then i think you can also add a general document that produces the tables for the entire corpora?
 
+---
 
 **9 October 2026**
 
 RESEARCHER: requiring things to have either an abstract or summary field i don't think is harsh especially for a study like this
 
+---
 
 **11 October 2026**
 
 RESEARCHER: the co tag table is not up to date with the correct names for this round of topic models. something is broken
 
+---
 
 **14 October 2026**
 
 RESEARCHER: also, you should integrate this probe pass into the existing scripts in the same way we ran the verdict/hedge probes, so that the github uploads of the scripts reflect everything that goes in the paper datawise
 
+---
 
 **9 November 2026**
 
