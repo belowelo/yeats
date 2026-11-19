@@ -4,8 +4,6 @@ As we utilized a version of Claude Code which runs locally on the researchers' m
 
 The following collection has been partially redacted and is not holistically inclusive, as the LLM conversations were often conducted in conjunction with adjacent projects and alongside minor and unrelated personal use on the part of the authors.
 
-prompts - excerpted from the local Claude Code session logs (`~/.claude/projects/[project]/[session-id].jsonl`)
-
 ---
 
 **initial prompt:**
@@ -162,3 +160,8 @@ RESEARCHER: also, you should integrate this probe pass into the existing scripts
 RESEARCHER: re: the wizard; 1) ability to determine starting seed and k in the wizard. // and maybe 2) a separate set of fisher p-value, perplexity, c_v, and NPMI determination scripts. these should be able to be run against the outputs once they've already been generated, right?
 
 RESEARCHER: okay, first of all. i want to do some seed checks: write me a script that samples 52 seeds, and report back to me with a printed list of seeds-topic tables-coherence for all of them.
+
+---
+
+excerpted from local Claude Code session logs (`~/.claude/projects/[project]/[session-id].jsonl`) 
+*Claude Code*, Claude Opus 4.7 and 5, Anthropic, Mar.-Nov. 2026 https://claude.ai/
