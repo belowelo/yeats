@@ -12,7 +12,7 @@ The process, as documented in the demonstration below, should be reproducible wi
 ### setup
 ---
 
- Step 0: In [Releases](https://github.com/belowelo/yeats/releases), download the latest release and unzip the contents into a new folder.
+ Step 0: In [Releases](https://github.com/belowelo/yeats/archive/refs/tags/datapackage.zip), download 'source code (zip)' and unzip the contents into a new folder.
  
  Step 1: Download [Obsidian](https://obsidian.md/) and [Python 3](https://www.python.org/downloads/)
 
@@ -120,7 +120,7 @@ This research complies with the NRF (한국연구재단)'s guidelines on generat
 
 - The qualitative analysis of the resultant abstracts and topics, as published in our paper, were conducted entirely by the researchers. Code generation and design through LLMs is software industry standard: text and qualitative analysis generation for academia is not.
 
-- A partial transcript of the LLM prompts utilized to spec, write, and edit the code is available in transcripts.md. As we utilized a version of Claude Code which runs locally on the researchers' machines, the conversations are not accessible in the form of an online conversation log. We have opted to publish a collection of partially redacted and edited partial transcripts to indicate the scope of the technology's use, as the LLM conversation was conducted in conjunction with adjacent projects and alongside minor and unrelated personal use.
+- A partial transcript of the LLM prompts utilized to spec, write, and edit the code is available in [PROMPTS.md](PROMPTS.md). We're of the understanding that in the digital humanities, the methodological development process for coding is typically not catalogued in the appendix. For the sake of academic and methodological transparency during this period of controversy and uncertainty, however, we've opted to include a log of user-prompts utilized to instruct the bot to write and modify the code.
 
 ---
 
